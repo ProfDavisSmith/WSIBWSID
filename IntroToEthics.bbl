@@ -1,0 +1,1273 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Appiah1}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1afb7ba0c5ba6d78af51ce9aaba51710}{%
+           family={Appiah},
+           familyi={A\bibinitperiod},
+           given={Kwame\bibnamedelima Anthony},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \strng{fullhash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \strng{bibnamehash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \strng{authorbibnamehash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \strng{authornamehash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \strng{authorfullhash}{1afb7ba0c5ba6d78af51ce9aaba51710}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{9}
+      \field{title}{What will future generations condemn us for?}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb www.washingtonpost.com/wp-dyn/content/article/2010/09/24/AR2010092404113.html?hpid=opinionsbox1
+      \endverb
+      \verb{url}
+      \verb www.washingtonpost.com/wp-dyn/content/article/2010/09/24/AR2010092404113.html?hpid=opinionsbox1
+      \endverb
+    \endentry
+    \entry{BackYoungsun1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03719c2fba5fc866a0600e1721ee2fe3}{%
+           family={Back},
+           familyi={B\bibinitperiod},
+           given={Youngsun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Honolulu}%
+      }
+      \list{publisher}{1}{%
+        {U of Hawaii P}%
+      }
+      \strng{namehash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \strng{fullhash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \strng{bibnamehash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \strng{authorbibnamehash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \strng{authornamehash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \strng{authorfullhash}{03719c2fba5fc866a0600e1721ee2fe3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the core doctrines of Mozi is his teaching on jian'ai, and this is discussed primarily in the three chapters bearing this term in their title. The term "jian'ai" and its theme also appear scattered throughout the Mozi, such as in chapters like Standards and Rules and the Intention of Tian. Jian'ai has been translated into English as Universal Love, Inclusive Care, Impartial Care, and other similar phrases. As these various translations suggest, there is not yet a prevailing consensus on the exact meaning of jian'ai. Despite his renowned clarity and simplicity and his skill at argumentation, those who try to pin down Mozi's teaching on jian'ai soon encounter difficulties. In addition to these difficulties, another obstacle to deciphering Mozi's jian'ai is Mengzi's criticisms of Mozi. The author have tried here to make sense of Mozi's doctrine of jian'ai and argued that Mengzi's simple appraisal of love without distinctions cannot capture the complexity of Mozi's thought.}
+      \field{issn}{1529-1898}
+      \field{journaltitle}{Philosophy east \& west}
+      \field{number}{4}
+      \field{title}{Reconstructing Mozi's Jian'ai}
+      \field{volume}{67}
+      \field{year}{2017}
+      \field{pages}{1092\bibrangedash}
+      \range{pages}{-1}
+      \keyw{499-200 B.C. Warring States period ; Argumentation ; Chinese culture ; Chinese literature ; Criticism and interpretation ; discrimination ; English language ; Ethics ; impartiality ; Love ; Meaning ; Mengzi ; Mengzi(ca. 372-ca. 289 B.C.) ; Mo-tzu ; Mozi ; Mozi (philosopher) ; Philosophers ; Philosophy ; prose ; Semantics ; Simplicity ; Teaching ; Theme ; Translation ; universality ; Works}
+    \endentry
+    \entry{Bradley1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a09586e85b4cf4d4d22155cdbd3c10a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge UP}%
+      }
+      \strng{namehash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \strng{fullhash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \strng{bibnamehash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \strng{authorbibnamehash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \strng{authornamehash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \strng{authorfullhash}{3a09586e85b4cf4d4d22155cdbd3c10a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Utilitas}
+      \field{number}{3}
+      \field{title}{Virtue Consequentialism}
+      \field{volume}{17}
+      \field{year}{2005}
+      \field{pages}{282\bibrangedash 298}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1017/s0953820805001652
+      \endverb
+    \endentry
+    \entry{Brennan2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ed07a7adf61f2bda735b25d2394444a}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{fullhash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{bibnamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authorbibnamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authornamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authorfullhash}{1ed07a7adf61f2bda735b25d2394444a}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics}
+      \field{number}{4}
+      \field{title}{Recent Work in Feminist Ethics}
+      \field{volume}{109}
+      \field{year}{1999}
+      \field{pages}{858\bibrangedash 893}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1086/233951
+      \endverb
+    \endentry
+    \entry{Brennan1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ed07a7adf61f2bda735b25d2394444a}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford UP}%
+      }
+      \strng{namehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{fullhash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{bibnamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authorbibnamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authornamehash}{1ed07a7adf61f2bda735b25d2394444a}
+      \strng{authorfullhash}{1ed07a7adf61f2bda735b25d2394444a}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{The early utilitarians were strong champions for the equal treatment of women, yet contemporary feminists are some of consequentialism’s biggest critics. Arguing from a more generous account of what counts as consequentialist moral reasoning, this chapter identifies feminist criticisms of consequentialism and sees whether, and to what extent, feminism and consequentialism can be reconciled. It argues that a feminist version of consequentialism is possible and, regardless, that all feminist moral theories contain significant consequentialist elements which it would be a mistake to ignore. Finally, it suggests that all feminist approaches to ethics ought to accord some role to consequences and results, and therefore ought to contribute to debates and discussions within consequentialist ethics.The early utilitarians were strong champions for the equal treatment of women, yet contemporary feminists are some of consequentialism’s biggest critics. Arguing from a more generous account of what counts as consequentialist moral reasoning, this chapter identifies feminist criticisms of consequentialism and sees whether, and to what extent, feminism and consequentialism can be reconciled. It argues that a feminist version of consequentialism is possible and, regardless, that all feminist moral theories contain significant consequentialist elements which it would be a mistake to ignore. Finally, it suggests that all feminist approaches to ethics ought to accord some role to consequences and results, and therefore ought to contribute to debates and discussions within consequentialist ethics.The early utilitarians were strong champions for the equal treatment of women, yet contemporary feminists are some of consequentialism’s biggest critics. Arguing from a more generous account of what counts as consequentialist moral reasoning, this chapter identifies feminist criticisms of consequentialism and sees whether, and to what extent, feminism and consequentialism can be reconciled. It argues that a feminist version of consequentialism is possible and, regardless, that all feminist moral theories contain significant consequentialist elements which it would be a mistake to ignore. Finally, it suggests that all feminist approaches to ethics ought to accord some role to consequences and results, and therefore ought to contribute to debates and discussions within consequentialist ethics.}}
+      \field{booktitle}{{The Oxford Handbook of Consequentialism}}
+      \field{month}{12}
+      \field{title}{{The Love–Hate Relationship between Feminism and Consequentialism}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780190905323.013.30
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/book/0/chapter/290591548/chapter-ag-pdf/45685528/book\_34273\_section\_290591548.ag.pdf
+      \endverb
+    \endentry
+    \entry{Driver2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad1d20b9ab1cc9d060beaa595fc147c}{%
+           family={Driver},
+           familyi={D\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Hypatia , Wiley]}%
+      }
+      \strng{namehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{fullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{bibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorbibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authornamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorfullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hypatia}
+      \field{number}{4}
+      \field{title}{Consequentialism and Feminist Ethics}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{20}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{183\bibrangedash 199}
+      \range{pages}{17}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/3810895
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/3810895
+      \endverb
+    \endentry
+    \entry{Driver3}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad1d20b9ab1cc9d060beaa595fc147c}{%
+           family={Driver},
+           familyi={D\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford U}%
+      }
+      \strng{namehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{fullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{bibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorbibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authornamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorfullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{W}inter 2022}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2022/entries/utilitarianism-history/}}
+      \field{title}{{The History of Utilitarianism}}
+      \field{year}{2022}
+    \endentry
+    \entry{Driver1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad1d20b9ab1cc9d060beaa595fc147c}{%
+           family={Driver},
+           familyi={D\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge UP}%
+      }
+      \strng{namehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{fullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{bibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorbibnamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authornamehash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \strng{authorfullhash}{3ad1d20b9ab1cc9d060beaa595fc147c}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Uneasy Virtue}
+      \field{year}{2001}
+    \endentry
+    \entry{baby1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd3224e3c3ca38e10e2aa7d78b68300a}{%
+           family={Eltagouri},
+           familyi={E\bibinitperiod},
+           given={Marwa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \strng{fullhash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \strng{bibnamehash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \strng{authorbibnamehash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \strng{authornamehash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \strng{authorfullhash}{fd3224e3c3ca38e10e2aa7d78b68300a}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chicago Tribune}
+      \field{title}{A Cubs World Series baby boom? Some parents and hospitals think so}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb www.chicagotribune.com/news/breaking/ct-cubs-world-series-baby-boom-met-20170726-story.html
+      \endverb
+      \verb{url}
+      \verb www.chicagotribune.com/news/breaking/ct-cubs-world-series-baby-boom-met-20170726-story.html
+      \endverb
+    \endentry
+    \entry{Enoch1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9c4eac747c1604948064160d47bb0a6}{%
+           family={Enoch},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=518dd225c0918900530d95a43929de27}{%
+           family={Landau},
+           familyi={L\bibinitperiod},
+           given={Russ\bibnamedelima Shafer},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford UP}%
+      }
+      \strng{namehash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{fullhash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{bibnamehash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{authorbibnamehash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{authornamehash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{authorfullhash}{b9c4eac747c1604948064160d47bb0a6}
+      \strng{editorbibnamehash}{518dd225c0918900530d95a43929de27}
+      \strng{editornamehash}{518dd225c0918900530d95a43929de27}
+      \strng{editorfullhash}{518dd225c0918900530d95a43929de27}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Ethical Life, 3rd ed.}
+      \field{title}{Why I Am an Objectivist About Ethics (And Why You Are, Too)}
+      \field{year}{2014}
+    \endentry
+    \entry{sep-mohism}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06f0e8ddaefa51f6ed3e49256b5b9f59}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford U}%
+      }
+      \strng{namehash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{fullhash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{bibnamehash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{authorbibnamehash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{authornamehash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{authorfullhash}{06f0e8ddaefa51f6ed3e49256b5b9f59}
+      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}pring 2022}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2022/entries/mohism/}}
+      \field{title}{{Mohism}}
+      \field{year}{2022}
+    \endentry
+    \entry{HalfaLife}{video}{}
+      \name{namea}{2}{}{%
+        {{hash=ae66baa78a41f53c261c1b9e52adf55b}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4e8dc4f5ce6286ad4b56ca00caa54686}{%
+           family={Fields},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima Allan},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=35a809d7fc4be7e9a030829f93583b1a}{%
+           family={Landau},
+           familyi={L\bibinitperiod},
+           given={Les},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Paramount Domestic Television}%
+      }
+      \strng{nameabibnamehash}{fde42b3b61f1d088dd28a9ac9e1e3bdc}
+      \strng{nameanamehash}{fde42b3b61f1d088dd28a9ac9e1e3bdc}
+      \strng{nameafullhash}{fde42b3b61f1d088dd28a9ac9e1e3bdc}
+      \strng{namebbibnamehash}{35a809d7fc4be7e9a030829f93583b1a}
+      \strng{namebnamehash}{35a809d7fc4be7e9a030829f93583b1a}
+      \strng{namebfullhash}{35a809d7fc4be7e9a030829f93583b1a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{nameatype}{writer}
+      \field{namebtype}{director}
+      \field{origday}{4}
+      \field{origmonth}{5}
+      \field{origyear}{1991}
+      \field{title}{Half a Life}
+      \field{origdateera}{ce}
+    \endentry
+    \entry{Hayes1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=822c6291e76ef1897f00c5dec2f26ec9}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \strng{fullhash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \strng{bibnamehash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \strng{authorbibnamehash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \strng{authornamehash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \strng{authorfullhash}{822c6291e76ef1897f00c5dec2f26ec9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Commonweal}
+      \field{title}{A Biological View}
+      \field{volume}{85}
+    \endentry
+    \entry{Held1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63c3b491d50a1235a4459c066cdc9825}{%
+           family={Held},
+           familyi={H\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {International Phenomenological Society}%
+      }
+      \strng{namehash}{63c3b491d50a1235a4459c066cdc9825}
+      \strng{fullhash}{63c3b491d50a1235a4459c066cdc9825}
+      \strng{bibnamehash}{63c3b491d50a1235a4459c066cdc9825}
+      \strng{authorbibnamehash}{63c3b491d50a1235a4459c066cdc9825}
+      \strng{authornamehash}{63c3b491d50a1235a4459c066cdc9825}
+      \strng{authorfullhash}{63c3b491d50a1235a4459c066cdc9825}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy and Phenomenological Research}
+      \field{number}{n/a}
+      \field{title}{Feminist Transformations of Moral Theory}
+      \field{volume}{50}
+      \field{year}{1990}
+      \field{pages}{321\bibrangedash 344}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2307/2108046
+      \endverb
+    \endentry
+    \entry{Herodotus1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3fd09e6896de2c5de4886bf878d133d8}{%
+           family={Herodotus},
+           familyi={H\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=488e2c35fd68d165daa0e635fa7bd158}{%
+           family={Sélincourt},
+           familyi={S\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{fullhash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{bibnamehash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{authorbibnamehash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{authornamehash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{authorfullhash}{3fd09e6896de2c5de4886bf878d133d8}
+      \strng{translatorbibnamehash}{488e2c35fd68d165daa0e635fa7bd158}
+      \strng{translatornamehash}{488e2c35fd68d165daa0e635fa7bd158}
+      \strng{translatorfullhash}{488e2c35fd68d165daa0e635fa7bd158}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Histories}
+      \field{year}{1988}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Jaggar1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7fa5f2c632052200caa01b6f41e971bf}{%
+           family={Jaggar},
+           familyi={J\bibinitperiod},
+           given={Alison\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d61ee598ce23acc6cc66056dec608e3f}{%
+           family={LaFollette},
+           familyi={L\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Oxford}%
+        {Malden: Blackwell Publishers}%
+      }
+      \strng{namehash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{fullhash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{bibnamehash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{authorbibnamehash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{authornamehash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{authorfullhash}{7fa5f2c632052200caa01b6f41e971bf}
+      \strng{editorbibnamehash}{d61ee598ce23acc6cc66056dec608e3f}
+      \strng{editornamehash}{d61ee598ce23acc6cc66056dec608e3f}
+      \strng{editorfullhash}{d61ee598ce23acc6cc66056dec608e3f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Blackwell Guide to Ethical Theory}
+      \field{title}{Feminist Ethics}
+      \field{year}{1992}
+      \field{pages}{348\bibrangedash 374}
+      \range{pages}{27}
+    \endentry
+    \entry{Leon2}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4eb34f9e939e83c11e085c1a9b0c8ca}{%
+           family={Leon-Portilla},
+           familyi={L\bibinithyphendelim P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {U of Oklahoma P}%
+      }
+      \strng{namehash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \strng{fullhash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \strng{bibnamehash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \strng{authorbibnamehash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \strng{authornamehash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \strng{authorfullhash}{e4eb34f9e939e83c11e085c1a9b0c8ca}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fifteen Poets of the Aztec World}
+      \field{year}{1992}
+      \verb{eprint}
+      \verb Google Books
+      \endverb
+      \verb{urlraw}
+      \verb books.google.com/books?id=0XaTWlhQyzQC
+      \endverb
+      \verb{url}
+      \verb books.google.com/books?id=0XaTWlhQyzQC
+      \endverb
+    \endentry
+    \entry{Maffie1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d973f1567f468b27215b9df56bd5ebf4}{%
+           family={Maffie},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {UP of Colorado}%
+      }
+      \strng{namehash}{d973f1567f468b27215b9df56bd5ebf4}
+      \strng{fullhash}{d973f1567f468b27215b9df56bd5ebf4}
+      \strng{bibnamehash}{d973f1567f468b27215b9df56bd5ebf4}
+      \strng{authorbibnamehash}{d973f1567f468b27215b9df56bd5ebf4}
+      \strng{authornamehash}{d973f1567f468b27215b9df56bd5ebf4}
+      \strng{authorfullhash}{d973f1567f468b27215b9df56bd5ebf4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{InAztec Philosophy, James Maffie reveals a highly sophisticated and systematic Aztec philosophy worthy of consideration alongside European philosophies of their time. Bringing together the fields of comparative world philosophy and Mesoamerican studies, Maffie excavates the distinctly philosophical aspects of Aztec thought.Aztec Philosophyfocuses on the ways Aztec metaphysics-the Aztecs' understanding of the nature, structure and constitution of reality-underpinned Aztec thinking about wisdom, ethics, politics,\ and aesthetics, and served as a backdrop for Aztec religious practices as well as everyday activities such as weaving, farming, and warfare. Aztec metaphysicians conceived reality and cosmos as a grand, ongoing process of weaving-theirs was a world in motion. Drawing upon linguistic, ethnohistorical, archaeological, historical, and contemporary ethnographic evidence, Maffie argues that Aztec metaphysics maintained a processive, transformational, and non-hierarchical view of reality, time, and existence along with a pantheistic theology.Aztec Philosophywill be of great interest to Mesoamericanists, philosophers, religionists, folklorists, and Latin Americanists as well as students of indigenous philosophy, religion, and art of the Americas.}
+      \field{title}{Aztec Philosophy: Understanding a World in Motion}
+      \field{urlday}{18}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/j.ctt9qhkh2
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/j.ctt9qhkh2
+      \endverb
+    \endentry
+    \entry{Hayek1}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=44bad62a55b72e5668416ffad0544bfb}{%
+           family={Mill},
+           familyi={M\bibinitperiod},
+           given={J.S.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe996ea9954d6b9a63c4eeb90092e6d1}{%
+           family={Hayek},
+           familyi={H\bibinitperiod},
+           given={F.A.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {A. M. Kelley}%
+      }
+      \strng{namehash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \strng{fullhash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \strng{bibnamehash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \strng{authorbibnamehash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \strng{authornamehash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \strng{authorfullhash}{fe2b91ddde1f6f1cf6989b588084d17b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{John Stuart Mill and Harriet Taylor, Their Friendship and Subsequent Marriage}
+      \field{year}{1969}
+      \verb{eprint}
+      \verb Google Books
+      \endverb
+      \verb{urlraw}
+      \verb books.google.com/books?id=IBYqAAAAYAAJ
+      \endverb
+      \verb{url}
+      \verb books.google.com/books?id=IBYqAAAAYAAJ
+      \endverb
+    \endentry
+    \entry{baby2}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=6487f33564a5a1209761b75ebf0d6983}{%
+           family={Montesinos},
+           familyi={M\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2130481d13151cd204fe5daa4c4ea285}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15ba82e34ef1a1387bd517ddf2cd4ada}{%
+           family={Arnau},
+           familyi={A\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=264df8835557d321349d191ed7876029}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Josep\bibnamedelima Anton},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07b1cd5127ec3ab55b2db0febdc71eab}{%
+           family={Elmore},
+           familyi={E\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fd30e093c32335099c2542a5ff5d1ab}{%
+           family={Macia},
+           familyi={M\bibinitperiod},
+           given={Narcis},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7905478da3561411d6bb859af2d1f55a}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={José\bibnamedelima Antonio},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd8f577df55bcd8b38b7d9f429c0a5c5}{%
+           family={Santisteve},
+           familyi={S\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b88aebe99cd45c53ae1625ecd7cf73cd}{%
+           family={Cobo},
+           familyi={C\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0067a237e7a1a492ce439a7e408ed3a}{%
+           family={Bosch},
+           familyi={B\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{468de154540e8bcd3228f4b779add576}
+      \strng{fullhash}{1b4b31df0a648d7deade8ce9cd78d909}
+      \strng{bibnamehash}{468de154540e8bcd3228f4b779add576}
+      \strng{authorbibnamehash}{468de154540e8bcd3228f4b779add576}
+      \strng{authornamehash}{468de154540e8bcd3228f4b779add576}
+      \strng{authorfullhash}{1b4b31df0a648d7deade8ce9cd78d909}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{Barcelona baby boom: does sporting success affect birth rate?}
+      \field{volume}{347}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1136/bmj.f7387
+      \endverb
+    \endentry
+    \entry{Johnston2}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db41e9dec746f0324f12b9c702fa45d9}{%
+           family={Mozi},
+           familyi={M\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=c057f8509dc056b24c7e2a1afe6fb6d2}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Columbia UP}%
+      }
+      \strng{namehash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{fullhash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{bibnamehash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{authorbibnamehash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{authornamehash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{authorfullhash}{db41e9dec746f0324f12b9c702fa45d9}
+      \strng{translatorbibnamehash}{c057f8509dc056b24c7e2a1afe6fb6d2}
+      \strng{translatornamehash}{c057f8509dc056b24c7e2a1afe6fb6d2}
+      \strng{translatorfullhash}{c057f8509dc056b24c7e2a1afe6fb6d2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Mozi: A Complete Translation}
+      \field{year}{2010}
+    \endentry
+    \entry{Noonan1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4c8878fffd0e8c980ad53d764633b24}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{fullhash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{bibnamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authorbibnamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authornamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authorfullhash}{d4c8878fffd0e8c980ad53d764633b24}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Law Forum}
+      \field{title}{Abortion and the Catholic Church: A Summary History}
+      \field{volume}{12}
+      \field{year}{1967}
+    \endentry
+    \entry{Noonan2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4c8878fffd0e8c980ad53d764633b24}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{fullhash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{bibnamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authorbibnamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authornamehash}{d4c8878fffd0e8c980ad53d764633b24}
+      \strng{authorfullhash}{d4c8878fffd0e8c980ad53d764633b24}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Law Forum}
+      \field{title}{Deciding Who Is Human}
+      \field{volume}{13}
+      \field{year}{1968}
+    \endentry
+    \entry{VanNorden1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e279e348f98d35af8eedb91d453120d}{%
+           family={Norden},
+           familyi={N\bibinitperiod},
+           given={Bryan\bibnamedelimb W.\bibnamedelimi Van},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hackett}%
+      }
+      \strng{namehash}{0e279e348f98d35af8eedb91d453120d}
+      \strng{fullhash}{0e279e348f98d35af8eedb91d453120d}
+      \strng{bibnamehash}{0e279e348f98d35af8eedb91d453120d}
+      \strng{authorbibnamehash}{0e279e348f98d35af8eedb91d453120d}
+      \strng{authornamehash}{0e279e348f98d35af8eedb91d453120d}
+      \strng{authorfullhash}{0e279e348f98d35af8eedb91d453120d}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Classical Chinese Philosophy}
+      \field{year}{2011}
+    \endentry
+    \entry{Pruss1}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8ab824cdc070a044693034d511bdeb7}{%
+           family={Pruss},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8ab824cdc070a044693034d511bdeb7}
+      \strng{fullhash}{e8ab824cdc070a044693034d511bdeb7}
+      \strng{bibnamehash}{e8ab824cdc070a044693034d511bdeb7}
+      \strng{authorbibnamehash}{e8ab824cdc070a044693034d511bdeb7}
+      \strng{authornamehash}{e8ab824cdc070a044693034d511bdeb7}
+      \strng{authorfullhash}{e8ab824cdc070a044693034d511bdeb7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{I Was Once a Fetus: An Identity-Based Argument Against Abortion}
+    \endentry
+    \entry{Purcell1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9087d8573988becb8111bb0e5cc73fa5}{%
+           family={Purcell},
+           familyi={P\bibinitperiod},
+           given={Lynn\bibnamedelima Sebastian},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9087d8573988becb8111bb0e5cc73fa5}
+      \strng{fullhash}{9087d8573988becb8111bb0e5cc73fa5}
+      \strng{bibnamehash}{9087d8573988becb8111bb0e5cc73fa5}
+      \strng{authorbibnamehash}{9087d8573988becb8111bb0e5cc73fa5}
+      \strng{authornamehash}{9087d8573988becb8111bb0e5cc73fa5}
+      \strng{authorfullhash}{9087d8573988becb8111bb0e5cc73fa5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{APA Newsletter on Hispanic/Latino Issues in Philosophy}
+      \field{number}{2}
+      \field{title}{Eudaimonia and Neltiliztli: Aristotle and the Aztecs on the Good Life}
+      \field{volume}{16}
+      \field{year}{2017}
+      \field{pages}{10\bibrangedash 21}
+      \range{pages}{12}
+    \endentry
+    \entry{Rachels1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=837f3deb19144b7c364fe629c9097e2e}{%
+           family={Rachels},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=743a29ba83bea0b10432e4948690cfca}{%
+           family={Cahn},
+           familyi={C\bibinitperiod},
+           given={Steven\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford UP}%
+      }
+      \strng{namehash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{fullhash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{bibnamehash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{authorbibnamehash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{authornamehash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{authorfullhash}{837f3deb19144b7c364fe629c9097e2e}
+      \strng{editorbibnamehash}{743a29ba83bea0b10432e4948690cfca}
+      \strng{editornamehash}{743a29ba83bea0b10432e4948690cfca}
+      \strng{editorfullhash}{743a29ba83bea0b10432e4948690cfca}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Exploring Philosophy: An Introductory Anthology}
+      \field{title}{The Challenge of Cultural Relativism}
+      \field{year}{1907}
+    \endentry
+    \entry{Robins1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfc3fbe044585a7194a54165effd0396}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {U of Hawai'i P}%
+      }
+      \strng{namehash}{dfc3fbe044585a7194a54165effd0396}
+      \strng{fullhash}{dfc3fbe044585a7194a54165effd0396}
+      \strng{bibnamehash}{dfc3fbe044585a7194a54165effd0396}
+      \strng{authorbibnamehash}{dfc3fbe044585a7194a54165effd0396}
+      \strng{authornamehash}{dfc3fbe044585a7194a54165effd0396}
+      \strng{authorfullhash}{dfc3fbe044585a7194a54165effd0396}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This essay refutes the widely held view that the Mohist doctrine of inclusive care (jian ai 兼爱) rules out any special preference for those close to us, especially family. Family values such as filial piety were in fact extremely important for the Mohists, as is clear even in their writings on inclusive care. Caring inclusively involved taking up a social perspective by committing oneself to collective norms that, if widely followed, would secure everybody's well-being. This would not be a pure form of altruism, since many people would be able to care inclusively for others only if they could in turn benefit from other people's care. This distinguishes the inclusive from the truly benevolent, who would remain benevolent regardless of how other people treat them. Understood, as it is argued here that we should, the Mohist doctrine of inclusive care provides a compelling account of how we should concern ourselves with one another's well-being in a society in which caring attitudes are sufficiently widespread.}
+      \field{issn}{00318221, 15291898}
+      \field{journaltitle}{Philosophy East and West}
+      \field{number}{1}
+      \field{title}{MOHIST CARE}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{62}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{60\bibrangedash 91}
+      \range{pages}{32}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/41426831
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/41426831
+      \endverb
+    \endentry
+    \entry{Sahagun1}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=64ef57c06b9d36f6658246405be3db51}{%
+           family={Sahagún},
+           familyi={S\bibinitperiod},
+           given={Bernardino\bibnamedelima de},
+           giveni={B\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0de98c1a289f2ed680b9b6b0f6fa7ed4}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Arthur\bibnamedelimb J.\bibnamedelimi O.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9100d5f1dacf3c0848ba01f76983a6b1}{%
+           family={Dibble},
+           familyi={D\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {School of American Research ; U of Utah Santa Fe, N.M. : Salt Lake City, Utah}%
+      }
+      \strng{namehash}{7a6c4c3bfab8bc840e3a93ff74c63d68}
+      \strng{fullhash}{f77ffa83445568c2f53cd65b4fc29d6d}
+      \strng{bibnamehash}{7a6c4c3bfab8bc840e3a93ff74c63d68}
+      \strng{authorbibnamehash}{7a6c4c3bfab8bc840e3a93ff74c63d68}
+      \strng{authornamehash}{7a6c4c3bfab8bc840e3a93ff74c63d68}
+      \strng{authorfullhash}{f77ffa83445568c2f53cd65b4fc29d6d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{General history of the things of New Spain : Florentine codex / Bernardino de Sahagun}
+      \field{type}{Book}
+      \field{year}{1950}
+      \field{pages}{13 v. in 12 :}
+      \range{pages}{-1}
+    \endentry
+    \entry{tededucation2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3419bbe2a390f7cb0a3fe6928a0308a2}{%
+           family={TEDEducation},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {YouTube}%
+      }
+      \strng{namehash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \strng{fullhash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \strng{bibnamehash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \strng{authorbibnamehash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \strng{authornamehash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \strng{authorfullhash}{3419bbe2a390f7cb0a3fe6928a0308a2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{YouTube}
+      \field{month}{6}
+      \field{title}{How to speak monkey: The language of cotton-top tamarins - anne savage}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb www.youtube.com/watch?v=4Vfn5CV9juI
+      \endverb
+      \verb{url}
+      \verb www.youtube.com/watch?v=4Vfn5CV9juI
+      \endverb
+    \endentry
+    \entry{tedtalksdirector2013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a83ad4ecfe5233e15a9acb3258548ea7}{%
+           family={TEDtalksDirector},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {YouTube}%
+      }
+      \strng{namehash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \strng{fullhash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \strng{bibnamehash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \strng{authorbibnamehash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \strng{authornamehash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \strng{authorfullhash}{a83ad4ecfe5233e15a9acb3258548ea7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{YouTube}
+      \field{month}{6}
+      \field{title}{Could we speak the language of dolphins? | Denise Herzing}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb www.youtube.com/watch?v=CQ5dRyyHwfM
+      \endverb
+      \verb{url}
+      \verb www.youtube.com/watch?v=CQ5dRyyHwfM
+      \endverb
+    \endentry
+    \entry{Thomson1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d5c58a46c74182b0ae2e3d82ef666920}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={Judith\bibnamedelima Jarvis},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \strng{fullhash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \strng{bibnamehash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \strng{authorbibnamehash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \strng{authornamehash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \strng{authorfullhash}{d5c58a46c74182b0ae2e3d82ef666920}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy \& Public Affairs}
+      \field{number}{1}
+      \field{title}{A Defense of Abortion}
+      \field{volume}{1}
+      \field{year}{1971}
+      \field{pages}{47\bibrangedash 66}
+      \range{pages}{20}
+    \endentry
+    \entry{Vilhauer1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b912db02e58ca95190d0bbeef7c372d0}{%
+           family={Vilhauer},
+           familyi={V\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{b912db02e58ca95190d0bbeef7c372d0}
+      \strng{fullhash}{b912db02e58ca95190d0bbeef7c372d0}
+      \strng{bibnamehash}{b912db02e58ca95190d0bbeef7c372d0}
+      \strng{authorbibnamehash}{b912db02e58ca95190d0bbeef7c372d0}
+      \strng{authornamehash}{b912db02e58ca95190d0bbeef7c372d0}
+      \strng{authorfullhash}{b912db02e58ca95190d0bbeef7c372d0}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal for the History of Philosophy}
+      \field{number}{4}
+      \field{title}{Can We Interpret Kant as a Compatibilist About Determinism and Moral Responsibility?}
+      \field{volume}{12}
+      \field{year}{2004}
+      \field{pages}{719\bibrangedash 730}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/0960878042000279341
+      \endverb
+    \endentry
+    \entry{Warren1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34a2efc9d964b5387a9781c6a1bef44c}{%
+           family={Warren},
+           familyi={W\bibinitperiod},
+           given={Mary\bibnamedelima Anne},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Hegeler Institute}%
+      }
+      \strng{namehash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \strng{fullhash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \strng{bibnamehash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \strng{authorbibnamehash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \strng{authornamehash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \strng{authorfullhash}{34a2efc9d964b5387a9781c6a1bef44c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Monist}
+      \field{number}{1}
+      \field{title}{On the Moral and Legal Status of Abortion}
+      \field{volume}{57}
+      \field{year}{1973}
+      \field{pages}{43\bibrangedash 61}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.5840/monist197357133
+      \endverb
+    \endentry
+    \entry{Woolf1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95cb9da4d425e59eb5ef4985306823e1}{%
+           family={Woolf},
+           familyi={W\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cf0a7127f5188d4ffbb05e38b080357b}{%
+           family={Leaska},
+           familyi={L\bibinitperiod},
+           given={Mitchell},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harcourt Brace}%
+      }
+      \strng{namehash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{fullhash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{bibnamehash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{authorbibnamehash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{authornamehash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{authorfullhash}{95cb9da4d425e59eb5ef4985306823e1}
+      \strng{editorbibnamehash}{cf0a7127f5188d4ffbb05e38b080357b}
+      \strng{editornamehash}{cf0a7127f5188d4ffbb05e38b080357b}
+      \strng{editorfullhash}{cf0a7127f5188d4ffbb05e38b080357b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Virginia Woolf Reader}
+      \field{title}{Professions for women}
+      \field{year}{1984}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
