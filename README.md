@@ -9,18 +9,18 @@ The topics covered are, in order:
 3. Divine Command Theory and Natural Law Theory
 4. Egoism and Hedonism
 5. Consequentialism
-- [] Utilitarianism
-- [] Mohism
+- [ ] Utilitarianism
+- [ ] Mohism
 6. Kantianism
-- [] The Humanity Principle
-- [] The Universalizability Prinicple
+- [ ] The Humanity Principle
+- [ ] The Universalizability Prinicple
 7. Virtue Ethics
-- [] Nahuatl Virtue Ethics
-- [] Virtue Consequentialism
+- [ ] Nahuatl Virtue Ethics
+- [ ] Virtue Consequentialism
 8. The Abortion Debate
 9. Feminist Ethics
-- [] Ethics of Care
-- [] Feminist Consequentialism
+- [ ] Ethics of Care
+- [ ] Feminist Consequentialism
 10. Environmental and Intergenerational Ethics
 
 It provides some primary sources included in the text as well:
