@@ -1,7 +1,29 @@
 # Who Should I Be? What Should I Do?
 
 ## Description
-*Who Should I Be? What Should I Do?* by Davis Smith is, for the most part, an original introduction to ethics textbook suitible for Philosophy courses on that subject. It consists of ten (10) Modules (sections or parts), each of which handles a different position one might have in Ethics. This text provides the standard ethical theories covered in a typical intro class but also covers Feminist Consequentialism, Nahuatl Virtue Ethics, Mohism, and Virtue Consequentialism. It provides some primary sources included in the text as well:
+*Who Should I Be? What Should I Do?* by Davis Smith is, for the most part, an original introduction to ethics textbook suitible for Philosophy courses on that subject. It consists of ten (10) Modules (sections or parts), each of which handles a different position one might have in Ethics. This text provides the standard ethical theories covered in a typical intro class but also covers Feminist Consequentialism, Nahuatl Virtue Ethics, Mohism, and Virtue Consequentialism. 
+The topics covered are, in order:
+
+1. Moral Relativism
+2. Moral Objectivism
+3. Divine Command Theory and Natural Law Theory
+4. Egoism and Hedonism
+5. Consequentialism
+- [] Utilitarianism
+- [] Mohism
+6. Kantianism
+- [] The Humanity Principle
+- [] The Universalizability Prinicple
+7. Virtue Ethics
+- [] Nahuatl Virtue Ethics
+- [] Virtue Consequentialism
+8. The Abortion Debate
+9. Feminist Ethics
+- [] Ethics of Care
+- [] Feminist Consequentialism
+10. Environmental and Intergenerational Ethics
+
+It provides some primary sources included in the text as well:
 
 1. The Challenge of Cultural Relativism by James Rachels
 2. Why I am an Objectivist about Ethics (and Why You Are, Too) by David Enoch
