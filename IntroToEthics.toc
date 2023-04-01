@@ -189,9 +189,9 @@
 \contentsline {subsection}{Euthyphro on Virtue Ethics}{232}{section*.182}%
 \contentsline {chapter}{Part 21: Nahuatl Virtue Ethics}{233}{chapter*.183}%
 \contentsline {section}{Differences in The Metaphilosophies}{234}{section*.184}%
-\contentsline {section}{Similarities in Conclusions and Ethical Thought}{236}{section*.185}%
+\contentsline {section}{Similarities in Conclusions and Ethical Thought}{237}{section*.185}%
 \contentsline {subsection}{Aristotle's Eudaimonia and The Tlamatinime's Neltiliztli}{237}{section*.186}%
-\contentsline {subsection}{Tlalticpac is Slippery, Transitory, and Not a Happy Place}{238}{section*.187}%
+\contentsline {subsection}{Tlalticpac is Slippery, Transitory, and Not a Happy Place}{239}{section*.187}%
 \contentsline {subsubsection}{Tlalticpac is Slippery}{239}{section*.188}%
 \contentsline {subsubsection}{Tlalticpac is Transitory}{241}{section*.189}%
 \contentsline {subsubsection}{Tlalticpac is Not A Happy Place}{242}{section*.190}%
@@ -207,121 +207,122 @@
 \contentsline {section}{Counterfactualism and Contrastivism}{256}{section*.200}%
 \contentsline {subsection}{Counterfactualism}{256}{section*.201}%
 \contentsline {subsection}{Contrastivism}{258}{section*.202}%
-\contentsline {section}{The Final Definition of Virtues for VC}{258}{section*.203}%
-\contentsline {subsection}{Some Virtues and Examples according to Virtue Consequentialism}{259}{section*.204}%
-\contentsline {part}{\partnumberline {VIII}Applied Ethics: The Abortion Debate}{262}{part.8}%
+\contentsline {section}{The Final Definition of Virtues for VC}{260}{section*.203}%
+\contentsline {subsection}{Some Virtues and Examples according to Virtue Consequentialism}{261}{section*.204}%
+\contentsline {part}{\partnumberline {VIII}Applied Ethics: The Abortion Debate}{263}{part.8}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{The Moral and Legal Status of Abortion by Mary Warren}{263}{chapter*.206}%
-\contentsline {section}{Part I}{268}{section*.207}%
-\contentsline {section}{Part II}{275}{section*.208}%
-\contentsline {subsection}{1. On the Definition of “Human”}{275}{section*.209}%
-\contentsline {subsection}{2. Defining the Moral Community}{277}{section*.210}%
-\contentsline {subsection}{3. Fetal Development and the Right to Life}{281}{section*.211}%
-\contentsline {subsection}{4. Potential Personhood and the Right to Life}{284}{section*.212}%
-\contentsline {section}{Postscript on Infanticide, February 26, 1982}{287}{section*.213}%
-\contentsline {chapter}{Part 23:What is an Abortion?}{293}{chapter*.214}%
-\contentsline {subsection}{Is it morally permissible to have an abortion?}{295}{section*.215}%
-\contentsline {subsection}{Framing the Problem}{296}{section*.216}%
-\contentsline {subsection}{The Fundamental Question}{301}{section*.217}%
-\contentsline {chapter}{Part 24: The Abortion Debate (Pro-Choice)}{303}{chapter*.218}%
-\contentsline {section}{Assume That a Fetus is a Person}{303}{section*.219}%
-\contentsline {subsection}{What does this case get us? }{306}{section*.220}%
-\contentsline {subsection}{The Results of the Violinist Case and the Problems}{307}{section*.221}%
-\contentsline {subsubsection}{The Pro-Life Response}{309}{section*.222}%
-\contentsline {subsubsection}{Restricting the Outcome}{310}{section*.223}%
-\contentsline {section}{Prove That a Fetus is Not a Person}{311}{section*.224}%
-\contentsline {section}{Warren's Criteria for Personhood}{315}{section*.225}%
-\contentsline {subsection}{Feature 1: Consciousness}{315}{section*.226}%
-\contentsline {subsubsection}{Is this thing conscious?}{315}{section*.227}%
-\contentsline {subsubsection}{Are we the only conscious things?}{316}{section*.228}%
-\contentsline {subsubsection}{Why does this matter?}{316}{section*.229}%
-\contentsline {subsection}{Feature 2: Reasoning}{317}{section*.230}%
-\contentsline {subsubsection}{Does this thing have reasoning?}{317}{section*.231}%
-\contentsline {subsubsection}{Are we the only reasoning creatures?}{318}{section*.232}%
-\contentsline {subsubsection}{Why does this matter?}{318}{section*.233}%
-\contentsline {subsection}{Feature 3: Self-Motivated Activity}{319}{section*.234}%
-\contentsline {subsubsection}{Is this thing 'free'?}{319}{section*.235}%
-\contentsline {subsubsection}{Are we the only 'free' things?}{320}{section*.236}%
-\contentsline {subsubsection}{Why does this matter?}{321}{section*.237}%
-\contentsline {subsection}{Feature 4: Communication}{322}{section*.238}%
-\contentsline {subsubsection}{Can this thing communicate?}{322}{section*.239}%
-\contentsline {subsubsection}{Are we the only talkers?}{323}{section*.240}%
-\contentsline {subsubsection}{Why does this matter?}{324}{section*.241}%
-\contentsline {subsection}{Feature 5: Self-Awareness}{325}{section*.242}%
-\contentsline {subsubsection}{Is this thing self-aware?}{325}{section*.243}%
-\contentsline {subsubsection}{Are we the only ones self-aware?}{326}{section*.244}%
-\contentsline {subsubsection}{Why does it matter?}{327}{section*.245}%
-\contentsline {subsection}{An Interesting Tangent}{327}{section*.246}%
-\contentsline {subsubsection}{Primates and (some) New-World Monkeys}{328}{section*.247}%
-\contentsline {subsubsection}{Cetaceans}{329}{section*.248}%
-\contentsline {subsubsection}{Extraterrestrials and Advanced AI}{330}{section*.249}%
-\contentsline {chapter}{I Was Once a Fetus by Alexander Pruss}{332}{chapter*.250}%
-\contentsline {section}{INTRODUCTION}{332}{section*.251}%
-\contentsline {section}{1. I WAS ONCE A FETUS}{333}{section*.252}%
-\contentsline {section}{2. IF I WAS A FETUS, IT WOULD HAVE BEEN WRONG TO KILL THAT FETUS}{344}{section*.253}%
-\contentsline {section}{3. IF IT WAS WRONG TO KILL ME WHEN I WAS A FETUS, IT WAS WRONG TO KILL ANYONE WHEN HE IS A FETUS}{350}{section*.254}%
-\contentsline {chapter}{Part 25: The Abortion Debate (Pro-Life)}{352}{chapter*.255}%
-\contentsline {section}{I was once a fetus}{353}{section*.256}%
-\contentsline {section}{If I was a fetus, it would have been wrong to kill that fetus}{355}{section*.257}%
-\contentsline {subsection}{Pruss' way of showing that it's wrong to kill that fetus}{356}{section*.258}%
-\contentsline {subsection}{An Argument Which He Could Have Used}{358}{section*.259}%
-\contentsline {section}{If it was wrong to kill me when I was a fetus, then it was wrong to kill anyone when they were a fetus}{359}{section*.260}%
-\contentsline {section}{But I was wanted!}{362}{section*.261}%
-\contentsline {subsection}{Pruss' Reply}{363}{section*.262}%
-\contentsline {section}{But I didn't endanger my mommy!}{363}{section*.263}%
-\contentsline {subsection}{Pruss' Reply}{363}{section*.264}%
-\contentsline {section}{But I was a healthy fetus!}{364}{section*.265}%
-\contentsline {subsection}{Pruss' Reply}{365}{section*.266}%
-\contentsline {subsubsection}{A Reply to this Reply}{366}{section*.267}%
-\contentsline {part}{\partnumberline {IX}Feminist Ethics}{367}{part.9}%
+\contentsline {chapter}{The Moral and Legal Status of Abortion by Mary Warren}{264}{chapter*.206}%
+\contentsline {section}{Part I}{269}{section*.207}%
+\contentsline {section}{Part II}{276}{section*.208}%
+\contentsline {subsection}{1. On the Definition of “Human”}{276}{section*.209}%
+\contentsline {subsection}{2. Defining the Moral Community}{278}{section*.210}%
+\contentsline {subsection}{3. Fetal Development and the Right to Life}{282}{section*.211}%
+\contentsline {subsection}{4. Potential Personhood and the Right to Life}{285}{section*.212}%
+\contentsline {section}{Postscript on Infanticide, February 26, 1982}{288}{section*.213}%
+\contentsline {chapter}{Part 23: What is an Abortion?}{294}{chapter*.214}%
+\contentsline {subsection}{Is it morally permissible to have an abortion?}{296}{section*.215}%
+\contentsline {subsection}{Framing the Problem}{297}{section*.216}%
+\contentsline {subsection}{The Fundamental Question}{302}{section*.217}%
+\contentsline {chapter}{Part 24: The Abortion Debate (Pro-Choice)}{304}{chapter*.218}%
+\contentsline {section}{Assume That a Fetus is a Person}{304}{section*.219}%
+\contentsline {subsection}{What does this case get us? }{308}{section*.220}%
+\contentsline {subsection}{The Results of the Violinist Case and the Problems}{309}{section*.221}%
+\contentsline {subsubsection}{The Pro-Life Response}{311}{section*.222}%
+\contentsline {subsubsection}{Restricting the Outcome}{312}{section*.223}%
+\contentsline {section}{Prove That a Fetus is Not a Person}{313}{section*.224}%
+\contentsline {section}{Warren's Criteria for Personhood}{317}{section*.225}%
+\contentsline {subsection}{Feature 1: Consciousness}{317}{section*.226}%
+\contentsline {subsubsection}{Is this thing conscious?}{317}{section*.227}%
+\contentsline {subsubsection}{Are we the only conscious things?}{318}{section*.228}%
+\contentsline {subsubsection}{Why does this matter?}{318}{section*.229}%
+\contentsline {subsection}{Feature 2: Reasoning}{319}{section*.230}%
+\contentsline {subsubsection}{Does this thing have reasoning?}{319}{section*.231}%
+\contentsline {subsubsection}{Are we the only reasoning creatures?}{320}{section*.232}%
+\contentsline {subsubsection}{Why does this matter?}{320}{section*.233}%
+\contentsline {subsection}{Feature 3: Self-Motivated Activity}{321}{section*.234}%
+\contentsline {subsubsection}{Is this thing 'free'?}{321}{section*.235}%
+\contentsline {subsubsection}{Are we the only 'free' things?}{322}{section*.236}%
+\contentsline {subsubsection}{Why does this matter?}{323}{section*.237}%
+\contentsline {subsection}{Feature 4: Communication}{324}{section*.238}%
+\contentsline {subsubsection}{Can this thing communicate?}{324}{section*.239}%
+\contentsline {subsubsection}{Are we the only talkers?}{325}{section*.240}%
+\contentsline {subsubsection}{Why does this matter?}{326}{section*.241}%
+\contentsline {subsection}{Feature 5: Self-Awareness}{327}{section*.242}%
+\contentsline {subsubsection}{Is this thing self-aware?}{327}{section*.243}%
+\contentsline {subsubsection}{Are we the only ones self-aware?}{328}{section*.244}%
+\contentsline {subsubsection}{Why does it matter?}{329}{section*.245}%
+\contentsline {subsection}{An Interesting Tangent}{329}{section*.246}%
+\contentsline {subsubsection}{Primates and (some) New-World Monkeys}{330}{section*.247}%
+\contentsline {subsubsection}{Cetaceans}{331}{section*.248}%
+\contentsline {subsubsection}{Extraterrestrials and Advanced AI}{332}{section*.249}%
+\contentsline {chapter}{I Was Once a Fetus by Alexander Pruss}{334}{chapter*.250}%
+\contentsline {section}{INTRODUCTION}{334}{section*.251}%
+\contentsline {section}{1. I WAS ONCE A FETUS}{335}{section*.252}%
+\contentsline {section}{2. IF I WAS A FETUS, IT WOULD HAVE BEEN WRONG TO KILL THAT FETUS}{346}{section*.253}%
+\contentsline {section}{3. IF IT WAS WRONG TO KILL ME WHEN I WAS A FETUS, IT WAS WRONG TO KILL ANYONE WHEN HE IS A FETUS}{352}{section*.254}%
+\contentsline {chapter}{Part 25: The Abortion Debate (Pro-Life)}{354}{chapter*.255}%
+\contentsline {section}{I was once a fetus}{355}{section*.256}%
+\contentsline {section}{If I was a fetus, it would have been wrong to kill that fetus}{357}{section*.257}%
+\contentsline {subsection}{Pruss' way of showing that it's wrong to kill that fetus}{358}{section*.258}%
+\contentsline {subsection}{An Argument Which He Could Have Used}{360}{section*.259}%
+\contentsline {section}{If it was wrong to kill me when I was a fetus, then it was wrong to kill anyone when they were a fetus}{361}{section*.260}%
+\contentsline {section}{But I was wanted!}{364}{section*.261}%
+\contentsline {subsection}{Pruss' Reply}{365}{section*.262}%
+\contentsline {section}{But I didn't endanger my mommy!}{365}{section*.263}%
+\contentsline {subsection}{Pruss' Reply}{365}{section*.264}%
+\contentsline {section}{But I was a healthy fetus!}{366}{section*.265}%
+\contentsline {subsection}{Pruss' Reply}{367}{section*.266}%
+\contentsline {subsubsection}{A Reply to this Reply}{368}{section*.267}%
+\contentsline {part}{\partnumberline {IX}Feminist Ethics}{369}{part.9}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 26: Feminist Ethics}{368}{chapter*.269}%
-\contentsline {section}{The Tenets of Feminist Ethics}{370}{section*.270}%
-\contentsline {subsection}{Tenet 1: The Equality of Men and Women}{371}{section*.271}%
-\contentsline {subsection}{Tenet 2: The Experiences of Women are Vital}{373}{section*.272}%
-\contentsline {subsection}{Tenet 3: Masculine vs Feminine Traits}{374}{section*.273}%
-\contentsline {subsection}{Tenet 4: Feminine Moral Reasoning}{375}{section*.274}%
-\contentsline {subsection}{Against Unification}{377}{section*.275}%
-\contentsline {subsection}{Against Impartiality and Abstraction}{377}{section*.276}%
-\contentsline {chapter}{Part 27: History and The Ethics of Care}{379}{chapter*.277}%
-\contentsline {section}{Woman's Experience}{383}{section*.278}%
-\contentsline {section}{The Ethics of Care}{384}{section*.279}%
-\contentsline {subsection}{But What is Care?}{384}{section*.280}%
-\contentsline {section}{Some Overarching Issues with Feminist Ethics}{387}{section*.281}%
-\contentsline {subsection}{Issue 1: The scope of the moral community}{387}{section*.282}%
-\contentsline {subsection}{Issue 2: The Role of Emotions}{388}{section*.283}%
-\contentsline {subsection}{Issue 3: Bias has its costs}{388}{section*.284}%
-\contentsline {subsection}{Issue 4: Conflicts}{389}{section*.285}%
-\contentsline {subsection}{Issue 5: Uncooperative people}{390}{section*.286}%
-\contentsline {subsection}{Issue 6: Justice and Rights}{391}{section*.287}%
-\contentsline {chapter}{Part 28: Feminist Consequentialism}{392}{chapter*.288}%
-\contentsline {section}{Feminist Historical Opposition to Consequentialism}{393}{section*.289}%
-\contentsline {section}{Naïve VS Sophisticated Utilitarianism}{398}{section*.290}%
-\contentsline {section}{Some Concluding Remarks}{402}{section*.291}%
-\contentsline {part}{\partnumberline {X}Environmental/Intergenerational Ethics}{404}{part.10}%
+\contentsline {chapter}{Part 26: Feminist Ethics}{370}{chapter*.269}%
+\contentsline {section}{The Tenets of Feminist Ethics}{372}{section*.270}%
+\contentsline {subsection}{Tenet 1: The Equality of Men and Women}{373}{section*.271}%
+\contentsline {subsection}{Tenet 2: The Experiences of Women are Vital}{375}{section*.272}%
+\contentsline {subsection}{Tenet 3: Masculine vs Feminine Traits}{376}{section*.273}%
+\contentsline {subsection}{Tenet 4: Feminine Moral Reasoning}{377}{section*.274}%
+\contentsline {subsection}{Against Unification}{379}{section*.275}%
+\contentsline {subsection}{Against Impartiality and Abstraction}{379}{section*.276}%
+\contentsline {chapter}{Part 27: History and The Ethics of Care}{381}{chapter*.277}%
+\contentsline {section}{Woman's Experience}{385}{section*.278}%
+\contentsline {section}{The Ethics of Care}{386}{section*.279}%
+\contentsline {subsection}{But What is Care?}{386}{section*.280}%
+\contentsline {section}{Some Overarching Issues with Feminist Ethics}{389}{section*.281}%
+\contentsline {subsection}{Issue 1: The scope of the moral community}{389}{section*.282}%
+\contentsline {subsection}{Issue 2: The Role of Emotions}{390}{section*.283}%
+\contentsline {subsection}{Issue 3: Bias has its costs}{390}{section*.284}%
+\contentsline {subsection}{Issue 4: Conflicts}{391}{section*.285}%
+\contentsline {subsection}{Issue 5: Uncooperative people}{392}{section*.286}%
+\contentsline {subsection}{Issue 6: Justice and Rights}{393}{section*.287}%
+\contentsline {chapter}{Part 28: Feminist Consequentialism}{394}{chapter*.288}%
+\contentsline {section}{Feminist Historical Opposition to Consequentialism}{395}{section*.289}%
+\contentsline {section}{Naïve VS Sophisticated Utilitarianism}{400}{section*.290}%
+\contentsline {section}{Some Concluding Remarks}{404}{section*.291}%
+\contentsline {part}{\partnumberline {X}Environmental/Intergenerational Ethics}{406}{part.10}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 29: Duties to the Environment}{405}{chapter*.293}%
-\contentsline {section}{Animal Life Has Some Value}{407}{section*.294}%
-\contentsline {subsection}{Some Animal Lives Are Worth More Than Others}{409}{section*.295}%
-\contentsline {subsection}{Human life is more valuable than animal life.}{410}{section*.296}%
-\contentsline {section}{Consequences of the Unequal Value Thesis}{412}{section*.297}%
-\contentsline {section}{Can we defend the Unequal Value Thesis?}{414}{section*.298}%
-\contentsline {subsection}{Appeals to God}{415}{section*.299}%
-\contentsline {subsection}{Tu Quoque Fallacy}{416}{section*.300}%
-\contentsline {subsection}{The Richness of Human Lives}{417}{section*.301}%
-\contentsline {section}{Argument from Marginal Cases}{419}{section*.302}%
-\contentsline {subsection}{Why is it OK to eat animals and not marginal humans?}{421}{section*.303}%
-\contentsline {chapter}{Part 30: Duties to Future Generations}{423}{chapter*.304}%
-\contentsline {section}{Intergenerational Justice/Ethics}{424}{section*.305}%
-\contentsline {subsection}{Limiting choices:}{425}{section*.306}%
-\contentsline {subsection}{Unidirectional Benefit:}{427}{section*.307}%
-\contentsline {subsection}{Power to bring them into being:}{429}{section*.308}%
-\contentsline {section}{The Non-Identity Problem}{432}{section*.309}%
-\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{433}{section*.310}%
-\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{435}{section*.311}%
-\contentsline {section}{Two Potential Ways Out (there are problems with each)}{438}{section*.312}%
-\contentsline {subsection}{Averagism}{438}{section*.313}%
-\contentsline {subsection}{Totalism}{440}{section*.314}%
-\contentsline {part}{Appendices}{443}{section*.316}%
+\contentsline {chapter}{Part 29: Duties to the Environment}{407}{chapter*.293}%
+\contentsline {section}{Animal Life Has Some Value}{409}{section*.294}%
+\contentsline {subsection}{Some Animal Lives Are Worth More Than Others}{411}{section*.295}%
+\contentsline {subsection}{Human life is more valuable than animal life.}{412}{section*.296}%
+\contentsline {section}{Consequences of the Unequal Value Thesis}{414}{section*.297}%
+\contentsline {section}{Can we defend the Unequal Value Thesis?}{416}{section*.298}%
+\contentsline {subsection}{Appeals to God}{417}{section*.299}%
+\contentsline {subsection}{Tu Quoque Fallacy}{418}{section*.300}%
+\contentsline {subsection}{The Richness of Human Lives}{419}{section*.301}%
+\contentsline {section}{Argument from Marginal Cases}{421}{section*.302}%
+\contentsline {subsection}{Why is it OK to eat animals and not marginal humans?}{423}{section*.303}%
+\contentsline {chapter}{Part 30: Duties to Future Generations}{425}{chapter*.304}%
+\contentsline {section}{Intergenerational Justice/Ethics}{426}{section*.305}%
+\contentsline {subsection}{Limiting choices:}{427}{section*.306}%
+\contentsline {subsection}{Unidirectional Benefit:}{429}{section*.307}%
+\contentsline {subsection}{Power to bring them into being:}{431}{section*.308}%
+\contentsline {section}{The Non-Identity Problem}{434}{section*.309}%
+\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{435}{section*.310}%
+\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{437}{section*.311}%
+\contentsline {section}{Two Potential Ways Out (there are problems with each)}{440}{section*.312}%
+\contentsline {subsection}{Averagism}{440}{section*.313}%
+\contentsline {subsection}{Totalism}{442}{section*.314}%
+\contentsline {part}{Appendices}{445}{section*.316}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Bibliography}{446}{appendix*.317}%
+\contentsline {chapter}{Glossary}{445}{section*.317}%
+\contentsline {chapter}{Bibliography}{458}{appendix*.319}%

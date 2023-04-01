@@ -1,0 +1,1400 @@
+\glsdefs@newdocentry{meta-}%
+{%
+name={meta-},%
+sort={meta-},%
+type={main},%
+first={meta-},%
+firstplural={meta-s},%
+text={meta-},%
+plural={meta-s},%
+description={a prefix which changes the level of abstraction for the questions in the field, namely by moving it up. This means, roughly, `asking questions about the questions in...'},%
+descriptionplural={a prefix which changes the level of abstraction for the questions in the field, namely by moving it up. This means, roughly, `asking questions about the questions in...'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{relativism}%
+{%
+name={relativism},%
+sort={relativism},%
+type={main},%
+first={relativism},%
+firstplural={relativisms},%
+text={relativism},%
+plural={relativisms},%
+description={the stance that there are no absolute, objective truths about something; rather the `truths' are \emph {relative}, changing according to what either the individual or the culture believes. Typically, this term appears after the field or area which is claimed to have only relative truths},%
+descriptionplural={the stance that there are no absolute, objective truths about something; rather the `truths' are \emph {relative}, changing according to what either the individual or the culture believes. Typically, this term appears after the field or area which is claimed to have only relative truths},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Global Cultural Relativism}%
+{%
+name={Global Cultural Relativism},%
+sort={Global Cultural Relativism},%
+type={main},%
+first={Global Cultural Relativism},%
+firstplural={Global Cultural Relativisms},%
+text={Global Cultural Relativism},%
+plural={Global Cultural Relativisms},%
+description={the stance that there are no absolute, objective truths about anything at all, not just ethics; rather the `truths' are \emph {relative}, changing according to what the culture believes},%
+descriptionplural={the stance that there are no absolute, objective truths about anything at all, not just ethics; rather the `truths' are \emph {relative}, changing according to what the culture believes},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Global Individual Relativism}%
+{%
+name={Global Individual Relativism},%
+sort={Global Individual Relativism},%
+type={main},%
+first={Global Individual Relativism},%
+firstplural={Global Individual Relativisms},%
+text={Global Individual Relativism},%
+plural={Global Individual Relativisms},%
+description={the stance that there are no absolute, objective truths about anything at all, not just ethics; rather the `truths' are \emph {relative}, changing according to what the individual believes},%
+descriptionplural={the stance that there are no absolute, objective truths about anything at all, not just ethics; rather the `truths' are \emph {relative}, changing according to what the individual believes},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Limited Cultural Relativism}%
+{%
+name={Limited Cultural Relativism},%
+sort={Limited Cultural Relativism},%
+type={main},%
+first={Limited Cultural Relativism},%
+firstplural={Limited Cultural Relativisms},%
+text={Limited Cultural Relativism},%
+plural={Limited Cultural Relativisms},%
+description={the stance that there are no absolute, objective truths about anything in a particular area of context; the `truths' in this area are relative to what the culture believes. Typically, the term `limited' is replaced with a term indicating which area is claimed to have only culturally relative truths},%
+descriptionplural={the stance that there are no absolute, objective truths about anything in a particular area of context; the `truths' in this area are relative to what the culture believes. Typically, the term `limited' is replaced with a term indicating which area is claimed to have only culturally relative truths},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Limited Individual Relativism}%
+{%
+name={Limited Individual Relativism},%
+sort={Limited Individual Relativism},%
+type={main},%
+first={Limited Individual Relativism},%
+firstplural={Limited Individual Relativisms},%
+text={Limited Individual Relativism},%
+plural={Limited Individual Relativisms},%
+description={the stance that there are no absolute, objective truths about anything in a particular area of context; the `truths' in this area are relative to what the individual believes. Typically, the term `limited' is replaced with the term for the area claimed to have only individually relative truths},%
+descriptionplural={the stance that there are no absolute, objective truths about anything in a particular area of context; the `truths' in this area are relative to what the individual believes. Typically, the term `limited' is replaced with the term for the area claimed to have only individually relative truths},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Moral Cultural Relativism}%
+{%
+name={Moral Cultural Relativism},%
+sort={Moral Cultural Relativism},%
+type={main},%
+first={Moral Cultural Relativism},%
+firstplural={Moral Cultural Relativisms},%
+text={Moral Cultural Relativism},%
+plural={Moral Cultural Relativisms},%
+description={the stance that there are no absolute, objective truths about morality or ethics; the moral `truths' are relative to what the culture believes. No other culture or could tell them that they are mistaken because they determine right from wrong},%
+descriptionplural={the stance that there are no absolute, objective truths about morality or ethics; the moral `truths' are relative to what the culture believes. No other culture or could tell them that they are mistaken because they determine right from wrong},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Objectivism}%
+{%
+name={Objectivism},%
+sort={Objectivism},%
+type={main},%
+first={Objectivism},%
+firstplural={Objectivisms},%
+text={Objectivism},%
+plural={Objectivisms},%
+description={The stance that there are absolute, objective facts about a given topic.},%
+descriptionplural={The stance that there are absolute, objective facts about a given topic.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Moral Objectivism}%
+{%
+name={Moral Objectivism},%
+sort={Moral Objectivism},%
+type={main},%
+first={Moral Objectivism},%
+firstplural={Moral Objectivisms},%
+text={Moral Objectivism},%
+plural={Moral Objectivisms},%
+description={The stance that there are some absolute, objective facts about morality, right and wrong.},%
+descriptionplural={The stance that there are some absolute, objective facts about morality, right and wrong.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Moral Absolutism}%
+{%
+name={Moral Absolutist},%
+sort={Moral Absolutist},%
+type={main},%
+first={Moral Absolutist},%
+firstplural={Moral Absolutists},%
+text={Moral Absolutist},%
+plural={Moral Absolutists},%
+description={The stance that there are absolute, objective moral rules which are exceptionless and absolute. For any, if they hold in one case, they hold in all cases},%
+descriptionplural={The stance that there are absolute, objective moral rules which are exceptionless and absolute. For any, if they hold in one case, they hold in all cases},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Moral Situationalism}%
+{%
+name={Moral Situationalism},%
+sort={Moral Situationalism},%
+type={main},%
+first={Moral Situationalism},%
+firstplural={Moral Situationalisms},%
+text={Moral Situationalism},%
+plural={Moral Situationalisms},%
+description={The stance that there are objective moral rules but they apply differently in different situations. There is typically an absolute rule which determines whether the more practical ones apply},%
+descriptionplural={The stance that there are objective moral rules but they apply differently in different situations. There is typically an absolute rule which determines whether the more practical ones apply},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Moral Skepticism}%
+{%
+name={Moral Skeptics},%
+sort={Moral Skeptics},%
+type={main},%
+first={Moral Skeptics},%
+firstplural={Moral Skepticss},%
+text={Moral Skeptics},%
+plural={Moral Skepticss},%
+description={The stance that knowing whether an action is right or wrong is impossible},%
+descriptionplural={The stance that knowing whether an action is right or wrong is impossible},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Divine Command Theory}%
+{%
+name={Divine Command Theory},%
+sort={Divine Command Theory},%
+type={main},%
+first={Divine Command Theory},%
+firstplural={Divine Command Theorys},%
+text={Divine Command Theory},%
+plural={Divine Command Theorys},%
+description={The stance that an action is moral if and only if God or the gods command it},%
+descriptionplural={The stance that an action is moral if and only if God or the gods command it},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Natural Law Theory}%
+{%
+name={Natural Law Theory},%
+sort={Natural Law Theory},%
+type={main},%
+first={Natural Law Theory},%
+firstplural={Natural Law Theorys},%
+text={Natural Law Theory},%
+plural={Natural Law Theorys},%
+description={The stance that an action is moral if and only if it is natural},%
+descriptionplural={The stance that an action is moral if and only if it is natural},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{extrinsic value}%
+{%
+name={extrinsic value},%
+sort={extrinsic value},%
+type={main},%
+first={extrinsic value},%
+firstplural={extrinsic values},%
+text={extrinsic value},%
+plural={extrinsic values},%
+description={The value something has in virtue of its ability to get something else},%
+descriptionplural={The value something has in virtue of its ability to get something else},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{intrinsic value}%
+{%
+name={intrinsic value},%
+sort={intrinsic value},%
+type={main},%
+first={intrinsic value},%
+firstplural={intrinsic values},%
+text={intrinsic value},%
+plural={intrinsic values},%
+description={The value something has in an of itself. It is good for no other reason than it is good. Things are extrinsically valuable in virtue of their ability to get this},%
+descriptionplural={The value something has in an of itself. It is good for no other reason than it is good. Things are extrinsically valuable in virtue of their ability to get this},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Hedonism}%
+{%
+name={Hedonism},%
+sort={Hedonism},%
+type={main},%
+first={Hedonism},%
+firstplural={Hedonisms},%
+text={Hedonism},%
+plural={Hedonisms},%
+description={The stance that happiness is the one intrinsic good, thing of positive intrinsic value, and suffering is the one thing with negative intrinsic value. Things are extrinsically good or bad insofar as they promote happiness or suffering (respectively)},%
+descriptionplural={The stance that happiness is the one intrinsic good, thing of positive intrinsic value, and suffering is the one thing with negative intrinsic value. Things are extrinsically good or bad insofar as they promote happiness or suffering (respectively)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Ethical Egoism}%
+{%
+name={Ethical Egoism},%
+sort={Ethical Egoism},%
+type={main},%
+first={Ethical Egoism},%
+firstplural={Ethical Egoisms},%
+text={Ethical Egoism},%
+plural={Ethical Egoisms},%
+description={The stance that an action is moral if and only if it promotes the agent's self-interest},%
+descriptionplural={The stance that an action is moral if and only if it promotes the agent's self-interest},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Consequentialism}%
+{%
+name={Consequentialism},%
+sort={Consequentialism},%
+type={main},%
+first={Consequentialism},%
+firstplural={Consequentialisms},%
+text={Consequentialism},%
+plural={Consequentialisms},%
+description={The general stance that the morality or permissibility of an action is determined by the consequences of that action. This is a family of theories which all share the basic command to promote the good, though they differ on what the good is and how one ought to promote it},%
+descriptionplural={The general stance that the morality or permissibility of an action is determined by the consequences of that action. This is a family of theories which all share the basic command to promote the good, though they differ on what the good is and how one ought to promote it},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Direct Consequentialism}%
+{%
+name={Direct Consequentialism},%
+sort={Direct Consequentialism},%
+type={main},%
+first={Direct Consequentialism},%
+firstplural={Direct Consequentialist},%
+text={Direct Consequentialism},%
+plural={Direct Consequentialist},%
+description={A form of Consequentialism which says that the morality of our actions is determined by the consequences of the actions on a case-by-case basis. The actions are judged by the consequences that they directly cause},%
+descriptionplural={A form of Consequentialism which says that the morality of our actions is determined by the consequences of the actions on a case-by-case basis. The actions are judged by the consequences that they directly cause},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Indirect Consequentialism}%
+{%
+name={Indirect Consequentialism},%
+sort={Indirect Consequentialism},%
+type={main},%
+first={Indirect Consequentialism},%
+firstplural={Indirect Consequentialist},%
+text={Indirect Consequentialism},%
+plural={Indirect Consequentialist},%
+description={A form of Consequentialism which says that the morality of our actions is determined by the consequences indirectly. They are determined to be moral or immoral based on general principles which, if followed, would promote the good; these principles may be general rules, character traits, or behavioral patterns},%
+descriptionplural={A form of Consequentialism which says that the morality of our actions is determined by the consequences indirectly. They are determined to be moral or immoral based on general principles which, if followed, would promote the good; these principles may be general rules, character traits, or behavioral patterns},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Utilitarianism}%
+{%
+name={Utilitarianism},%
+sort={Utilitarianism},%
+type={main},%
+first={Utilitarianism},%
+firstplural={Utilitarian},%
+text={Utilitarianism},%
+plural={Utilitarian},%
+description={A form of Consequentialism which says that the morality of our actions is determined by the amount of happiness caused and suffering prevented. This is a form of Direct Consequentialism which takes happiness as the intrinsic good and suffering as the intrinsic bad},%
+descriptionplural={A form of Consequentialism which says that the morality of our actions is determined by the amount of happiness caused and suffering prevented. This is a form of Direct Consequentialism which takes happiness as the intrinsic good and suffering as the intrinsic bad},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Principle of Utility}%
+{%
+name={Principle of Utility},%
+sort={Principle of Utility},%
+type={main},%
+first={Principle of Utility},%
+firstplural={Principle of Utilitys},%
+text={Principle of Utility},%
+plural={Principle of Utilitys},%
+description={This is the basic principle used to judge the moral value of actions according to Utilitarianism. The notion is to survey your options and for each, take the amount of happiness caused and subtract the suffering caused. The option with the greatest amount is the action you ought to do},%
+descriptionplural={This is the basic principle used to judge the moral value of actions according to Utilitarianism. The notion is to survey your options and for each, take the amount of happiness caused and subtract the suffering caused. The option with the greatest amount is the action you ought to do},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Rule Consequentialism}%
+{%
+name={Rule Consequentialism},%
+sort={Rule Consequentialism},%
+type={main},%
+first={Rule Consequentialism},%
+firstplural={Rule Consequentialisms},%
+text={Rule Consequentialism},%
+plural={Rule Consequentialisms},%
+description={A form of Consequentialism which says that the morality of our actions is determined by the rule which it follows. The rules are those which, if followed, would cause the greatest amount of good while preventing the greatest amount of suffering.},%
+descriptionplural={A form of Consequentialism which says that the morality of our actions is determined by the rule which it follows. The rules are those which, if followed, would cause the greatest amount of good while preventing the greatest amount of suffering.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Mohism}%
+{%
+name={Mohism},%
+sort={Mohism},%
+type={main},%
+first={Mohism},%
+firstplural={Mohist},%
+text={Mohism},%
+plural={Mohist},%
+description={A form of Indirect Consequentialism based on the works and ideas of Master Mo Di, popular in China between 479BCE and 221BCE, which says that we are to promote the good by living a pattern of life which is based on caring about others, caring for our families and friends, and promoting the well-being of our society},%
+descriptionplural={A form of Indirect Consequentialism based on the works and ideas of Master Mo Di, popular in China between 479BCE and 221BCE, which says that we are to promote the good by living a pattern of life which is based on caring about others, caring for our families and friends, and promoting the well-being of our society},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Non-consequentialism}%
+{%
+name={Non-consequentialism},%
+sort={Non-consequentialism},%
+type={main},%
+first={Non-consequentialism},%
+firstplural={Non-consequentialist},%
+text={Non-consequentialism},%
+plural={Non-consequentialist},%
+description={The general stance that the morality or permissibility of an action is not determined by the consequences of that action. This is a family of theories which all share the basic idea that some actions are just wrong regardless of the good they might (will) produce; typically, these theories are duty-based, meaning that an action is moral if and only if you have a duty to do it and immoral if and only if you have a duty to refrain from doing it},%
+descriptionplural={The general stance that the morality or permissibility of an action is not determined by the consequences of that action. This is a family of theories which all share the basic idea that some actions are just wrong regardless of the good they might (will) produce; typically, these theories are duty-based, meaning that an action is moral if and only if you have a duty to do it and immoral if and only if you have a duty to refrain from doing it},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Good Will}%
+{%
+name={Good Will},%
+sort={Good Will},%
+type={main},%
+first={Good Will},%
+firstplural={Good Wills},%
+text={Good Will},%
+plural={Good Wills},%
+description={The one intrinsic good according to Kant's non-consequentialist theory of morality. All rational autonomous people have this `good will'. It comes from our ability to rationally and freely choose to act on our duties. According to Kantianism, anything which thwarts or hinders either another's free will or ratonality is wrong},%
+descriptionplural={The one intrinsic good according to Kant's non-consequentialist theory of morality. All rational autonomous people have this `good will'. It comes from our ability to rationally and freely choose to act on our duties. According to Kantianism, anything which thwarts or hinders either another's free will or ratonality is wrong},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Compatibilism}%
+{%
+name={Compatibilism},%
+sort={Compatibilism},%
+type={main},%
+first={Compatibilism},%
+firstplural={Libertarian},%
+text={Compatibilism},%
+plural={Libertarian},%
+description={In Metaphysics, this is the stance that we humans, at least, have free will (are responsible for some of our actions) and that the world is deterministic (there is no randomness, all of our actions are determined, we coud not do otherwise than how we do)},%
+descriptionplural={In Metaphysics, this is the stance that we humans, at least, have free will (are responsible for some of our actions) and that the world is deterministic (there is no randomness, all of our actions are determined, we coud not do otherwise than how we do)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Libertarianism}%
+{%
+name={Libertarianism},%
+sort={Libertarianism},%
+type={main},%
+first={Libertarianism},%
+firstplural={Libertarian},%
+text={Libertarianism},%
+plural={Libertarian},%
+description={In Metaphysics, this is the stance that we humans, at least, have free will (are responsible for some of our actions), that the world is non-deterministic (there is a degree of randomness), and this non-determinacy increases the responsibility an agent has over their actions},%
+descriptionplural={In Metaphysics, this is the stance that we humans, at least, have free will (are responsible for some of our actions), that the world is non-deterministic (there is a degree of randomness), and this non-determinacy increases the responsibility an agent has over their actions},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Kantianism}%
+{%
+name={Kantianism},%
+sort={Kantianism},%
+type={main},%
+first={Kantianism},%
+firstplural={Kantian},%
+text={Kantianism},%
+plural={Kantian},%
+description={The philosophical theories proposed and defended by Immanual Kant},%
+descriptionplural={The philosophical theories proposed and defended by Immanual Kant},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Categorical Imperative}%
+{%
+name={Categorical Imperative},%
+sort={Categorical Imperative},%
+type={main},%
+first={Categorical Imperative},%
+firstplural={Categorical Imperatives},%
+text={Categorical Imperative},%
+plural={Categorical Imperatives},%
+description={The imperative, command, which determines the morally right action according to Kantianism. There are four different formulations of this, two of which clearly reduce to the other two},%
+descriptionplural={The imperative, command, which determines the morally right action according to Kantianism. There are four different formulations of this, two of which clearly reduce to the other two},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Maxim}%
+{%
+name={Maxim},%
+sort={Maxim},%
+type={main},%
+first={Maxim},%
+firstplural={Maxims},%
+text={Maxim},%
+plural={Maxims},%
+description={The reason and goal for which you are acting. This is typically of the form ``whenever I am A then I will E''},%
+descriptionplural={The reason and goal for which you are acting. This is typically of the form ``whenever I am A then I will E''},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Universality Principle}%
+{%
+name={Universality Principle},%
+sort={Universality Principle},%
+type={main},%
+first={Universality Principle},%
+firstplural={Universality Principles},%
+text={Universality Principle},%
+plural={Universality Principles},%
+description={This is one of the two formulations of Kant's Categorical Imperative. This commands us to act only on the maxim which can be consistently willed to be a universal law},%
+descriptionplural={This is one of the two formulations of Kant's Categorical Imperative. This commands us to act only on the maxim which can be consistently willed to be a universal law},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Universalizable}%
+{%
+name={Universalizable},%
+sort={Universalizable},%
+type={main},%
+first={Universalizable},%
+firstplural={Universalizables},%
+text={Universalizable},%
+plural={Universalizables},%
+description={Able to be generalized to the point that it could be could be followed consistently in any circumstance (you can follow it even if it is immoral)},%
+descriptionplural={Able to be generalized to the point that it could be could be followed consistently in any circumstance (you can follow it even if it is immoral)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Humanity Principle}%
+{%
+name={Humanity Principle},%
+sort={Humanity Principle},%
+type={main},%
+first={Humanity Principle},%
+firstplural={formulation},%
+text={Humanity Principle},%
+plural={formulation},%
+description={A formulation of the Categorical Imperative which phrases it as the command to always treat persons (yourself included) as ends and never as mere-means},%
+descriptionplural={A formulation of the Categorical Imperative which phrases it as the command to always treat persons (yourself included) as ends and never as mere-means},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Virtue ethics}%
+{%
+name={Virtue ethics},%
+sort={Virtue ethics},%
+type={main},%
+first={Virtue ethics},%
+firstplural={virtue ethicist},%
+text={Virtue ethics},%
+plural={virtue ethicist},%
+description={The field of study in ethics focused on character traits and what it is to be a good person rather than focusing on what makes good actions},%
+descriptionplural={The field of study in ethics focused on character traits and what it is to be a good person rather than focusing on what makes good actions},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{virtue}%
+{%
+name={Virtue},%
+sort={Virtue},%
+type={main},%
+first={Virtue},%
+firstplural={virtues},%
+text={Virtue},%
+plural={virtues},%
+description={A positive character trait},%
+descriptionplural={A positive character trait},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Vice}%
+{%
+name={Vice},%
+sort={Vice},%
+type={main},%
+first={Vice},%
+firstplural={vices},%
+text={Vice},%
+plural={vices},%
+description={A negative character trait},%
+descriptionplural={A negative character trait},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Nahua}%
+{%
+name={Nahua},%
+sort={Nahua},%
+type={main},%
+first={Nahua},%
+firstplural={Nahuas},%
+text={Nahua},%
+plural={Nahuas},%
+description={The decendants of the indigenous people who inhabited what is today parts of Mexico, Guatemala, Honduras, El Salvador, and Nicaragua.},%
+descriptionplural={The decendants of the indigenous people who inhabited what is today parts of Mexico, Guatemala, Honduras, El Salvador, and Nicaragua.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Nahuatl}%
+{%
+name={Nahuatl},%
+sort={Nahuatl},%
+type={main},%
+first={Nahuatl},%
+firstplural={Nahuatls},%
+text={Nahuatl},%
+plural={Nahuatls},%
+description={The adjective for the term `Nahua'},%
+descriptionplural={The adjective for the term `Nahua'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Teotl}%
+{%
+name={Teotl},%
+sort={Teotl},%
+type={main},%
+first={Teotl},%
+firstplural={Teotls},%
+text={Teotl},%
+plural={Teotls},%
+description={In pre-colonial Nahuatl philosophy, this is the universe itself. Believing in Universal Monism, the Nahuas held that separation and distinction was an illusion, the universe was not a collection of multiple things, but rather was one whole. Teotl is not stagnant, however, it fluctuates and changes with time},%
+descriptionplural={In pre-colonial Nahuatl philosophy, this is the universe itself. Believing in Universal Monism, the Nahuas held that separation and distinction was an illusion, the universe was not a collection of multiple things, but rather was one whole. Teotl is not stagnant, however, it fluctuates and changes with time},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Virtue Consequentialism}%
+{%
+name={Virtue Consequentialism},%
+sort={Virtue Consequentialism},%
+type={main},%
+first={Virtue Consequentialism},%
+firstplural={Virtue Consequentialist},%
+text={Virtue Consequentialism},%
+plural={Virtue Consequentialist},%
+description={A theory in Virtue Ethics, theories about what it takes to be a good person, which uses Consequentialism to define the virtues rather than using the doctrine of the mean. According to this theory, character traits are virtues if and only if acting on them has the tendancy to produce the best outcomes},%
+descriptionplural={A theory in Virtue Ethics, theories about what it takes to be a good person, which uses Consequentialism to define the virtues rather than using the doctrine of the mean. According to this theory, character traits are virtues if and only if acting on them has the tendancy to produce the best outcomes},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Counterfactualism}%
+{%
+name={Counterfactualism},%
+sort={Counterfactualism},%
+type={main},%
+first={Counterfactualism},%
+firstplural={Counterfactualist},%
+text={Counterfactualism},%
+plural={Counterfactualist},%
+description={The stance that non-actual, possible, scenarios determine whether something has a property, characteristic, or belongs to a category, at least in part},%
+descriptionplural={The stance that non-actual, possible, scenarios determine whether something has a property, characteristic, or belongs to a category, at least in part},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Contrastivism}%
+{%
+name={Contrastivism},%
+sort={Contrastivism},%
+type={main},%
+first={Contrastivism},%
+firstplural={Contrastivist},%
+text={Contrastivism},%
+plural={Contrastivist},%
+description={The stance that certain kinds of properties or attributes for something are actually comparisons in disguise. Whether or not something has some feature or property is determined by what it is being contrasted with, compared to},%
+descriptionplural={The stance that certain kinds of properties or attributes for something are actually comparisons in disguise. Whether or not something has some feature or property is determined by what it is being contrasted with, compared to},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Abortion}%
+{%
+name={Abortion},%
+sort={Abortion},%
+type={main},%
+first={Abortion},%
+firstplural={abortion},%
+text={Abortion},%
+plural={abortion},%
+description={An individual voluntarily terminating their pregnancy prior to birth, with or wthout the assistance of another person},%
+descriptionplural={An individual voluntarily terminating their pregnancy prior to birth, with or wthout the assistance of another person},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Person}%
+{%
+name={Person},%
+sort={Person},%
+type={main},%
+first={Person},%
+firstplural={person},%
+text={Person},%
+plural={person},%
+description={An individual who is a member of the moral community, worthy of the greatest degree of moral consideration},%
+descriptionplural={An individual who is a member of the moral community, worthy of the greatest degree of moral consideration},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Human}%
+{%
+name={Human},%
+sort={Human},%
+type={main},%
+first={Human},%
+firstplural={human},%
+text={Human},%
+plural={human},%
+description={A member of the species Homo Sapiens},%
+descriptionplural={A member of the species Homo Sapiens},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Feminist Consequentialism}%
+{%
+name={Feminist Consequentialism},%
+sort={Feminist Consequentialism},%
+type={main},%
+first={Feminist Consequentialism},%
+firstplural={Feminist Consequentialist},%
+text={Feminist Consequentialism},%
+plural={Feminist Consequentialist},%
+description={A form of Consequentialism which has all of the tenets of Feminist Ethics. Such a theory is likely to be indirect, rather than direct},%
+descriptionplural={A form of Consequentialism which has all of the tenets of Feminist Ethics. Such a theory is likely to be indirect, rather than direct},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Special Obligation}%
+{%
+name={Special Obligation},%
+sort={Special Obligation},%
+type={main},%
+first={Special Obligation},%
+firstplural={special obligations},%
+text={Special Obligation},%
+plural={special obligations},%
+description={A relationship between two beings where one of them has a greater duty or obligation towards the other than they do towards a third party; a parent has a special obligation towards their child in that they have a greater duty to care for them than the parent may have towards other children who are not theirs},%
+descriptionplural={A relationship between two beings where one of them has a greater duty or obligation towards the other than they do towards a third party; a parent has a special obligation towards their child in that they have a greater duty to care for them than the parent may have towards other children who are not theirs},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Intergenerational Ethics}%
+{%
+name={Intergenerational Ethics},%
+sort={Intergenerational Ethics},%
+type={main},%
+first={Intergenerational Ethics},%
+firstplural={Intergenerational Ethicss},%
+text={Intergenerational Ethics},%
+plural={Intergenerational Ethicss},%
+description={The study of the moral relationship, the duties and obligations, contemporary people have towards generations in a far distant future},%
+descriptionplural={The study of the moral relationship, the duties and obligations, contemporary people have towards generations in a far distant future},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

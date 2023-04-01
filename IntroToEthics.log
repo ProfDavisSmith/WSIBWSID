@@ -1,51 +1,51 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  7 MAR 2023 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.31)  1 APR 2023 10:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./IntroToEthics.tex
+**IntroToEthics.tex lwarpmk html
 (IntroToEthics.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
-Document Class: memoir 2022/07/29 v3.7r configurable book, report, article docu
-ment class
+Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article do
+cument class
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
 )
-\onelineskip=\skip47
-\lxvchars=\skip48
-\xlvchars=\skip49
+\onelineskip=\skip48
+\lxvchars=\skip49
+\xlvchars=\skip50
 \@memcnta=\count186
 \c@@memmarkcntra=\count187
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\stockheight=\skip50
-\stockwidth=\skip51
-\trimtop=\skip52
-\trimedge=\skip53
+\stockheight=\dimen140
+\stockwidth=\dimen141
+\trimtop=\skip51
+\trimedge=\skip52
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem11.clo
 File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
 )
-\binding=\skip54
-\spinemargin=\skip55
-\foremargin=\skip56
-\uppermargin=\skip57
-\lowermargin=\skip58
-\headdrop=\skip59
-\normalrulethickness=\skip60
-\mem@maxheadheight=\skip61
-\mem@maxfootheight=\skip62
-\headwidth=\skip63
+\binding=\skip53
+\spinemargin=\skip54
+\foremargin=\skip55
+\uppermargin=\skip56
+\lowermargin=\skip57
+\headdrop=\skip58
+\normalrulethickness=\skip59
+\mem@maxheadheight=\skip60
+\mem@maxfootheight=\skip61
+\headwidth=\skip62
 \c@storedpagenumber=\count188
-\memPD=\dimen138
-\m@mabparskip=\skip64
-\thanksmarkwidth=\skip65
-\thanksmarksep=\skip66
-\droptitle=\skip67
+\memPD=\dimen142
+\m@mabparskip=\skip63
+\thanksmarkwidth=\skip64
+\thanksmarksep=\skip65
+\droptitle=\skip66
 \c@book=\count189
 \c@part=\count190
 \c@chapter=\count191
@@ -54,78 +54,78 @@ File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
 \c@subsubsection=\count194
 \c@paragraph=\count195
 \c@subparagraph=\count196
-\beforechapskip=\skip68
-\midchapskip=\skip69
-\afterchapskip=\skip70
-\chapindent=\skip71
-\bottomsectionskip=\skip72
-\secindent=\skip73
-\beforesecskip=\skip74
-\aftersecskip=\skip75
-\subsecindent=\skip76
-\beforesubsecskip=\skip77
-\aftersubsecskip=\skip78
-\subsubsecindent=\skip79
-\beforesubsubsecskip=\skip80
-\aftersubsubsecskip=\skip81
-\paraindent=\skip82
-\beforeparaskip=\skip83
-\afterparaskip=\skip84
-\subparaindent=\skip85
-\beforesubparaskip=\skip86
-\aftersubparaskip=\skip87
-\pfbreakskip=\skip88
+\beforechapskip=\skip67
+\midchapskip=\skip68
+\afterchapskip=\skip69
+\chapindent=\skip70
+\bottomsectionskip=\skip71
+\secindent=\skip72
+\beforesecskip=\skip73
+\aftersecskip=\skip74
+\subsecindent=\skip75
+\beforesubsecskip=\skip76
+\aftersubsecskip=\skip77
+\subsubsecindent=\skip78
+\beforesubsubsecskip=\skip79
+\aftersubsubsecskip=\skip80
+\paraindent=\skip81
+\beforeparaskip=\skip82
+\afterparaskip=\skip83
+\subparaindent=\skip84
+\beforesubparaskip=\skip85
+\aftersubparaskip=\skip86
+\pfbreakskip=\skip87
 \c@@ppsavesec=\count197
 \c@@ppsaveapp=\count198
-\ragrparindent=\dimen139
-\everylistparindent=\dimen140
-\parsepi=\skip89
-\topsepi=\skip90
-\itemsepi=\skip91
-\parsepii=\skip92
-\topsepii=\skip93
-\topsepiii=\skip94
-\itemsepii=\skip95
-\itemsepiii=\skip96
-\partopsepii=\skip97
-\partopsepiii=\skip98
-\m@msavetopsep=\skip99
-\m@msavepartopsep=\skip100
+\ragrparindent=\dimen143
+\everylistparindent=\dimen144
+\parsepi=\skip88
+\topsepi=\skip89
+\itemsepi=\skip90
+\parsepii=\skip91
+\topsepii=\skip92
+\topsepiii=\skip93
+\itemsepii=\skip94
+\itemsepiii=\skip95
+\partopsepii=\skip96
+\partopsepiii=\skip97
+\m@msavetopsep=\skip98
+\m@msavepartopsep=\skip99
 \@enLab=\toks16
-\abstitleskip=\skip101
-\absleftindent=\skip102
-\abs@leftindent=\dimen141
-\absrightindent=\skip103
-\absparindent=\skip104
-\absparsep=\skip105
+\abstitleskip=\skip100
+\absleftindent=\skip101
+\abs@leftindent=\dimen145
+\absrightindent=\skip102
+\absparindent=\skip103
+\absparsep=\skip104
 \c@vslineno=\count199
 \c@poemline=\count266
 \c@modulo@vs=\count267
 \c@memfvsline=\count268
-\vleftskip=\skip106
-\vrightskip=\skip107
-\stanzaskip=\skip108
-\versewidth=\skip109
-\vgap=\skip110
-\vindent=\skip111
-\vleftmargin=\dimen142
+\vleftskip=\skip105
+\vrightskip=\skip106
+\stanzaskip=\skip107
+\versewidth=\skip108
+\vgap=\skip109
+\vindent=\skip110
+\vleftmargin=\dimen146
 \c@verse=\count269
 \c@chrsinstr=\count270
-\beforepoemtitleskip=\skip112
-\afterpoemtitleskip=\skip113
+\beforepoemtitleskip=\skip111
+\afterpoemtitleskip=\skip112
 \c@poem=\count271
-\beforePoemTitleskip=\skip114
-\midPoemTitleskip=\skip115
-\afterPoemTitleskip=\skip116
+\beforePoemTitleskip=\skip113
+\midPoemTitleskip=\skip114
+\afterPoemTitleskip=\skip115
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen143
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen147
 \ar@mcellbox=\box51
-\extrarowheight=\dimen144
+\extrarowheight=\dimen148
 \NC@list=\toks17
-\extratabsurround=\skip117
-\backup@length=\skip118
+\extratabsurround=\skip116
+\backup@length=\skip117
 \ar@cellbox=\box52
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
@@ -136,148 +136,148 @@ Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen145
-\TX@old@table=\dimen146
-\TX@old@col=\dimen147
-\TX@target=\dimen148
-\TX@delta=\dimen149
+\TX@col@width=\dimen149
+\TX@old@table=\dimen150
+\TX@old@col=\dimen151
+\TX@target=\dimen152
+\TX@delta=\dimen153
 \TX@cols=\count272
 \TX@ftn=\toks18
 )
-\heavyrulewidth=\dimen150
-\lightrulewidth=\dimen151
-\cmidrulewidth=\dimen152
-\belowrulesep=\dimen153
-\belowbottomsep=\dimen154
-\aboverulesep=\dimen155
-\abovetopsep=\dimen156
-\cmidrulesep=\dimen157
-\cmidrulekern=\dimen158
-\defaultaddspace=\dimen159
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
 \@cmidla=\count273
 \@cmidlb=\count274
-\@aboverulesep=\dimen160
-\@belowrulesep=\dimen161
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
 \@thisruleclass=\count275
 \@lastruleclass=\count276
-\@thisrulewidth=\dimen162
-\ctableftskip=\skip119
-\ctabrightskip=\skip120
+\@thisrulewidth=\dimen166
+\ctableftskip=\skip118
+\ctabrightskip=\skip119
 \abovecolumnspenalty=\count277
 \@linestogo=\count278
 \@cellstogo=\count279
 \@cellsincolumn=\count280
 \crtok=\toks19
-\@mincolumnwidth=\dimen163
+\@mincolumnwidth=\dimen167
 \c@newflo@tctr=\count281
 \mem@margin@floatbox=\box53
-\@contcwidth=\skip121
-\@contindw=\skip122
-\abovecaptionskip=\skip123
-\belowcaptionskip=\skip124
-\subfloattopskip=\skip125
-\subfloatcapskip=\skip126
-\subfloatcaptopadj=\skip127
-\subfloatbottomskip=\skip128
-\subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen164
+\@contcwidth=\skip120
+\@contindw=\skip121
+\abovecaptionskip=\skip122
+\belowcaptionskip=\skip123
+\subfloattopskip=\skip124
+\subfloatcapskip=\skip125
+\subfloatcaptopadj=\skip126
+\subfloatbottomskip=\skip127
+\subfloatlabelskip=\skip128
+\subfloatcapmargin=\dimen168
 \c@@contsubnum=\count282
 \m@mscap@capbox=\box54
 \m@mscap@fbox=\box55
-\sidecapsep=\dimen165
-\sidecapwidth=\dimen166
-\m@m@tempdima=\dimen167
-\m@mscapraise=\dimen168
-\sidecapraise=\dimen169
-\m@mscapmainwidth=\dimen170
-\m@mscaplkern=\dimen171
-\beforeepigraphskip=\skip130
-\afterepigraphskip=\skip131
-\epigraphwidth=\skip132
-\epigraphrule=\skip133
+\sidecapsep=\dimen169
+\sidecapwidth=\dimen170
+\m@m@tempdima=\dimen171
+\m@mscapraise=\dimen172
+\sidecapraise=\dimen173
+\m@mscapmainwidth=\dimen174
+\m@mscaplkern=\dimen175
+\beforeepigraphskip=\skip129
+\afterepigraphskip=\skip130
+\epigraphwidth=\skip131
+\epigraphrule=\skip132
 LaTeX Info: Redefining \em on input line 7655.
 LaTeX Info: Redefining \emph on input line 7663.
-\tocentryskip=\skip134
-\tocbaseline=\skip135
-\cftparskip=\skip136
-\cftbeforebookskip=\skip137
-\cftbookindent=\dimen172
-\cftbooknumwidth=\dimen173
-\cftbeforepartskip=\skip138
-\cftpartindent=\skip139
-\cftpartnumwidth=\skip140
-\cftbeforechapterskip=\skip141
-\cftchapterindent=\skip142
-\cftchapternumwidth=\skip143
-\cftbeforesectionskip=\skip144
-\cftsectionindent=\skip145
-\cftsectionnumwidth=\skip146
-\cftbeforesubsectionskip=\skip147
-\cftsubsectionindent=\skip148
-\cftsubsectionnumwidth=\skip149
-\cftbeforesubsubsectionskip=\skip150
-\cftsubsubsectionindent=\skip151
-\cftsubsubsectionnumwidth=\skip152
-\cftbeforeparagraphskip=\skip153
-\cftparagraphindent=\skip154
-\cftparagraphnumwidth=\skip155
-\cftbeforesubparagraphskip=\skip156
-\cftsubparagraphindent=\skip157
-\cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen174
+\tocentryskip=\skip133
+\tocbaseline=\skip134
+\cftparskip=\skip135
+\cftbeforebookskip=\skip136
+\cftbookindent=\dimen176
+\cftbooknumwidth=\dimen177
+\cftbeforepartskip=\skip137
+\cftpartindent=\skip138
+\cftpartnumwidth=\skip139
+\cftbeforechapterskip=\skip140
+\cftchapterindent=\skip141
+\cftchapternumwidth=\skip142
+\cftbeforesectionskip=\skip143
+\cftsectionindent=\skip144
+\cftsectionnumwidth=\skip145
+\cftbeforesubsectionskip=\skip146
+\cftsubsectionindent=\skip147
+\cftsubsectionnumwidth=\skip148
+\cftbeforesubsubsectionskip=\skip149
+\cftsubsubsectionindent=\skip150
+\cftsubsubsectionnumwidth=\skip151
+\cftbeforeparagraphskip=\skip152
+\cftparagraphindent=\skip153
+\cftparagraphnumwidth=\skip154
+\cftbeforesubparagraphskip=\skip155
+\cftsubparagraphindent=\skip156
+\cftsubparagraphnumwidth=\skip157
+\prechapterprecisshift=\dimen178
 \c@maxsecnumdepth=\count283
-\bibindent=\dimen175
-\bibitemsep=\skip159
-\indexcolsep=\skip160
-\indexrule=\skip161
+\bibindent=\dimen179
+\bibitemsep=\skip158
+\indexcolsep=\skip159
+\indexrule=\skip160
 \indexmarkstyle=\toks20
 \@indexbox=\insert252
-\glossarycolsep=\dimen176
-\glossaryrule=\dimen177
-\sideparvshift=\skip162
+\glossarycolsep=\dimen180
+\glossaryrule=\dimen181
+\sideparvshift=\skip161
 \sideins=\insert251
-\sidebartopsep=\skip163
-\sidebarhsep=\skip164
-\sidebarvsep=\skip165
-\sidebarwidth=\skip166
-\footmarkwidth=\skip167
-\footmarksep=\skip168
-\footparindent=\skip169
-\footinsdim=\skip170
+\sidebartopsep=\skip162
+\sidebarhsep=\skip163
+\sidebarvsep=\skip164
+\sidebarwidth=\skip165
+\footmarkwidth=\skip166
+\footmarksep=\skip167
+\footparindent=\skip168
+\footinsdim=\skip169
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
 \m@m@k=\count284
-\m@m@h=\dimen178
-\m@mipn@skip=\skip171
+\m@m@h=\dimen182
+\m@mipn@skip=\skip170
 \sidefootins=\insert248
-\sidefootadjust=\skip172
-\sidefootheight=\skip173
-\sidefoothsep=\skip174
-\sidefootvsep=\skip175
-\sidefootwidth=\skip176
-\m@mdownsf=\skip177
+\sidefootadjust=\skip171
+\sidefootheight=\skip172
+\sidefoothsep=\skip173
+\sidefootvsep=\skip174
+\sidefootwidth=\skip175
+\m@mdownsf=\skip176
 \c@sidefootnote=\count285
-\sidefootmarkwidth=\skip178
-\sidefootmarksep=\skip179
-\sidefootparindent=\skip180
+\sidefootmarkwidth=\skip177
+\sidefootmarksep=\skip178
+\sidefootparindent=\skip179
 \c@pagenote=\count286
 \c@pagenoteshadow=\count287
-\mem@pn@lastkern=\skip181
+\mem@pn@lastkern=\skip180
 \every@verbatim=\toks21
 \afterevery@verbatim=\toks22
 \verbatim@line=\toks23
 \tab@position=\count288
 \verbatim@in@stream=\read2
-\verbatimindent=\skip182
+\verbatimindent=\skip181
 \verbatim@out=\write3
-\bvboxsep=\skip183
+\bvboxsep=\skip182
 \c@memfbvline=\count289
 \c@bvlinectr=\count290
-\bvnumlength=\skip184
-\fb@frw=\dimen179
-\fb@frh=\dimen180
-\FrameRule=\dimen181
-\FrameSep=\dimen182
+\bvnumlength=\skip183
+\fb@frw=\dimen183
+\fb@frh=\dimen184
+\FrameRule=\dimen185
+\FrameSep=\dimen186
 \c@cp@cntr=\count291
 \c@ism@mctr=\count292
 \c@xsm@mctr=\count293
@@ -300,14 +300,14 @@ Package textcase Info: Defining Legacy names on input line 20.
 )
 \c@figure=\count306
 \c@lofdepth=\count307
-\cftbeforefigureskip=\skip185
-\cftfigureindent=\skip186
-\cftfigurenumwidth=\skip187
+\cftbeforefigureskip=\skip184
+\cftfigureindent=\skip185
+\cftfigurenumwidth=\skip186
 \c@table=\count308
 \c@lotdepth=\count309
-\cftbeforetableskip=\skip188
-\cfttableindent=\skip189
-\cfttablenumwidth=\skip190
+\cftbeforetableskip=\skip187
+\cfttableindent=\skip188
+\cfttablenumwidth=\skip189
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
 Package booktabs [2016/05/16] emulated by memoir.
@@ -396,10 +396,9 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.
-ltx)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -411,10 +410,8 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
 \pdfx@tmptoks=\toks27
-
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
-
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
@@ -435,9 +432,8 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks28
 )
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
@@ -471,11 +467,11 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count311
 )
-\@linkdim=\dimen183
+\@linkdim=\dimen187
 \Hy@linkcounter=\count312
 \Hy@pagecounter=\count313
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
@@ -484,24 +480,24 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count314
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `pdfa' set `true' on input line 4045.
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Option `pdfa' set `true' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4408.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count315
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4746.
-\XeTeXLinkMargin=\dimen184
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen188
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -512,15 +508,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count316
-\Field@Width=\dimen185
-\Fld@charsize=\dimen186
-Package hyperref Info: Hyper figures OFF on input line 6024.
-Package hyperref Info: Link nesting OFF on input line 6029.
-Package hyperref Info: Hyper index ON on input line 6032.
-Package hyperref Info: backreferencing OFF on input line 6039.
-Package hyperref Info: Link coloring OFF on input line 6044.
-Package hyperref Info: Link coloring with OCG OFF on input line 6049.
-Package hyperref Info: PDF/A mode ON on input line 6052.
+\Field@Width=\dimen189
+\Fld@charsize=\dimen190
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode ON on input line 6070.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
@@ -532,7 +528,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver: hpdftex.
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -553,15 +549,15 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip191
+\Hy@SectionHShift=\skip190
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
-Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+Package: memhfixc 2022/11/17 v1.20 nameref/hyperref package fixes for memoir cl
 ass
 
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 102.
+LaTeX Info: Redefining \nameref on input line 106.
 \c@memhycontfloat=\count322
 \c@Hpagenote=\count323
 )
@@ -576,11 +572,11 @@ Package hyperref Info: Option `psdextra' set `true' on input line 1465.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc-greekbas
 ic.def
-File: puenc-greekbasic.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (
+File: puenc-greekbasic.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (
 greek block) (HO)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\psdextra.def
-File: psdextra.def 2022-06-20 v7.00s Hyperref: Additions to PDF string support
+File: psdextra.def 2023-02-07 v7.00v Hyperref: Additions to PDF string support
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorpr
 ofiles.sty
@@ -625,11 +621,8 @@ Using XMP template file: pdfa.xmp
 \openout4 = `pdfa.xmpi'.
 
 <<pdfa.xmpi>>) (ethics.sty
+Package: ethics 
 
-LaTeX Warning: You have requested package `ethics',
-               but the package provides `intro'.
-
-Package: intro 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
@@ -643,7 +636,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip192
+\@mathmargin=\skip191
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -652,11 +645,11 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks30
-\ex@=\dimen187
+\ex@=\dimen191
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen188
+\pmbraise@=\dimen192
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
@@ -678,7 +671,7 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen189
+\big@size=\dimen193
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count329
@@ -696,15 +689,15 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \column@=\count334
 \maxfields@=\count335
 \andhelp@=\toks32
-\eqnshift@=\dimen190
-\alignsep@=\dimen191
-\tagshift@=\dimen192
-\tagwidth@=\dimen193
-\totwidth@=\dimen194
-\lineht@=\dimen195
+\eqnshift@=\dimen194
+\alignsep@=\dimen195
+\tagshift@=\dimen196
+\tagwidth@=\dimen197
+\totwidth@=\dimen198
+\lineht@=\dimen199
 \@envbody=\toks33
-\multlinegap=\skip193
-\multlinetaggap=\skip194
+\multlinegap=\skip192
+\multlinetaggap=\skip193
 \mathdisplay@stack=\toks34
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -741,12 +734,12 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen196
-\Gin@req@width=\dimen197
+\Gin@req@height=\dimen256
+\Gin@req@width=\dimen257
 )
 \c@r@tfl@t=\count336
-\rotFPtop=\skip195
-\rotFPbot=\skip196
+\rotFPtop=\skip194
+\rotFPbot=\skip195
 \rot@float@box=\box58
 \rot@mess@toks=\toks35
 )
@@ -774,24 +767,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
 \c@eargnum=\count338
 \c@OLDeargnum=\count339
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count340
 \mult@box=\box59
-\multicol@leftmargin=\dimen198
+\multicol@leftmargin=\dimen258
 \c@unbalance=\count341
 \c@collectmore=\count342
 \doublecol@number=\count343
 \multicoltolerance=\count344
 \multicolpretolerance=\count345
-\full@width=\dimen199
-\page@free=\dimen256
-\premulticols=\dimen257
-\postmulticols=\dimen258
-\multicolsep=\skip197
-\multicolbaselineskip=\skip198
+\full@width=\dimen259
+\page@free=\dimen260
+\premulticols=\dimen261
+\postmulticols=\dimen262
+\multicolsep=\skip196
+\multicolbaselineskip=\skip197
 \partial@page=\box60
 \last@line=\box61
-\maxbalancingoverflow=\dimen259
+\maxbalancingoverflow=\dimen263
 \mult@rightbox=\box62
 \mult@grightbox=\box63
 \mult@firstbox=\box64
@@ -835,9 +828,9 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@minrows=\count346
 \c@columnbadness=\count347
 \c@finalcolumnbadness=\count348
-\last@try=\dimen260
-\multicolovershoot=\dimen261
-\multicolundershoot=\dimen262
+\last@try=\dimen264
+\multicolovershoot=\dimen265
+\multicolundershoot=\dimen266
 \mult@nat@firstbox=\box102
 \colbreak@box=\box103
 \mc@col@check@num=\count349
@@ -850,11 +843,9 @@ y
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
 \pgfutil@everybye=\toks38
-\pgfutil@tempdima=\dimen263
-\pgfutil@tempdimb=\dimen264
-
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common-lists.tex))
+\pgfutil@tempdima=\dimen267
+\pgfutil@tempdimb=\dimen268
+)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
 \pgfutil@abb=\box104
@@ -862,9 +853,9 @@ y
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
@@ -872,7 +863,7 @@ sty
 sty
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
@@ -880,19 +871,19 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgfkeys@temptoks=\toks40
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-filtered.code.tex
+libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen265
-\pgf@y=\dimen266
-\pgf@xa=\dimen267
-\pgf@ya=\dimen268
-\pgf@xb=\dimen269
-\pgf@yb=\dimen270
-\pgf@xc=\dimen271
-\pgf@yc=\dimen272
-\pgf@xd=\dimen273
-\pgf@yd=\dimen274
+\pgf@x=\dimen269
+\pgf@y=\dimen270
+\pgf@xa=\dimen271
+\pgf@ya=\dimen272
+\pgf@xb=\dimen273
+\pgf@yb=\dimen274
+\pgf@xc=\dimen275
+\pgf@yc=\dimen276
+\pgf@xd=\dimen277
+\pgf@yd=\dimen278
 \w@pgf@writea=\write5
 \r@pgf@reada=\read4
 \c@pgf@counta=\count350
@@ -906,41 +897,39 @@ filtered.code.tex
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count355
 \pgfsyssoftpath@bigbuffer@items=\count356
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 e.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
 code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen275
+\pgfmath@dimen=\dimen279
 \pgfmath@count=\count357
 \pgfmath@box=\box105
 \pgfmath@toks=\toks45
@@ -948,7 +937,7 @@ r.code.tex
 \pgfmath@stack@operation=\toks47
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex
+ions.code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.basic.code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
@@ -964,7 +953,9 @@ ions.round.code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.misc.code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)))
+ions.integerarithmetics.code.tex)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
 \c@pgfmathroundto@lastzeros=\count358
@@ -973,37 +964,37 @@ ions.integerarithmetics.code.tex)))
 tex)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen276
-\pgf@picmaxx=\dimen277
-\pgf@picminy=\dimen278
-\pgf@picmaxy=\dimen279
-\pgf@pathminx=\dimen280
-\pgf@pathmaxx=\dimen281
-\pgf@pathminy=\dimen282
-\pgf@pathmaxy=\dimen283
-\pgf@xx=\dimen284
-\pgf@xy=\dimen285
-\pgf@yx=\dimen286
-\pgf@yy=\dimen287
-\pgf@zx=\dimen288
-\pgf@zy=\dimen289
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen280
+\pgf@picmaxx=\dimen281
+\pgf@picminy=\dimen282
+\pgf@picmaxy=\dimen283
+\pgf@pathminx=\dimen284
+\pgf@pathmaxx=\dimen285
+\pgf@pathminy=\dimen286
+\pgf@pathmaxy=\dimen287
+\pgf@xx=\dimen288
+\pgf@xy=\dimen289
+\pgf@yx=\dimen290
+\pgf@yy=\dimen291
+\pgf@zx=\dimen292
+\pgf@zy=\dimen293
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen290
-\pgf@path@lasty=\dimen291
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen294
+\pgf@path@lasty=\dimen295
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen292
-\pgf@shorten@start@additional=\dimen293
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen296
+\pgf@shorten@start@additional=\dimen297
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box106
 \pgf@hbox=\box107
 \pgf@layerbox@main=\box108
@@ -1011,83 +1002,83 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen294
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen298
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen295
-\pgf@pt@y=\dimen296
-\pgf@pt@temp=\dimen297
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen299
+\pgf@pt@y=\dimen300
+\pgf@pt@temp=\dimen301
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen298
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen302
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen299
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen303
 \pgf@sys@shading@range@num=\count360
 \pgf@shadingcount=\count361
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box109
-))
+)
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 erdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box110
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen300
-\pgf@nodesepend=\dimen301
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen304
+\pgf@nodesepend=\dimen305
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
 y
@@ -1100,33 +1091,30 @@ ty
 .tex))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
-
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex)
-\pgffor@iter=\dimen302
-\pgffor@skip=\dimen303
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen306
+\pgffor@skip=\dimen307
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count362
-\pgfplotmarksize=\dimen304
+\pgfplotmarksize=\dimen308
 )
-\tikz@lastx=\dimen305
-\tikz@lasty=\dimen306
-\tikz@lastxsaved=\dimen307
-\tikz@lastysaved=\dimen308
-\tikz@lastmovetox=\dimen309
-\tikz@lastmovetoy=\dimen310
-\tikzleveldistance=\dimen311
-\tikzsiblingdistance=\dimen312
+\tikz@lastx=\dimen309
+\tikz@lasty=\dimen310
+\tikz@lastxsaved=\dimen311
+\tikz@lastysaved=\dimen312
+\tikz@lastmovetox=\dimen313
+\tikz@lastmovetoy=\dimen314
+\tikzleveldistance=\dimen315
+\tikzsiblingdistance=\dimen316
 \tikz@figbox=\box111
 \tikz@figbox@bg=\box112
 \tikz@tempbox=\box113
@@ -1138,7 +1126,7 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count367
 \pgfmatrixcurrentcolumn=\count368
 \pgf@matrix@numberofcolumns=\count369
@@ -1147,64 +1135,64 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryarrows.code.tex
-File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen313
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen317
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowinset=\dimen314
-\pgfarrowlength=\dimen315
-\pgfarrowwidth=\dimen316
-\pgfarrowlinewidth=\dimen317
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen318
+\pgfarrowlength=\dimen319
+\pgfarrowwidth=\dimen320
+\pgfarrowlinewidth=\dimen321
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
 pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
 pgflibraryshapes.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
 pgflibraryshapes.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
 pgflibraryshapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.callouts.code.tex
@@ -1212,11 +1200,11 @@ z/libraries\tikzlibraryshapes.callouts.code.tex
 pgflibraryshapes.callouts.code.tex))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
 pgflibraryshapes.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodepartlowerbox=\box115
 \pgfnodeparttwobox=\box116
 \pgfnodepartthreebox=\box117
@@ -1240,7 +1228,7 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryshapes.gates.logic.US.code.tex
-File: tikzlibraryshapes.gates.logic.US.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryshapes.gates.logic.US.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes/
 circuits\pgflibraryshapes.gates.logic.US.code.tex
@@ -1248,13 +1236,10 @@ circuits\pgflibraryshapes.gates.logic.US.code.tex
 circuits\pgflibraryshapes.gates.logic.code.tex)))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (ethics-style.sty
+Package: ethics-style 
 
-LaTeX Warning: You have requested package `ethics-style',
-               but the package provides `intro-style'.
-
-Package: intro-style 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
@@ -1264,10 +1249,10 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
 ies.sty
-Package: glossaries 2021/11/01 v4.49 (NLCT)
+Package: glossaries 2022/11/03 v4.52 (NLCT)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
-Package: mfirstuc 2021/10/15 v2.07 (NLCT)
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
 \@glsmfirst=\toks50
 \@glsmrest=\toks51
 )
@@ -1334,7 +1319,7 @@ Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks52
 \@dtl@tmpcount=\count384
-\dtl@tmplength=\skip199
+\dtl@tmplength=\skip198
 \dtl@sortresult=\count385
 \@dtl@numgrpsepcount=\count386
 \@dtl@datatype=\count387
@@ -1342,20 +1327,16 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count389
 \@dtl@foreach@level=\count390
 )
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
-ies-compatible-307.sty
-Package: glossaries-compatible-307 2021/11/01 v4.49 (NLCT)
-)
 \gls@level=\count391
 \@gls@tmpb=\toks53
-\gls@tmplen=\skip256
+\gls@tmplen=\skip199
 
 
-Package glossaries Warning: Overriding \printglossary on input line 6052.
+Package glossaries Warning: Overriding \printglossary on input line 6157.
 
 
 Package glossaries Warning: Overriding `theglossary' environment on input line 
-6658.
+6751.
 
 \glskeylisttok=\toks54
 \glslabeltok=\toks55
@@ -1364,25 +1345,25 @@ Package glossaries Warning: Overriding `theglossary' environment on input line
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-hypernav.sty
-Package: glossary-hypernav 2021/11/01 v4.49 (NLCT)
+Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-list.sty
-Package: glossary-list 2021/11/01 v4.49 (NLCT)
-\glslistdottedwidth=\skip257
+Package: glossary-list 2022/11/03 v4.52 (NLCT)
+\glslistdottedwidth=\skip256
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-long.sty
-Package: glossary-long 2021/11/01 v4.49 (NLCT)
+Package: glossary-long 2022/11/03 v4.52 (NLCT)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip258
-\LTright=\skip259
-\LTpre=\skip260
-\LTpost=\skip261
+\LTleft=\skip257
+\LTright=\skip258
+\LTpre=\skip259
+\LTpost=\skip260
 \LTchunksize=\count392
-\LTcapwidth=\dimen318
+\LTcapwidth=\dimen322
 \LT@head=\box135
 \LT@firsthead=\box136
 \LT@foot=\box137
@@ -1394,36 +1375,36 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count396
 \LT@p@ftn=\toks58
 )
-\glsdescwidth=\skip262
-\glspagelistwidth=\skip263
+\glsdescwidth=\skip261
+\glspagelistwidth=\skip262
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-super.sty
-Package: glossary-super 2021/11/01 v4.49 (NLCT)
+Package: glossary-super 2022/11/03 v4.52 (NLCT)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
 ar.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
 \c@tracingst=\count397
-\ST@wd=\dimen319
-\ST@rightskip=\skip264
-\ST@leftskip=\skip265
-\ST@parfillskip=\skip266
-\ST@pageleft=\dimen320
-\ST@headht=\dimen321
-\ST@tailht=\dimen322
-\ST@pagesofar=\dimen323
-\ST@pboxht=\dimen324
-\ST@lineht=\dimen325
-\ST@prevht=\dimen326
-\ST@toadd=\dimen327
-\ST@dimen=\dimen328
+\ST@wd=\dimen323
+\ST@rightskip=\skip263
+\ST@leftskip=\skip264
+\ST@parfillskip=\skip265
+\ST@pageleft=\dimen324
+\ST@headht=\dimen325
+\ST@tailht=\dimen326
+\ST@pagesofar=\dimen327
+\ST@pboxht=\dimen328
+\ST@lineht=\dimen329
+\ST@prevht=\dimen330
+\ST@toadd=\dimen331
+\ST@dimen=\dimen332
 \ST@pbox=\box140
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
 ary-tree.sty
-Package: glossary-tree 2021/11/01 v4.49 (NLCT)
-\glstreeindent=\skip267
+Package: glossary-tree 2022/11/03 v4.52 (NLCT)
+\glstreeindent=\skip266
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tabu\tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
@@ -1432,8 +1413,8 @@ Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box141
 \sift@deathcycles=\count398
-\@vwid@loff=\dimen329
-\@vwid@roff=\dimen330
+\@vwid@loff=\dimen333
+\@vwid@roff=\dimen334
 )
 \c@taburow=\count399
 \tabu@nbcols=\count400
@@ -1441,22 +1422,22 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@Xcol=\count402
 \tabu@alloc=\count403
 \tabu@nested=\count404
-\tabu@target=\dimen331
-\tabu@spreadtarget=\dimen332
-\tabu@naturalX=\dimen333
-\tabucolX=\dimen334
-\tabu@Xsum=\dimen335
-\extrarowdepth=\dimen336
-\abovetabulinesep=\dimen337
-\belowtabulinesep=\dimen338
-\tabustrutrule=\dimen339
+\tabu@target=\dimen335
+\tabu@spreadtarget=\dimen336
+\tabu@naturalX=\dimen337
+\tabucolX=\dimen338
+\tabu@Xsum=\dimen339
+\extrarowdepth=\dimen340
+\abovetabulinesep=\dimen341
+\belowtabulinesep=\dimen342
+\tabustrutrule=\dimen343
 \tabu@thebody=\toks59
 \tabu@footnotes=\toks60
 \tabu@box=\box142
 \tabu@arstrutbox=\box143
 \tabu@hleads=\box144
 \tabu@vleads=\box145
-\tabu@cellskip=\skip268
+\tabu@cellskip=\skip267
 ) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
@@ -1643,7 +1624,7 @@ LaTeX Info: Redefining \not on input line 2959.
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/mathastext\mathastext.s
 ty
-Package: mathastext 2019/11/16 v1.3w Use the text font in math mode (JFB)
+Package: mathastext 2022/11/04 v1.3y Use the text font in math mode (JFB)
 \mst@exists@muskip=\muskip18
 \mst@forall@muskip=\muskip19
 \mst@prime@muskip=\muskip20
@@ -1656,8 +1637,8 @@ Package: mathastext 2019/11/16 v1.3w Use the text font in math mode (JFB)
 
 ** ! and ?
 ** punctuation: , . : ; and \colon
-LaTeX Info: Redefining \rightarrowfill on input line 790.
-LaTeX Info: Redefining \leftarrowfill on input line 795.
+LaTeX Info: Redefining \rightarrowfill on input line 847.
+LaTeX Info: Redefining \leftarrowfill on input line 852.
 ** + and =
 ** adding = ; and + to \nfss@catcodes
 ** parentheses ( ) [ ] and slash /
@@ -1665,36 +1646,36 @@ LaTeX Info: Redefining \leftarrowfill on input line 795.
 ** \imath and \jmath 
 LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
 mal'
-(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
 d'
-(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2140.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2370.
 LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
 '
-(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2140.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 2370.
 LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
-(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
-(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2140.
+(Font)                  OT1/cmr/b/n --> OT1/cmr/b/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 2140.
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
-(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 2140.
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
-(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 2140.
+(Font)                  OT1/phv/m/n --> OT1/phv/m/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 2140.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 2140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 2370.
 LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 2140.
-** Latin letters in the normal (resp. bold) math versions are now
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 2370.
+** Latin letters in the `normal' (resp. `bold') math versions are now
 ** set up to use the fonts OT1/cmr/m(b)/n
 ** Other characters (digits, ...) and \log-like names will be
 ** typeset with the n shape.
@@ -1710,31 +1691,31 @@ Package: gitinfo2 2015/11/22 v2.0.7 git revision information
 \integerpart=\count408
 \decimalpart=\count409
 )
-Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 ) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen340
-\ESO@tempdimb=\dimen341
+Package: eso-pic 2023/03/23 v3.0b eso-pic (RN)
+\ESO@tempdima=\dimen344
+\ESO@tempdimb=\dimen345
 )
 
 Package gitinfo2 Warning: I can't find the file '.git/gitHeadInfo.gin'.
 (gitinfo2)                All git metadata has been set to '(None)'.
 
 )
-\barlength=\skip269
+\barlength=\skip268
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen342
-\captionmargin=\dimen343
-\caption@leftmargin=\dimen344
-\caption@rightmargin=\dimen345
-\caption@width=\dimen346
-\caption@indent=\dimen347
-\caption@parindent=\dimen348
-\caption@hangindent=\dimen349
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen346
+\captionmargin=\dimen347
+\caption@leftmargin=\dimen348
+\caption@rightmargin=\dimen349
+\caption@width=\dimen350
+\caption@indent=\dimen351
+\caption@parindent=\dimen352
+\caption@hangindent=\dimen353
 Package caption Info: memoir document class detected.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
@@ -1745,8 +1726,8 @@ e memoir document class (AR)
 \c@caption@flags=\count410
 \c@continuedfloat=\count411
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen350
-\caption@adjustwidth@linewidth=\dimen351
+\caption@adjustwidth@hsize=\dimen354
+\caption@adjustwidth@linewidth=\dimen355
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -1761,7 +1742,7 @@ Package caption Info: supertabular package is loaded.
 \c@ExampleArg=\count414
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
-Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
+Package: tcolorbox 2023/03/17 version 6.0.3 text color boxes
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
@@ -1783,7 +1764,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
 e.tex
-Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbraster.code.tex' version '6.0.3'
 \c@tcbrastercolumn=\count418
 \c@tcbrasterrow=\count419
 \c@tcbrasternum=\count420
@@ -1791,18 +1772,30 @@ Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
 .tex
-Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
-\tcb@waterbox=\box154
+Library (tcolorbox): 'tcbskins.code.tex' version '6.0.3'
 
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+Package: tikzfill.image 2022/07/20 v1.0.0 Image filling library for TikZ
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-commo
+n.sty
+Package: tikzfill-common 2022/07/20 v1.0.0 Auxiliary code for tikzfill
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2022/07/20 v1.0.0 Image filling library
+\l__tikzfill_img_box=\box154
+))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
 w.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.3'
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
 code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
-(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
-Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.3'
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box155
@@ -1811,59 +1804,59 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
 .tex
-Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.0.3'
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
 ode.tex
-Library (tcolorbox): 'tcbtheorems.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.3'
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
 de.tex
-Library (tcolorbox): 'tcbfitting.code.tex' version '5.1.1'
-\tcbfitdim=\dimen352
-\tcb@lowerfitdim=\dimen353
-\tcb@upperfitdim=\dimen354
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.0.3'
+\tcbfitdim=\dimen356
+\tcb@lowerfitdim=\dimen357
+\tcb@upperfitdim=\dimen358
 \tcb@cur@hbadness=\count422
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
 f8.code.tex
-Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.0.3'
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
 ode.tex
-Library (tcolorbox): 'tcblistings.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcblistings.code.tex' version '6.0.3'
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count423
 \lst@gtempboxa=\box158
 \lst@token=\toks68
 \lst@length=\count424
-\lst@currlwidth=\dimen355
+\lst@currlwidth=\dimen359
 \lst@column=\count425
 \lst@pos=\count426
-\lst@lostspace=\dimen356
-\lst@width=\dimen357
+\lst@lostspace=\dimen360
+\lst@width=\dimen361
 \lst@newlines=\count427
 \lst@lineno=\count428
-\lst@maxwidth=\dimen358
+\lst@maxwidth=\dimen362
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 \c@lstnumber=\count429
 \lst@skipnumbers=\count430
 \lst@framebox=\box159
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
-File: listings.cfg 2020/03/24 1.8d listings configuration
+File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
 re.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.0.3'
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
 .code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.0.3'
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
@@ -1876,50 +1869,50 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
 ode.tex
-Library (tcolorbox): 'tcbexternal.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.0.3'
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
 ode.tex
-Library (tcolorbox): 'tcbmagazine.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.0.3'
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
 ode.tex
-Library (tcolorbox): 'tcbvignette.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.0.3'
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryfadings.code.tex
-File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
 e.tex
-Library (tcolorbox): 'tcbposter.code.tex' version '5.1.1'
+Library (tcolorbox): 'tcbposter.code.tex' version '6.0.3'
 ))
 \c@ProbPart=\count432
 \c@countSeq=\count433
 
 
 Package hyperref Warning: Option `pdftitle' has already been used,
-(hyperref)                setting the option has no effect on input line 199.
+(hyperref)                setting the option has no effect on input line 198.
 
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 199.
+(hyperref)                setting the option has no effect on input line 198.
 
 
 Package hyperref Warning: Option `pdfsubject' has already been used,
-(hyperref)                setting the option has no effect on input line 199.
+(hyperref)                setting the option has no effect on input line 198.
 
 
 Package hyperref Warning: Option `pdfkeywords' has already been used,
-(hyperref)                setting the option has no effect on input line 199.
+(hyperref)                setting the option has no effect on input line 198.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 199.
-Package hyperref Info: Option `colorlinks' set `true' on input line 199.
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 199
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 198.
+Package hyperref Info: Option `colorlinks' set `true' on input line 198.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 198
 .
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.s
@@ -1934,27 +1927,27 @@ Package: chronology 2015/03/27 v1.1.1 Horizontal timeline
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count435
 \calc@Bcount=\count436
-\calc@Adimen=\dimen359
-\calc@Bdimen=\dimen360
-\calc@Askip=\skip270
-\calc@Bskip=\skip271
+\calc@Adimen=\dimen363
+\calc@Bdimen=\dimen364
+\calc@Askip=\skip269
+\calc@Bskip=\skip270
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count437
-\calc@Cskip=\skip272
+\calc@Cskip=\skip271
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-08-23 L3 programming layer (loader) 
+Package: expl3 2023-02-22 L3 programming layer (loader) 
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count438
 \l__pdf_internal_box=\box160
 ))
-Package: xparse 2022-06-22 L3 Experimental document command parser
+Package: xparse 2023-01-16 L3 Experimental document command parser
 )
 \c@step=\count439
 \c@stepstart=\count440
@@ -1962,16 +1955,16 @@ Package: xparse 2022-06-22 L3 Experimental document command parser
 \c@yearstart=\count442
 \c@yearstop=\count443
 \c@deltayears=\count444
-\xstart=\skip273
-\xstop=\skip274
-\unit=\skip275
-\timelinewidth=\skip276
+\xstart=\skip272
+\xstop=\skip273
+\unit=\skip274
+\timelinewidth=\skip275
 \timelinebox=\box161
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/07/20 3.78 The Babel package
+Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count445
-\U@D=\dimen361
+\U@D=\dimen365
 \l@unhyphenated=\language79
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
@@ -2024,7 +2017,7 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.st
 y
-Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -2076,13 +2069,13 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@sectionciteorderinternal@0=\count494
 \blx@entrysetcounter=\count495
 \blx@biblioinstance=\count496
-\labelnumberwidth=\skip277
-\labelalphawidth=\skip278
-\biblabelsep=\skip279
-\bibnamesep=\skip280
-\bibinitsep=\skip281
-\bibparsep=\skip282
-\bibhang=\skip283
+\labelnumberwidth=\skip276
+\labelalphawidth=\skip277
+\biblabelsep=\skip278
+\bibnamesep=\skip279
+\bibinitsep=\skip280
+\bibparsep=\skip281
+\bibhang=\skip282
 \blx@bcfin=\read7
 \blx@bcfout=\write6
 \blx@langwohyphens=\language80
@@ -2093,7 +2086,7 @@ Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'mla.dbx' found.
@@ -2171,30 +2164,30 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count565
 \c@pageref=\count566
 \c@savedpageref=\count567
-\shorthandwidth=\skip284
-\shortjournalwidth=\skip285
-\shortserieswidth=\skip286
-\shorttitlewidth=\skip287
-\shortauthorwidth=\skip288
-\shorteditorwidth=\skip289
-\locallabelnumberwidth=\skip290
-\locallabelalphawidth=\skip291
-\localshorthandwidth=\skip292
-\localshortjournalwidth=\skip293
-\localshortserieswidth=\skip294
-\localshorttitlewidth=\skip295
-\localshortauthorwidth=\skip296
-\localshorteditorwidth=\skip297
+\shorthandwidth=\skip283
+\shortjournalwidth=\skip284
+\shortserieswidth=\skip285
+\shorttitlewidth=\skip286
+\shortauthorwidth=\skip287
+\shorteditorwidth=\skip288
+\locallabelnumberwidth=\skip289
+\locallabelalphawidth=\skip290
+\localshorthandwidth=\skip291
+\localshortjournalwidth=\skip292
+\localshortserieswidth=\skip293
+\localshorttitlewidth=\skip294
+\localshortauthorwidth=\skip295
+\localshorteditorwidth=\skip296
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count568
 \c@textcitetotal=\count569
 \c@textcitemaxnames=\count570
@@ -2224,7 +2217,7 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
-File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count577
 \c@bbx:relatedtotal=\count578
 )
@@ -2262,60 +2255,75 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-08-23 L3 programming layer (loader) 
+(biblatex)             2023-02-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
 .sty
-Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
-
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
 \TP@textbox=\box162
 \TP@holdbox=\box163
-\TPHorizModule=\dimen362
-\TPVertModule=\dimen363
-\TP@margin=\dimen364
-\TP@absmargin=\dimen365
+\TPHorizModule=\dimen366
+\TPVertModule=\dimen367
+\TP@margin=\dimen368
+\TP@absmargin=\dimen369
 
 Grid set 16 x 16 = 22.58437pt x 36.135pt
-\TPboxrulesize=\dimen366
-\TP@ox=\dimen367
-\TP@oy=\dimen368
+\TPboxrulesize=\dimen370
+\TP@ox=\dimen371
+\TP@oy=\dimen372
 \TP@tbargs=\toks70
 TextBlockOrigin set to 0pt x 0pt
 ) (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen369
-\WF@size=\dimen370
+\wrapoverhang=\dimen373
+\WF@size=\dimen374
 \c@WF@wrappedlines=\count580
 \WF@box=\box164
 \WF@everypar=\toks71
 Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/pagecolor\pagecolor.sty
-Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
+Package: pagecolor 2023-02-14 v1.2b Provides thepagecolor (HMM)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/hardwrap\hardwrap.sty
+Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
 
-Package pagecolor Warning: \nopagecolor does not work with
-(pagecolor)                the used crop package. Using
-(pagecolor)                none
-(pagecolor)                as nopagecolor now
-(pagecolor)                 on input line 231.
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/ifplatform\ifplatform.s
+ty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.s
+ty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+)
+\hw@charcount=\count581
+\hw@wordcount=\count582
+\hw@maxprintline=\count583
+)
+Package pagecolor Info: \nopagecolor did not work with the crop package
+(pagecolor)             2017/11/19 v1.10. Using 
+(pagecolor)             none 
+(pagecolor)             as nopagecolor now.
+This message occurred on input line 189.
 
 
-Package pagecolor Warning: Option nopagecolor=none requested 
-(pagecolor)                but this does not work with the crop package.
-(pagecolor)                By option nopagecolor the "colour" to be used with \
-nopagecolor
-(pagecolor)                is set. The current value is "none" (maybe by defaul
-t),
-(pagecolor)                but the crop package broke \nopagecolor.
-(pagecolor)                Therefore the colour cannot be "none".
-(pagecolor)                Please change the option accordingly!
-(pagecolor)                As first aid nopagecolor is now set to white
-(pagecolor)                 on input line 231.
+Package pagecolor Warning: Option nopagecolor=none requested but this does not
+(pagecolor)                work with the crop package. By option nopagecolor
+(pagecolor)                the "color" to be used with \nopagecolor is set.
+(pagecolor)                The current value is "none" (maybe by default), but
+(pagecolor)                the crop package broke \nopagecolor. Therefore the
+(pagecolor)                color cannot be "none". Please change the option
+(pagecolor)                accordingly! As first aid nopagecolor is now set to
+(pagecolor)                white.
 
 )
    defining Unicode char U+FE01 (decimal 65025)
@@ -2338,6 +2346,12 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
+\glswrite=\write7
+\glo@main@file=\write8
+\openout8 = `IntroToEthics.glo'.
+
+Package glossaries Info: Writing glossary file IntroToEthics.glo on input line 
+40.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -2346,66 +2360,66 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
 (IntroToEthics.aux)
 \openout1 = `IntroToEthics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zbvmi/m/it on input line 67.
+LaTeX Font Info:    Checking defaults for OML/zbvmi/m/it on input line 70.
 LaTeX Font Info:    Trying to load font information for OML+zbvmi on input line
- 67.
+ 70.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlzbvmi.fd
 File: omlzbvmi.fd 2014/04/06 Fontinst v1.933 font definitions for OML/zbvmi.
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 70.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-67.
+70.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 70.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 67.
+ 70.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 70.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 67.
+e 70.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    ... okay on input line 70.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count581
-\scratchdimen=\dimen371
+\scratchcounter=\count584
+\scratchdimen=\dimen375
 \scratchbox=\box167
-\nofMPsegments=\count582
-\nofMParguments=\count583
+\nofMPsegments=\count585
+\nofMParguments=\count586
 \everyMPshowfont=\toks73
-\MPscratchCnt=\count584
-\MPscratchDim=\dimen372
-\MPnumerator=\count585
-\makeMPintoPDFobject=\count586
+\MPscratchCnt=\count587
+\MPscratchDim=\dimen376
+\MPnumerator=\count588
+\makeMPintoPDFobject=\count589
 \everyMPtoPDFconversion=\toks74
 )
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -2418,16 +2432,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 67.
-LaTeX Info: Command `\dddot' is already robust on input line 67.
-LaTeX Info: Command `\ddddot' is already robust on input line 67.
+Package hyperref Info: Link coloring ON on input line 70.
+LaTeX Info: Command `\dddot' is already robust on input line 70.
+LaTeX Info: Command `\ddddot' is already robust on input line 70.
+ (IntroToEthics.glsdefs)
 Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
-nput line 67.
+nput line 70.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count587
+\c@lstlisting=\count590
 Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
 Package biblatex Info: ... file 'american-mla.lbx' found.
 
@@ -2439,7 +2454,7 @@ Package biblatex Info: ... file 'american.lbx' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.l
 bx
-File: american.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
 Package biblatex Info: ... file 'english-mla.lbx' found.
 
@@ -2451,7 +2466,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
 x
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
 Package biblatex Info: ... file 'english-mla.lbx' found.
@@ -2464,7 +2479,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
 x
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -2474,23 +2489,25 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'IntroToEthics.bbl' found.
  (IntroToEthics.bbl)
-Package biblatex Info: Reference section=0 on input line 67.
-Package biblatex Info: Reference segment=0 on input line 67.
+Package biblatex Info: Reference section=0 on input line 70.
+Package biblatex Info: Reference segment=0 on input line 70.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7
-7.
+9.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (3.91483pt too wide) in paragraph at lines 88--92
+Overfull \hbox (3.91483pt too wide) in paragraph at lines 90--94
 \OT1/phv/b/n/40 What[] \OT1/phv/b/n/25 SHOULD I []\OT1/phv/b/n/40 Do?[] 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 104.
+(Font)              size <20.74> substituted on input line 106.
 
 [1
+
+\openout7 = `IntroToEthics.ist'.
 
 ] (content.tex (frontmatter.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
@@ -2626,57 +2643,62 @@ Overfull \hbox (0.61874pt too wide) detected at line 200
 
 [5]
 Overfull \hbox (0.61874pt too wide) detected at line 214
- \OT1/cmr/m/n/12 2\OT1/phv/m/n/12 63
+ \OT1/cmr/m/n/12 2\OT1/phv/m/n/12 64
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 222
- \OT1/cmr/m/n/12 2\OT1/phv/m/n/12 93
+ \OT1/cmr/m/n/12 2\OT1/phv/m/n/12 94
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 226
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 03
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 04
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 258
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 32
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 34
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 263
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 52
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 54
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 278
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 68
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 70
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 286
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 79
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 81
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 297
- \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 92
+ \OT1/cmr/m/n/12 3\OT1/phv/m/n/12 94
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 303
- \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 05
+ \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 07
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 314
- \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 23
+ \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 25
  []
 
 
 Overfull \hbox (0.61874pt too wide) detected at line 327
- \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 46
+ \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 45
+ []
+
+
+Overfull \hbox (0.61874pt too wide) detected at line 328
+ \OT1/cmr/m/n/12 4\OT1/phv/m/n/12 58
  []
 
 ) [6] (mod1.tex
@@ -2706,10 +2728,14 @@ Overfull \hbox (8.57274pt too wide) in paragraph at lines 20--21
  [] 
  []
 
-[4] [5] [6]
-Overfull \hbox (6.08058pt too wide) in paragraph at lines 59--60
-\OT1/phv/m/n/12 ful to go through ex-actly what that term 'Rel-a-tivism' means.
+[4]
+\@gls@deffile=\write9
+\openout9 = `IntroToEthics.glsdefs'.
 
+ [5] [6]
+Overfull \hbox (6.08058pt too wide) in paragraph at lines 66--67
+\OT1/phv/m/n/12 ful to go through ex-actly what that term '[][][]Rel-a-tivism[]
+[]' means.
  []
 
 [7] [8] [9] (culturalrelativismrachels.tex [10] [11
@@ -2858,72 +2884,72 @@ Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 [32] [33
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <20> on input line 97.
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16.66595> not available
-(Font)              size <17.28> substituted on input line 97.
+(Font)              size <17.28> substituted on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.99994> not available
-(Font)              size <14.4> substituted on input line 97.
+(Font)              size <14.4> substituted on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 97.
+(Font)              size <20.74> substituted on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <16.66595> not available
-(Font)              size <17.28> substituted on input line 97.
+(Font)              size <17.28> substituted on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13.99994> not available
-(Font)              size <14.4> substituted on input line 97.
+(Font)              size <14.4> substituted on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/it' in size <16.66595> not available
-(Font)              size <17.28> substituted on input line 97.
+(Font)              size <17.28> substituted on input line 147.
 
 [34] [35] [36]
-Overfull \hbox (9.80418pt too wide) in paragraph at lines 122--123
+Overfull \hbox (9.80418pt too wide) in paragraph at lines 172--173
 []\OT1/phv/m/n/12 Different cul-tures have dif-fer-ent views about the shape
  []
 
 
-Overfull \hbox (1.01936pt too wide) in paragraph at lines 129--130
+Overfull \hbox (1.01936pt too wide) in paragraph at lines 179--180
 \OT1/phv/m/n/12 Though the ar-gu-ment may not be any good, all that shows
  []
 
 [37]
-Overfull \hbox (1.85716pt too wide) in paragraph at lines 133--134
+Overfull \hbox (1.85716pt too wide) in paragraph at lines 183--184
 \OT1/phv/m/n/12 There's one other ar-gu-ment which one could come across
  []
 
 [38]
-Overfull \hbox (4.51167pt too wide) in paragraph at lines 141--142
+Overfull \hbox (4.51167pt too wide) in paragraph at lines 191--192
 []\OT1/phv/m/n/12 If it is wrong to judge the val-ues of one cul-ture against
  []
 
 
-Overfull \hbox (7.08217pt too wide) in paragraph at lines 143--144
+Overfull \hbox (7.08217pt too wide) in paragraph at lines 193--194
 []\OT1/phv/m/n/12 Therefore, there are no non-relative moral truths (they
  []
 
 [39] [40] [41] [42
 
 ] [43] [44]
-Overfull \hbox (3.55602pt too wide) in paragraph at lines 201--202
+Overfull \hbox (3.55602pt too wide) in paragraph at lines 251--252
 []\OT1/phv/m/n/12 Therefore, If MCR is true, then all Hu-man/-Civil Rights
  []
 
 [45] [46]
-Overfull \hbox (19.4061pt too wide) in paragraph at lines 218--219
+Overfull \hbox (19.4061pt too wide) in paragraph at lines 268--269
 []\OT1/phv/m/n/12 Different peo-ple at dif-fer-ent times, if the norms changed,
 
  []
 
 [47]
-Overfull \hbox (3.75258pt too wide) in paragraph at lines 228--229
+Overfull \hbox (3.75258pt too wide) in paragraph at lines 278--279
 \OT1/phv/m/n/12 idea that the dif-fer-ences be-tween cul-tures are in-sur-mount
 -
  []
@@ -2933,12 +2959,12 @@ Overfull \hbox (3.75258pt too wide) in paragraph at lines 228--229
 ] [49] [50] [51] [52] [53
 
 ] [54] [55] [56]
-Overfull \hbox (9.14113pt too wide) in paragraph at lines 263--264
+Overfull \hbox (9.14113pt too wide) in paragraph at lines 313--314
 \OT1/phv/m/n/12 say-ing that God made them (an easy way to get all-knowing
  []
 
 
-Overfull \hbox (4.74855pt too wide) in paragraph at lines 265--266
+Overfull \hbox (4.74855pt too wide) in paragraph at lines 315--316
 \OT1/phv/m/n/12 about where math-e-mat-i-cal and sci-en-tific truths come from.
 
  []
@@ -2946,7 +2972,7 @@ Overfull \hbox (4.74855pt too wide) in paragraph at lines 265--266
 [57]
 
 Package biblatex Warning: No driver for 'footcite:online'.
-(biblatex)                Using fallback driver on input line 270.
+(biblatex)                Using fallback driver on input line 320.
 
 [58] [59]) (mod2.tex [60] [61] [62
 
@@ -3092,130 +3118,130 @@ Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 [86] [87
 
 ] [88] [89]
-Overfull \hbox (5.18936pt too wide) in paragraph at lines 43--44
+Overfull \hbox (5.18936pt too wide) in paragraph at lines 70--71
 []\OT1/phv/m/n/12 The Spinach Test is where we take the joke and change
  []
 
 
-Overfull \hbox (4.15083pt too wide) in paragraph at lines 47--48
+Overfull \hbox (4.15083pt too wide) in paragraph at lines 74--75
 \OT1/phv/m/n/12 ing is oc-cur-ring. Other times they are just silly, like wheth
 er
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 51--51
+Underfull \hbox (badness 2970) in paragraph at lines 78--78
 \OT1/phv/m/n/12 about whether the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 \OT1/phv/m/n/12 about whether
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 53--54
+Underfull \hbox (badness 4217) in paragraph at lines 80--81
 \OT1/phv/m/n/12 Buffy the Vam-pire
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/12 about whether
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/12 refugees should
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 55--55
+Underfull \hbox (badness 3039) in paragraph at lines 82--82
 \OT1/phv/m/n/12 be al-lowed in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 \OT1/phv/m/n/12 about whether
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 57--58
+Underfull \hbox (badness 1430) in paragraph at lines 84--85
 \OT1/phv/m/n/12 about the di-rec-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 []|\OT1/phv/m/n/12 A dis-agree-ment
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 59--60
+Underfull \hbox (badness 2119) in paragraph at lines 86--87
 \OT1/phv/m/n/12 choco-late is bet-ter
  []
 
 [90] [91] [92]
-Overfull \hbox (1.63899pt too wide) in paragraph at lines 66--67
+Overfull \hbox (1.63899pt too wide) in paragraph at lines 93--94
 []\OT1/phv/m/n/12 So, for this test about whether you are a rel-a-tivist about
  []
 
 
-Overfull \hbox (5.92451pt too wide) in paragraph at lines 68--69
+Overfull \hbox (5.92451pt too wide) in paragraph at lines 95--96
 \OT1/phv/m/n/12 about moral-ity are dis-agree-ments about pref-er-ence. When
  []
 
 [93] [94] [95] [96] [97
 
 ] [98]
-Overfull \hbox (3.1014pt too wide) in paragraph at lines 110--111
+Overfull \hbox (3.1014pt too wide) in paragraph at lines 144--145
 []\OT1/phv/m/n/12 People be-come moral skep-tics for sev-eral dif-fer-ent rea-
  []
 
 [99]
-Overfull \hbox (12.78499pt too wide) in paragraph at lines 116--118
+Overfull \hbox (12.78499pt too wide) in paragraph at lines 150--152
 []\OT1/phv/m/n/12 The next ar-gu-ment against the pos-si-bil-ity of moral knowl
 -
  []
@@ -3230,70 +3256,64 @@ Overfull \hbox (3.77881pt too wide) in paragraph at lines 5--6
 [103
 
 ] [104] [105]
-Overfull \hbox (4.64027pt too wide) in paragraph at lines 34--35
-\OT1/phv/m/n/12 be-hav-iors right/wrong are writ-ten by a per-fect au-thor (God
-)
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 46--46
+Underfull \hbox (badness 1931) in paragraph at lines 53--53
 []|\OT1/phv/m/n/12 If God for-bids ho-
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 46--47
+Underfull \hbox (badness 3735) in paragraph at lines 53--54
 \OT1/phv/m/n/12 tion, then it's im-
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 47--47
+Underfull \hbox (badness 1308) in paragraph at lines 54--54
 []|\OT1/phv/m/n/12 God for-bids ho-mo-
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 47--48
+Underfull \hbox (badness 5756) in paragraph at lines 54--55
 []|\OT1/phv/m/n/12 God for-bids abor-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\OT1/phv/m/n/12 Therefore, ho-mo-
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 48--49
+Underfull \hbox (badness 1708) in paragraph at lines 55--56
 []|\OT1/phv/m/n/12 Therefore, abor-tion
  []
 
 [106]
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\OT1/phv/m/n/12 God com-manded
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 55--55
+Underfull \hbox (badness 7362) in paragraph at lines 62--62
 \OT1/phv/m/n/12 killing his son is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []|\OT1/phv/m/n/12 Therefore, get-ting
  []
 
 [107] [108]
-Overfull \hbox (3.07274pt too wide) in paragraph at lines 83--84
+Overfull \hbox (3.07274pt too wide) in paragraph at lines 90--91
 []\OT1/phv/m/n/12 Either God has rea-son for His com-mands or He lacks
  []
 
 
-Overfull \hbox (3.14447pt too wide) in paragraph at lines 96--97
+Overfull \hbox (3.14447pt too wide) in paragraph at lines 103--104
 \OT1/phv/m/n/12 cre-ated a flaw-less moral-ity which re-quired us to rape,
  []
 
 [109] [110] [111
 
 ] [112]
-Overfull \hbox (10.77893pt too wide) in paragraph at lines 118--119
+Overfull \hbox (10.77893pt too wide) in paragraph at lines 132--133
 []\OT1/phv/m/n/12 Therefore, we can't know any-thing about moral claims. 
  []
 
@@ -3301,39 +3321,33 @@ Overfull \hbox (10.77893pt too wide) in paragraph at lines 118--119
 
 ]
 Overfull \hbox (2.96066pt too wide) in paragraph at lines 11--12
-\OT1/phv/m/n/12 trin-si-cally good (or has ex-trin-sic value) or in-trin-si-cal
-ly good
+\OT1/phv/m/n/12 trin-si-cally good (or has [][][]ex-trin-sic value[][]) or in-t
+rin-si-cally good
  []
 
 [122
 
 ] [123]
-Overfull \hbox (2.39798pt too wide) in paragraph at lines 21--22
+Overfull \hbox (2.39798pt too wide) in paragraph at lines 40--41
 []\OT1/phv/m/n/12 For Epi-cu-rus, the way to get this plea-sure, in-ner peace,
  []
 
 [124] [125]
-Overfull \hbox (5.41388pt too wide) in paragraph at lines 43--44
+Overfull \hbox (5.41388pt too wide) in paragraph at lines 62--63
 \OT1/phv/m/n/12 The he-do-nist tells us that mis-ery, un-hap-pi-ness, takes awa
 y
  []
 
 [126] [127] [128
 
-]
-Overfull \hbox (9.15521pt too wide) in paragraph at lines 70--71
-\OT1/phv/m/n/12 On this view, con-flicts be-tween your self-interest and moral-
-
- []
-
-[129] [130] [131] [132] [133]) (mod5.tex
-Overfull \hbox (1.34853pt too wide) in paragraph at lines 139--1
+] [129] [130] [131] [132] [133]) (mod5.tex
+Overfull \hbox (1.34853pt too wide) in paragraph at lines 166--1
 []\OT1/phv/m/n/12 Various dif-fer-ent ver-sions of that re-ply to the third pro
 b-
  []
 
 
-Overfull \hbox (3.6207pt too wide) in paragraph at lines 139--1
+Overfull \hbox (3.6207pt too wide) in paragraph at lines 166--1
 \OT1/phv/m/n/12 with them is that they weigh our pref-er-ences against ethics
  []
 
@@ -3342,13 +3356,13 @@ Overfull \hbox (3.6207pt too wide) in paragraph at lines 139--1
 ] [137
 
 ] [138] [139]
-Overfull \hbox (11.25311pt too wide) in paragraph at lines 29--30
+Overfull \hbox (11.25311pt too wide) in paragraph at lines 36--37
 \OT1/phv/m/n/12 ba-sic out-line of the way in which Con-se-quen-tial-ism choose
 s
  []
 
 [140] [141] [142] [143] [144] [145] [146]
-Overfull \hbox (7.45084pt too wide) in paragraph at lines 95--96
+Overfull \hbox (7.45084pt too wide) in paragraph at lines 124--125
 \OT1/phv/m/n/12 Con-se-quen-tial-ist the-ory needs to an-swer, what's the good?
 
  []
@@ -3357,76 +3371,76 @@ Overfull \hbox (7.45084pt too wide) in paragraph at lines 95--96
 
 ] [148] [149]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-08.
+44.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-Overfull \hbox (45.58656pt too wide) in paragraph at lines 105--108
+Overfull \hbox (45.58656pt too wide) in paragraph at lines 141--144
 \OT1/phv/m/n/12 nis-m/eth-i-cal ego-ism. Like he-do-nism, it takes well-being/h
 appiness
  []
 
 [150]
-Overfull \hbox (3.717pt too wide) in paragraph at lines 114--115
+Overfull \hbox (3.717pt too wide) in paragraph at lines 150--151
 \OT1/phv/m/n/12 it is hard to say all) and con-se-quen-tial-ism in gen-eral (sa
 me
  []
 
 
-Overfull \hbox (1.40785pt too wide) in paragraph at lines 114--115
+Overfull \hbox (1.40785pt too wide) in paragraph at lines 150--151
 \OT1/phv/m/n/12 morally valu-able. Whether you are rich, poor, black, white,
  []
 
 [151] [152] [153] [154] [155] [156]
-Overfull \hbox (4.44936pt too wide) in paragraph at lines 161--162
+Overfull \hbox (4.44936pt too wide) in paragraph at lines 197--198
 \OT1/phv/m/n/12 Some ac-tion-s/si-t-u-a-tions we want to say are al-ways morall
 y
  []
 
 
-Overfull \hbox (0.37308pt too wide) in paragraph at lines 161--162
+Overfull \hbox (0.37308pt too wide) in paragraph at lines 197--198
 \OT1/phv/m/n/12 of an ac-tion. Act-types, on the other hand, are the classes
  []
 
 [157]
-Overfull \hbox (11.4604pt too wide) in paragraph at lines 167--168
+Overfull \hbox (11.4604pt too wide) in paragraph at lines 203--204
 []\OT1/phv/m/n/12 Utilitarianism some-times al-lows/-com-mands us to com-
  []
 
 [158] [159]
-Overfull \hbox (0.84502pt too wide) in paragraph at lines 187--188
+Overfull \hbox (0.84502pt too wide) in paragraph at lines 223--224
 []\OT1/phv/m/n/12 With all this in-for-ma-tion about how awe-some and plea-
  []
 
 [160]
-Overfull \hbox (0.14606pt too wide) in paragraph at lines 192--193
+Overfull \hbox (0.14606pt too wide) in paragraph at lines 228--229
 []\OT1/phv/m/n/12 If he has a lot of plea-sures, then the great-est amount
  []
 
 
-Overfull \hbox (5.17209pt too wide) in paragraph at lines 192--193
+Overfull \hbox (5.17209pt too wide) in paragraph at lines 228--229
 \OT1/phv/m/n/12 of hap-pi-ness over the great-est num-ber will be served. 
  []
 
 [161]
-Overfull \hbox (36.84785pt too wide) in paragraph at lines 207--208
+Overfull \hbox (36.84785pt too wide) in paragraph at lines 243--244
 \OT1/phv/m/n/12 the morally right ac-tion given the out-comes. As Act-Utilitari
 anism
  []
 
 
-Overfull \hbox (9.16489pt too wide) in paragraph at lines 207--208
+Overfull \hbox (9.16489pt too wide) in paragraph at lines 243--244
 \OT1/phv/m/n/12 sory glance over the num-bers would have Act-Utilitarianism
  []
 
 [162]
-Overfull \hbox (1.01677pt too wide) in paragraph at lines 212--213
+Overfull \hbox (1.01677pt too wide) in paragraph at lines 248--249
 \OT1/phv/m/n/12 con-cerns about per-sonal prop-erty and there are con-cerns
  []
 
 
-Overfull \hbox (20.86647pt too wide) in paragraph at lines 212--213
+Overfull \hbox (20.86647pt too wide) in paragraph at lines 248--249
 \OT1/phv/m/n/12 about the harm done to Singer.[][][][][] How-ever, Act-Utilitar
 ianism,
  []
@@ -3434,25 +3448,25 @@ ianism,
 [163] [164] [165] [166
 
 ]
-Overfull \hbox (8.16284pt too wide) in paragraph at lines 238--239
+Overfull \hbox (8.16284pt too wide) in paragraph at lines 281--282
 []\OT1/phv/m/n/12 Formulate a few rules which ap-ply to your case, things
  []
 
 [167] [168] [169]
-Underfull \hbox (badness 1097) in paragraph at lines 288--288
+Underfull \hbox (badness 1097) in paragraph at lines 331--331
 []\OT1/phv/m/n/12 Pete has slowly be-come en-am-ored with Sally,
  []
 
 [170] [171] [172] [173
 
 ]
-Overfull \hbox (8.3847pt too wide) in paragraph at lines 309--310
+Overfull \hbox (8.3847pt too wide) in paragraph at lines 360--361
 \OT1/phv/m/n/12 Entire li-braries could be filled with books and en-tire course
 s
  []
 
 [174]
-Overfull \hbox (4.51968pt too wide) in paragraph at lines 341--342
+Overfull \hbox (4.51968pt too wide) in paragraph at lines 392--393
 []\OT1/phv/m/n/12 Fundamentally, the Mo-hists saw them-selves as a moral
  []
 
@@ -3461,22 +3475,22 @@ Overfull \vbox (29.35252pt too high) has occurred while \output is active []
 
 
 [179] [180] [181]
-Overfull \hbox (5.145pt too wide) in paragraph at lines 430--431
+Overfull \hbox (5.145pt too wide) in paragraph at lines 481--482
 \OT1/phv/m/n/12 care must be dis-played through one's ac-tions. The wealthy
  []
 
 [182]
-Underfull \hbox (badness 1092) in paragraph at lines 447--447
+Underfull \hbox (badness 1092) in paragraph at lines 498--498
 []\OT1/phv/m/n/12 In eval-u-at-ing elab-o-rate fu-ner-als and pro-longed
  []
 
 [183] [184] [185] [186] [187]
-Overfull \hbox (3.39592pt too wide) in paragraph at lines 512--513
+Overfull \hbox (3.39592pt too wide) in paragraph at lines 563--564
 \OT1/phv/m/n/12 to in-crease your re-sources, hav-ing more re-sources means
  []
 
 [188] [189] [190]
-Overfull \hbox (3.18451pt too wide) in paragraph at lines 529--530
+Overfull \hbox (3.18451pt too wide) in paragraph at lines 580--581
 []\OT1/phv/m/n/12 One in-ter-est-ing as-pect of this is that these three goods,
 
  []
@@ -3486,13 +3500,13 @@ Overfull \hbox (3.18451pt too wide) in paragraph at lines 529--530
 ] [196
 
 ]
-Underfull \hbox (badness 1158) in paragraph at lines 11--11
+Underfull \hbox (badness 1158) in paragraph at lines 19--19
 \OT1/cmr/m/it/9 tory of Phi-los-o-phy \OT1/cmr/m/n/9 vol. 12, no. 4, 2004, http
 s://doi.org/[][]$10 . 1080 /
  []
 
 
-Overfull \hbox (3.95491pt too wide) in paragraph at lines 11--12
+Overfull \hbox (3.95491pt too wide) in paragraph at lines 19--20
 []\OT1/phv/m/n/12 Like Util-i-tar-i-an-ism, Iman-nual Kant's moral the-ory stat
 es
  []
@@ -3502,12 +3516,12 @@ es
 ] [202] [203] [204] [205] [206
 
 ] [207] [208]
-Overfull \hbox (0.85196pt too wide) in paragraph at lines 93--94
+Overfull \hbox (0.85196pt too wide) in paragraph at lines 166--167
 []\OT1/phv/m/n/12 Slavery does not treat peo-ple as an in-trin-si-cally valu-
  []
 
 [209] [210]
-Overfull \hbox (8.57639pt too wide) in paragraph at lines 121--122
+Overfull \hbox (8.57639pt too wide) in paragraph at lines 194--195
 \OT1/phv/m/n/12 mere-means. Since Kant ex-plic-itly stated that we shouldn't,
  []
 
@@ -3516,29 +3530,29 @@ Overfull \hbox (8.57639pt too wide) in paragraph at lines 121--122
 ] [214
 
 ] [215] [216] [217] [218]
-Overfull \hbox (10.02855pt too wide) in paragraph at lines 47--48
+Overfull \hbox (10.02855pt too wide) in paragraph at lines 56--57
 \OT1/phv/m/n/12 We of-ten have a good gauge in our emo-tions about whether
  []
 
 [219] [220] [221] [222] [223] [224] [225]
-Overfull \hbox (1.36418pt too wide) in paragraph at lines 116--117
+Overfull \hbox (1.36418pt too wide) in paragraph at lines 142--143
 \OT1/phv/m/n/12 lit-tle in-for-ma-tion about choos-ing be-tween the virtues. Th
 is
  []
 
 [226] [227]
-Overfull \hbox (13.67625pt too wide) in paragraph at lines 139--140
+Overfull \hbox (13.67625pt too wide) in paragraph at lines 165--166
 \OT1/phv/m/n/12 Virtue Ethics tells us to do/be as the vir-tu-ous per-son does/
 is.
  []
 
 [228]
-Overfull \hbox (1.23546pt too wide) in paragraph at lines 144--145
+Overfull \hbox (1.23546pt too wide) in paragraph at lines 170--171
 \OT1/phv/m/n/12 rent case, my cir-cum-stances are quite dif-fer-ent than those
  []
 
 [229] [230] [231] [232]
-Overfull \hbox (24.77905pt too wide) in paragraph at lines 186--187
+Overfull \hbox (24.77905pt too wide) in paragraph at lines 212--213
 \OT1/phv/m/n/12 nous peo-ples who in-hab-ited what is to-day Mex-ico, Guatemala
 ,
  []
@@ -3546,47 +3560,47 @@ Overfull \hbox (24.77905pt too wide) in paragraph at lines 186--187
 [233
 
 ]
-Overfull \hbox (3.09422pt too wide) in paragraph at lines 189--190
+Overfull \hbox (3.09422pt too wide) in paragraph at lines 230--231
 \OT1/phv/m/n/12 sult, I will seek to be re-spect-ful of this over-ar-ch-ing met
 hod-
  []
 
 [234]
-Overfull \hbox (7.20486pt too wide) in paragraph at lines 191--192
+Overfull \hbox (7.20486pt too wide) in paragraph at lines 232--233
 []\OT1/phv/m/n/12 The method-olog-i-cal pur-suits also dif-fer from other philo
 -
  []
 
-[235]
-Overfull \hbox (8.76892pt too wide) in paragraph at lines 196--197
+[235] [236]
+Overfull \hbox (8.76892pt too wide) in paragraph at lines 244--245
 \OT1/phv/m/n/12 im-pos-si-ble nor did it rad-i-cally change the con-clu-sions a
 bout
  []
 
-[236] [237] [238] [239] [240] [241] [242] [243]
-Overfull \hbox (1.18661pt too wide) in paragraph at lines 284--285
+[237] [238] [239] [240] [241] [242] [243]
+Overfull \hbox (1.18661pt too wide) in paragraph at lines 332--333
 \OT1/phv/m/n/12 rooted. The con-cept of some-thing be-ing true, in the sense
  []
 
 [244] [245] [246] [247] [248]
-Overfull \hbox (3.8488pt too wide) in paragraph at lines 337--338
+Overfull \hbox (3.8488pt too wide) in paragraph at lines 385--386
 \OT1/phv/m/n/12 per-son and says that it is a per-son who has cer-tain virtues,
 
  []
 
 
-Overfull \hbox (10.88786pt too wide) in paragraph at lines 339--340
-[]\OT1/phv/m/n/12 VC (Virtue Con-se-quen-tial-ism) has a core prin-ci-ple about
-
+Overfull \hbox (10.88786pt too wide) in paragraph at lines 387--388
+[]\OT1/phv/m/n/12 VC ([][][]Virtue Con-se-quen-tial-ism[][]) has a core prin-ci
+-ple about
  []
 
 
-Overfull \hbox (4.02853pt too wide) in paragraph at lines 339--340
+Overfull \hbox (4.02853pt too wide) in paragraph at lines 387--388
 \OT1/phv/m/n/12 means that the Virtue Con-se-quen-tial-ism is con-cerned with
  []
 
 
-Overfull \hbox (7.20851pt too wide) in paragraph at lines 339--340
+Overfull \hbox (7.20851pt too wide) in paragraph at lines 387--388
 \OT1/phv/m/n/12 ing that the virtues are the mid-dle be-tween two ex-tremes,[][
 ][][][]
  []
@@ -3594,32 +3608,38 @@ Overfull \hbox (7.20851pt too wide) in paragraph at lines 339--340
 [249
 
 ] [250] [251] [252] [253] [254] [255]
-Overfull \hbox (15.21548pt too wide) in paragraph at lines 411--412
+Overfull \hbox (15.21548pt too wide) in paragraph at lines 467--468
 \OT1/phv/m/n/12 Ob-jec-tivism mod-ule, some-times coun-ter-fac-tu-als have some
 -
  []
 
-[256] [257] [258] [259]
-Overfull \hbox (2.09654pt too wide) in paragraph at lines 433--434
+[256]
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
+\OT1/phv/b/n/20 The Never Bro-ken Wine
+ []
+
+[257]
+Overfull \hbox (0.29701pt too wide) in paragraph at lines 489--490
+\OT1/phv/m/n/12 are ac-tu-ally dis-guised com-par-isons. Much like with Coun-
+ []
+
+[258] [259] [260]
+Overfull \hbox (2.09654pt too wide) in paragraph at lines 520--521
 \OT1/phv/m/n/12 un-nec-es-sary ad-di-tional suf-fer-ing in var-i-ous sit-u-a-ti
 ons (this
  []
 
 
-Overfull \hbox (1.7491pt too wide) in paragraph at lines 433--434
+Overfull \hbox (1.7491pt too wide) in paragraph at lines 520--521
 \OT1/phv/m/n/12 is sim-i-lar to self-less-ness). Peo-ple con-sis-tently act-ing
  cow-
  []
 
-) (mod8.tex [260] [261] [262
+[261]) (mod8.tex [262] [263
 
-] (statusofabortion.tex [263
+] (statusofabortion.tex [264
 
 ]
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
-[264]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
@@ -3644,6 +3664,10 @@ Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
 [270]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[271]
 Overfull \hbox (1.82915pt too wide) in paragraph at lines 258--272
 []\OT1/phv/m/n/12 The plau-si-bil-ity of such an ar-gu-ment is enough to show
  []
@@ -3652,15 +3676,15 @@ Overfull \hbox (1.82915pt too wide) in paragraph at lines 258--272
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[271]
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
 [272]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
 [273]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[274]
 Overfull \hbox (7.85709pt too wide) in paragraph at lines 333--347
 \OT1/phv/m/n/12 comes an ex-tremely com-plex and dif-fi-cult ques-tion whether
  []
@@ -3669,7 +3693,7 @@ Overfull \hbox (7.85709pt too wide) in paragraph at lines 333--347
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[274]
+[275]
 Overfull \hbox (1.31696pt too wide) in paragraph at lines 381--394
 \OT1/phv/m/n/12 One rea-son why this vi-tal sec-ond ques-tion is so fre-quently
 
@@ -3679,7 +3703,7 @@ Overfull \hbox (1.31696pt too wide) in paragraph at lines 381--394
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[275]
+[276]
 Overfull \hbox (7.29314pt too wide) in paragraph at lines 395--411
 \OT1/phv/m/n/12 meant to re-fer ex-clu-sively to mem-bers of the species Homo
  []
@@ -3688,11 +3712,11 @@ Overfull \hbox (7.29314pt too wide) in paragraph at lines 395--411
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[276]
+[277]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[277]
+[278]
 Overfull \hbox (4.70436pt too wide) in paragraph at lines 489--492
 []\OT1/phv/m/n/12 consciousness (of ob-jects and events ex-ter-nal and/or
  []
@@ -3701,21 +3725,17 @@ Overfull \hbox (4.70436pt too wide) in paragraph at lines 489--492
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[278]
+[279]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[279]
+[280]
 Overfull \hbox (10.07872pt too wide) in paragraph at lines 534--554
 \OT1/phv/m/n/12 uni-ver-sal (to peo-ple), and that it is com-mon to both proabo
 r-
  []
 
 
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
-[280]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
@@ -3752,6 +3772,10 @@ Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
 [289]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[290]
 Overfull \hbox (17.5165pt too wide) in paragraph at lines 866--879
 \OT1/phv/m/n/12 prac-tice of in-fan-ti-cide un-der such un-for-tu-nate cir-cum-
 stances,
@@ -3761,323 +3785,323 @@ stances,
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[290]
+[291]
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[291])
+[292])
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[292]
+[293]
 Overfull \hbox (5.37726pt too wide) in paragraph at lines 15--17
 \OT1/phv/m/n/12 am-ples I could give, the core, miss-ing fea-ture which makes
  []
 
-[293
+[294
 
-] [294] [295]
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+] [295] [296]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []\OT1/phv/m/n/12 Restrictive Laws
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 \OT1/phv/m/n/12 re-gard-ing abor-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 \OT1/phv/m/n/12 cause more harm
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 42--43
+Underfull \hbox (badness 2401) in paragraph at lines 58--59
 []\OT1/phv/m/n/12 Causing more harm
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 43--44
+Underfull \hbox (badness 3068) in paragraph at lines 59--60
 []\OT1/phv/m/n/12 Therefore, re-stric-tive
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-[]\OT1/phv/m/n/12 Restrictive laws re-
- []
-
-
-Underfull \hbox (badness 5607) in paragraph at lines 45--46
-\OT1/phv/m/n/12 gard-ing abor-tion deny
- []
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 47--48
-[]\OT1/phv/m/n/12 Violating their right to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[]\OT1/phv/m/n/12 Therefore, re-stric-tive
- []
-
-
-Overfull \hbox (27.93376pt too wide) in paragraph at lines 38--51
-[] 
- []
-
-[296] [297]
-Underfull \hbox (badness 2573) in paragraph at lines 59--60
-\OT1/phv/m/n/12 sid-er-a-tion, same as
- []
-
-
-Underfull \hbox (badness 1454) in paragraph at lines 60--61
-\OT1/phv/m/n/12 wor-thy of our moral
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-\OT1/phv/m/n/12 con-sid-er-a-tion, then
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[]\OT1/phv/m/n/12 Restrictive laws re-
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 61--62
+\OT1/phv/m/n/12 gard-ing abor-tion deny
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 63--64
+[]\OT1/phv/m/n/12 Violating their right to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\OT1/phv/m/n/12 Therefore, re-stric-tive
+ []
+
+
+Overfull \hbox (27.93376pt too wide) in paragraph at lines 54--67
+[] 
+ []
+
+[297] [298]
+Underfull \hbox (badness 2573) in paragraph at lines 75--76
+\OT1/phv/m/n/12 sid-er-a-tion, same as
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 76--77
+\OT1/phv/m/n/12 wor-thy of our moral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\OT1/phv/m/n/12 con-sid-er-a-tion, then
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 []\OT1/phv/m/n/12 Murder is al-ways
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 63--64
+Underfull \hbox (badness 5460) in paragraph at lines 79--80
 []\OT1/phv/m/n/12 Therefore, from (3)
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 63--64
+Underfull \hbox (badness 5787) in paragraph at lines 79--80
 \OT1/phv/m/n/12 less of the con-se-
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 66--67
+Underfull \hbox (badness 3514) in paragraph at lines 82--83
 []\OT1/phv/m/n/12 Violating a per-son's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 \OT1/phv/m/n/12 rights is al-ways
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 67--68
+Underfull \hbox (badness 1762) in paragraph at lines 83--84
 \OT1/phv/m/n/12 not vi-o-late an-other's
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 68--69
+Underfull \hbox (badness 1226) in paragraph at lines 84--85
 \OT1/phv/m/n/12 is stronger than an-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 \OT1/phv/m/n/12 abor-tion is al-ways
  []
 
 
-Overfull \hbox (30.47998pt too wide) in paragraph at lines 56--74
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 72--90
 [][]
  []
 
-[298] [299]
-Overfull \hbox (2.3624pt too wide) in paragraph at lines 75--76
+[299] [300]
+Overfull \hbox (2.3624pt too wide) in paragraph at lines 91--92
 \OT1/phv/m/n/12 consequentialist/Kantian style rea-son-ing, point-ing out that
  []
 
-[300]
-Overfull \hbox (0.33525pt too wide) in paragraph at lines 79--80
+[301]
+Overfull \hbox (0.33525pt too wide) in paragraph at lines 97--98
 \OT1/phv/m/n/12 man would have oth-er-wise had, mean-ing that in this case,
  []
 
 
-Overfull \hbox (8.20953pt too wide) in paragraph at lines 82--83
+Overfull \hbox (8.20953pt too wide) in paragraph at lines 100--101
 \OT1/phv/m/n/12 Sec-ond, we could show that a fe-tus is not a per-son, thereby
  []
 
-[301] [302] [303
+[302] [303] [304
 
-] [304]
-Underfull \hbox (badness 3514) in paragraph at lines 96--97
+] [305]
+Underfull \hbox (badness 3514) in paragraph at lines 116--117
 []\OT1/phv/m/n/12 Violating a per-son's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \OT1/phv/m/n/12 rights is al-ways
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 97--98
+Underfull \hbox (badness 1762) in paragraph at lines 117--118
 \OT1/phv/m/n/12 not vi-o-late an-other's
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 98--99
+Underfull \hbox (badness 1226) in paragraph at lines 118--119
 \OT1/phv/m/n/12 is stronger than an-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 \OT1/phv/m/n/12 abor-tion is al-ways
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 103--104
+Underfull \hbox (badness 3514) in paragraph at lines 123--124
 []\OT1/phv/m/n/12 Violating a per-son's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 \OT1/phv/m/n/12 rights is al-ways
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 104--105
+Underfull \hbox (badness 1762) in paragraph at lines 124--125
 \OT1/phv/m/n/12 not vi-o-late an-other's
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 105--106
+Underfull \hbox (badness 1226) in paragraph at lines 125--126
 \OT1/phv/m/n/12 is stronger than an-
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 106--107
+Underfull \hbox (badness 1194) in paragraph at lines 126--127
 []\OT1/phv/m/n/12 Unplugging from the
  []
 
 
-Overfull \hbox (30.47998pt too wide) in paragraph at lines 92--110
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 112--130
 [][]
  []
 
 
-Overfull \hbox (48.68552pt too wide) in paragraph at lines 92--110
+Overfull \hbox (48.68552pt too wide) in paragraph at lines 112--130
 \OT1/phv/m/n/12 This, as we have seen be-fore, is very strongly non-consequenti
 alist
  []
 
-[305] [306] [307] [308]
-Overfull \hbox (12.98192pt too wide) in paragraph at lines 128--129
+[306] [307] [308] [309] [310]
+Overfull \hbox (12.98192pt too wide) in paragraph at lines 151--152
 \OT1/phv/m/n/12 imag-ine and use for the anal-ogy, I have cre-ated this thought
 -
  []
 
-[309]
-Overfull \hbox (1.7142pt too wide) in paragraph at lines 132--133
+[311]
+Overfull \hbox (1.7142pt too wide) in paragraph at lines 157--158
 []\OT1/phv/m/n/12 Most peo-ple, from my ex-pe-ri-ence, say that in this case,
  []
 
-[310]
-Underfull \hbox (badness 1215) in paragraph at lines 153--154
+[312]
+Underfull \hbox (badness 1215) in paragraph at lines 178--179
 []\OT1/phv/m/n/12 Therefore, a cheese
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 \OT1/phv/m/n/12 sand-wich is bet-ter
  []
 
 
-Overfull \hbox (30.47998pt too wide) in paragraph at lines 143--157
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 168--182
 [][]
  []
 
-[311] [312] [313]
-Underfull \hbox (badness 2229) in paragraph at lines 170--171
+[313] [314] [315]
+Underfull \hbox (badness 2229) in paragraph at lines 203--204
 []\OT1/phv/m/n/12 No ex-ist-ing thing is
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 172--173
+Underfull \hbox (badness 1215) in paragraph at lines 205--206
 []\OT1/phv/m/n/12 Therefore, a cheese
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/phv/m/n/12 sand-wich is bet-ter
  []
 
 
-Overfull \hbox (30.47998pt too wide) in paragraph at lines 162--175
+Overfull \hbox (30.47998pt too wide) in paragraph at lines 195--208
 [][] 
  []
 
 
-Overfull \hbox (0.84872pt too wide) in paragraph at lines 179--180
+Overfull \hbox (0.84872pt too wide) in paragraph at lines 212--213
 \OT1/phv/m/n/12 Warren ar-gues that there are 5 fea-tures which are needed
  []
 
-[314] [315]
-Overfull \hbox (6.29915pt too wide) in paragraph at lines 203--204
+[316] [317]
+Overfull \hbox (6.29915pt too wide) in paragraph at lines 236--237
 \OT1/phv/m/n/12 mans, are im-me-di-ately ex-cluded from person-hood. Plants
  []
 
-[316] [317]
-Overfull \hbox (6.44293pt too wide) in paragraph at lines 223--224
+[318] [319]
+Overfull \hbox (6.44293pt too wide) in paragraph at lines 256--257
 \OT1/phv/m/n/12 this re-quires some kind of lib-er-tar-ian free will, which see
 ms
  []
 
 
-Overfull \hbox (7.93346pt too wide) in paragraph at lines 223--224
+Overfull \hbox (7.93346pt too wide) in paragraph at lines 256--257
 \OT1/phv/m/n/12 to re-quire some kind of soul. War-ren, how-ever, gets around
  []
 
-[318] [319]
-Overfull \hbox (5.4453pt too wide) in paragraph at lines 234--235
+[320] [321]
+Overfull \hbox (5.4453pt too wide) in paragraph at lines 267--268
 \OT1/phv/m/n/12 hu-mans (non-person hu-mans) lack this. This mostly stems
  []
 
-[320] [321] [322]
+[322] [323] [324]
 
 Package biblatex Warning: No driver for 'footcite:misc'.
-(biblatex)                Using fallback driver on input line 256.
+(biblatex)                Using fallback driver on input line 289.
 
 
 Package biblatex Warning: No driver for 'footcite:misc'.
-(biblatex)                Using fallback driver on input line 256.
+(biblatex)                Using fallback driver on input line 289.
 
 
-Overfull \hbox (3.40712pt too wide) in paragraph at lines 256--257
+Overfull \hbox (3.40712pt too wide) in paragraph at lines 289--290
 \OT1/phv/m/n/12 (claim-ing that hu-mans are the only language-users), when
  []
 
-[323] [324] [325]
-Overfull \hbox (2.23172pt too wide) in paragraph at lines 268--269
+[325] [326] [327]
+Overfull \hbox (2.23172pt too wide) in paragraph at lines 301--302
 \OT1/phv/m/n/12 other crea-tures, such as some new world mon-keys. Some
  []
 
-[326] [327] [328]
-Overfull \hbox (1.11469pt too wide) in paragraph at lines 284--285
+[328] [329] [330]
+Overfull \hbox (1.11469pt too wide) in paragraph at lines 317--318
 \OT1/phv/m/n/12 in-ter-est-ing case, these are the cot-ton top tamarins. These
  []
 
 
-Overfull \hbox (0.29637pt too wide) in paragraph at lines 284--285
+Overfull \hbox (0.29637pt too wide) in paragraph at lines 317--318
 \OT1/phv/m/n/12 nat-u-rally aris-ing lan-guage. Their lan-guage was not taught
  []
 
-[329] [330] (iwasonceafetus.tex [331] [332
+[331] [332] (iwasonceafetus.tex [333] [334
 
-] [333] [334]
+] [335] [336]
 Overfull \hbox (0.69461pt too wide) in paragraph at lines 90--109
 \OT1/phv/m/n/12 growth and de-vel-op-ment. Now, it is true that not all deaths
  []
 
-[335] [336] [337] [338] [339] [340] [341] [342] [343]
+[337] [338] [339] [340] [341] [342] [343] [344] [345]
 Overfull \hbox (2.2251pt too wide) in paragraph at lines 307--324
 []\OT1/phv/m/n/12 The most pow-er-ful ar-gu-ment is to look at what is wrong
  []
 
-[344] [345] [346]
+[346] [347] [348]
 Overfull \hbox (2.94716pt too wide) in paragraph at lines 385--399
 []\OT1/phv/m/n/12 Finally, there is a very dif-fer-ent ar-gu-ment for the wrong
 -
@@ -4094,45 +4118,45 @@ Overfull \hbox (0.44109pt too wide) in paragraph at lines 385--399
 \OT1/phv/m/n/12 that we do not know which role in so-ci-ety we fill{imagining
  []
 
-[347] [348] [349] [350]) [351] [352
+[349] [350] [351] [352]) [353] [354
 
-] [353] [354] [355] [356]
-Overfull \hbox (1.11636pt too wide) in paragraph at lines 321--322
+] [355] [356] [357] [358]
+Overfull \hbox (1.11636pt too wide) in paragraph at lines 354--355
 []\OT1/phv/m/n/12 Depriving some-one of a good which they would have
  []
 
 
-Overfull \hbox (15.09464pt too wide) in paragraph at lines 328--330
+Overfull \hbox (15.09464pt too wide) in paragraph at lines 361--363
 \OT1/phv/m/n/12 through your pre-ferred method, though non-consequentialist
  []
 
-[357] [358]
-Overfull \hbox (8.73247pt too wide) in paragraph at lines 339--340
+[359] [360]
+Overfull \hbox (8.73247pt too wide) in paragraph at lines 372--373
 \OT1/phv/m/n/12 The au-thor's orig-i-nal line used the gen-dered pro-noun which
 
  []
 
-[359]
-Underfull \hbox (badness 4686) in paragraph at lines 351--351
+[361]
+Underfull \hbox (badness 4686) in paragraph at lines 384--384
 []|\OT1/phv/m/n/12 Human Per-son Ar-gu-
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 352--352
+Underfull \hbox (badness 1264) in paragraph at lines 385--385
 []|\OT1/phv/m/n/12 A hu-man per-son was
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 353--353
+Underfull \hbox (badness 1817) in paragraph at lines 386--386
 \OT1/phv/m/n/12 once a fe-tus, then it
  []
 
-[360] [361] [362] [363] [364] [365]) (mod9.tex [366] [367
+[362] [363] [364] [365] [366] [367]) (mod9.tex [368] [369
 
-] [368
+] [370
 
-] [369] [370]
-[371]
+] [371] [372]
+[373]
 Overfull \hbox (10.2925pt too wide) in paragraph at lines 22--23
 \OT1/phv/m/n/12 thing along the lines of "peo-ple of dif-fer-ent races are mora
 lly
@@ -4144,341 +4168,463 @@ Overfull \hbox (4.68857pt too wide) in paragraph at lines 22--23
 oup
  []
 
-[372] [373]
+[374] [375]
 Overfull \hbox (11.97267pt too wide) in paragraph at lines 34--35
 \OT1/phv/m/n/12 char-ac-ter traits which are stereo-typ-i-cally fem-i-nine and 
 those
  []
 
-[374]
-Overfull \hbox (3.36168pt too wide) in paragraph at lines 46--48
+[376]
+Overfull \hbox (3.36168pt too wide) in paragraph at lines 46--49
 \OT1/phv/m/n/12 Feminist moral the-o-ries will, in a sense, be more grounded
  []
 
-[375] [376]
-Overfull \hbox (1.91766pt too wide) in paragraph at lines 61--62
+[377] [378]
+Overfull \hbox (1.91766pt too wide) in paragraph at lines 62--63
 \OT1/phv/m/n/12 There are many rea-sons why philoso-phers want one over-
  []
 
 
-Overfull \hbox (3.84125pt too wide) in paragraph at lines 61--62
+Overfull \hbox (3.84125pt too wide) in paragraph at lines 62--63
 \OT1/phv/m/n/12 Prag-matic, real world, con-sid-er-a-tions en-croach on it. Her
 e
  []
 
-[377] [378] [379
+[379] [380] [381
 
 ]
-Underfull \hbox (badness 7667) in paragraph at lines 74--74
+Underfull \hbox (badness 7667) in paragraph at lines 75--75
 []|\OT1/phv/m/n/7 Reward and pun-ish-
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 74--75
+Underfull \hbox (badness 7667) in paragraph at lines 75--76
 []|\OT1/phv/m/n/7 Reward and pun-ish-
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 75--75
+Underfull \hbox (badness 6477) in paragraph at lines 76--76
 []|\OT1/phv/m/n/7 I do based on my
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 75--75
+Underfull \hbox (badness 1281) in paragraph at lines 76--76
 []|\OT1/phv/m/n/7 If I act good, then I
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 77--77
+Underfull \hbox (badness 1484) in paragraph at lines 78--78
 \OT1/phv/m/n/7 per-son in my so-ci-ety
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 78--78
+Underfull \hbox (badness 1308) in paragraph at lines 79--79
 []|\OT1/phv/m/n/7 Social laws and con-
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 80--80
+Underfull \hbox (badness 4303) in paragraph at lines 81--81
 []|\OT1/phv/m/n/7 Each in-di-vid-ual must
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 []|\OT1/phv/m/n/7 Moral be-hav-iors are
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 80--80
+Underfull \hbox (badness 2418) in paragraph at lines 81--81
 \OT1/phv/m/n/7 what's right for each
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 81--81
+Underfull \hbox (badness 1406) in paragraph at lines 82--82
 []|\OT1/phv/m/n/7 An ab-stract, im-par-tial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/7 laws are con-tracts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/7 which should be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/7 changed when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OT1/phv/m/n/7 nec-es-sary to re-flect
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 81--81
+Underfull \hbox (badness 1024) in paragraph at lines 82--82
 \OT1/phv/m/n/7 for all peo-ple, this is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []|\OT1/phv/m/n/7 All peo-ple de-serve
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/phv/m/n/7 equal-ity and jus-tice.
  []
 
 
-Overfull \hbox (25.61972pt too wide) in paragraph at lines 71--84
+Overfull \hbox (25.61972pt too wide) in paragraph at lines 72--85
 [][] 
  []
 
-[380
+[382
 
 ]
 Overfull \vbox (8.49997pt too high) has occurred while \output is active []
 
 
-[381]
-Overfull \hbox (4.90358pt too wide) in paragraph at lines 93--94
+[383]
+Overfull \hbox (4.90358pt too wide) in paragraph at lines 94--95
 []\OT1/phv/m/n/12 According to stud-ies in-volv-ing this case, women tended
  []
 
 
-Overfull \hbox (3.99738pt too wide) in paragraph at lines 93--94
+Overfull \hbox (3.99738pt too wide) in paragraph at lines 94--95
 \OT1/phv/m/n/12 rec-tion and why the study would, in er-ror, think that women
  []
 
-[382
+[384
 
-] [383] [384]
-Overfull \hbox (6.02293pt too wide) in paragraph at lines 110--111
+] [385] [386]
+Overfull \hbox (6.02293pt too wide) in paragraph at lines 111--112
 \OT1/phv/m/n/12 needs, but be-ing inat-ten-tive to a de-pen-dent's needs seems
  []
 
-[385] [386]
-Overfull \hbox (3.30884pt too wide) in paragraph at lines 114--115
+[387] [388]
+Overfull \hbox (3.30884pt too wide) in paragraph at lines 115--116
 \OT1/phv/m/n/12 would be the tenets which they all have in com-mon. These
  []
 
-[387]
-Overfull \hbox (0.647pt too wide) in paragraph at lines 124--125
+[389]
+Overfull \hbox (0.647pt too wide) in paragraph at lines 125--126
 \OT1/phv/m/n/12 emo-tions is needed, what emo-tions are the guid-ing ones?
  []
 
 
-Overfull \hbox (9.00537pt too wide) in paragraph at lines 130--131
+Overfull \hbox (9.00537pt too wide) in paragraph at lines 131--132
 []\OT1/phv/m/n/12 More con-tem-po-rary re-searchers in Fem-i-nist Ethics have
  []
 
-[388] [389]
-Overfull \hbox (1.14801pt too wide) in paragraph at lines 140--141
+[390] [391]
+Overfull \hbox (1.14801pt too wide) in paragraph at lines 141--142
 \OT1/phv/m/n/12 op-po-site of com-pe-ti-tion. Com-pe-ti-tion can be a good thin
 g,
  []
 
-[390] [391] [392
+[392] [393] [394
 
-] [393]
-Overfull \hbox (2.80469pt too wide) in paragraph at lines 156--157
+] [395]
+Overfull \hbox (2.80469pt too wide) in paragraph at lines 166--167
 \OT1/phv/m/n/12 tar-i-an-ism would be com-mit-ted to some prin-ci-ples op-posed
 
  []
 
-[394] [395] [396] [397]
-Overfull \hbox (0.3927pt too wide) in paragraph at lines 176--177
+[396] [397] [398] [399]
+Overfull \hbox (0.3927pt too wide) in paragraph at lines 194--195
 \OT1/phv/m/n/12 ply could not fit into the Fem-i-nist Ethics fam-ily. But maybe
 ,
  []
 
-[398]
-Overfull \hbox (0.29036pt too wide) in paragraph at lines 187--190
+[400]
+Overfull \hbox (0.29036pt too wide) in paragraph at lines 205--208
 \OT1/phv/m/n/12 by other, in-di-rect means, such as in how we make choices
  []
 
 
-Overfull \hbox (5.1797pt too wide) in paragraph at lines 187--190
+Overfull \hbox (5.1797pt too wide) in paragraph at lines 205--208
 \OT1/phv/m/n/12 apart. A more so-phis-ti-cated Con-se-quen-tial-ism would have
  []
 
 
-Overfull \hbox (1.01671pt too wide) in paragraph at lines 187--190
+Overfull \hbox (1.01671pt too wide) in paragraph at lines 205--208
 \OT1/phv/m/n/12 our ac-tions in-di-rectly cause the best out-comes rather than
  []
 
-[399]
-Overfull \hbox (0.23509pt too wide) in paragraph at lines 192--193
+[401]
+Overfull \hbox (0.23509pt too wide) in paragraph at lines 210--211
 []\OT1/phv/m/n/12 From the Na[]^^Pve per-spec-tive, the right thing to do would
 
  []
 
-[400] [401] [402]) (mod10.tex [403]
+[402] [403] [404]) (mod10.tex [405]
 Overfull \hbox (113.01816pt too wide) in paragraph at lines 1--1
  []\OT1/cmr/bx/it/24.88 Environmental/Intergenerational 
  []
 
-[404
+[406
 
 ]
 Overfull \hbox (5.57678pt too wide) in paragraph at lines 6--7
 \OT1/phv/m/n/12 ship be-tween hu-mans and the en-vi-ron-ment (in-clud-ing non-
  []
 
-[405
+[407
 
-] [406] [407] [408]
+] [408] [409] [410]
 Overfull \hbox (0.2716pt too wide) in paragraph at lines 52--53
 []\OT1/phv/m/n/12 From my ex-pe-ri-ence, the vast ma-jor-ity of peo-ple would
  []
 
-[409] [410]
+[411] [412]
 Overfull \hbox (4.5305pt too wide) in paragraph at lines 76--77
 []\OT1/phv/m/n/12 I would wa-ger that most peo-ple, if faced with this choice
  []
 
-[411]
+[413]
 Overfull \hbox (0.17087pt too wide) in paragraph at lines 81--82
 []\OT1/phv/m/n/12 So, hu-man lives are more valu-able than an-i-mal lives. 
  []
 
-[412] [413] [414]
+[414] [415] [416]
 Overfull \hbox (23.471pt too wide) in paragraph at lines 103--105
 \OT1/phv/m/n/12 re-li-gions which have a sim-i-lar his-tor-i-cal ori-gin (Is-la
 m, Judeism,
  []
 
-[415] [416] [417] [418]
+[417] [418] [419] [420]
 Overfull \hbox (9.4527pt too wide) in paragraph at lines 130--131
 \OT1/phv/m/n/12 Marginal Cases. Many peo-ple don't like the term 'marginal',
  []
 
-[419]
+[421]
 Overfull \hbox (6.43213pt too wide) in paragraph at lines 134--135
 []\OT1/phv/m/n/12 We are not jus-ti-fied in do-ing so in the case of marginal
  []
 
-[420] [421] [422] [423
+[422] [423] [424] [425
 
-] [424] [425] [426] [427]
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+] [426] [427] [428] [429]
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 \OT1/phv/b/n/20 Multi-Generational Mort-
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 187--187
+Underfull \hbox (badness 1442) in paragraph at lines 194--194
 []\OT1/phv/m/n/12 In some ar-eas of the world, there are multi-
  []
 
-[428] [429] [430] [431]
-Overfull \hbox (1.2712pt too wide) in paragraph at lines 209--210
+[430] [431] [432] [433]
+Overfull \hbox (1.2712pt too wide) in paragraph at lines 217--218
 \OT1/phv/m/n/12 mind-bending prob-lem, es-pe-cially for cer-tain kinds of con-
  []
 
-[432] [433] [434] [435] [436] [437] [438] [439]) [440] [441] [442
+[434] [435] [436] [437] [438] [439] [440] [441]) [442] [443] [444
 
 ]
-Overfull \hbox (1.05565pt too wide) in paragraph at lines 34--34
+(IntroToEthics.gls
+Overfull \hbox (23.27296pt too wide) in paragraph at lines 8--10
+\OT1/phv/m/n/12 The im-per-a-tive, com-mand, which de-ter-mines the morally
+ []
+
+[445
+
+
+]
+Overfull \hbox (10.59546pt too wide) in paragraph at lines 19--21
+\OT1/phv/m/n/12 A form of Con-se-quen-tial-ism which says that the moral-
+ []
+
+
+Overfull \hbox (0.56429pt too wide) in paragraph at lines 19--21
+\OT1/phv/m/n/12 ity of our ac-tions is de-ter-mined by the con-se-quences
+ []
+
+[446]
+Overfull \hbox (3.72188pt too wide) in paragraph at lines 32--34
+\OT1/phv/m/n/12 the stance that there are no ab-so-lute, ob-jec-tive truths
+ []
+
+
+Overfull \hbox (4.69359pt too wide) in paragraph at lines 32--34
+\OT1/phv/m/n/12 about any-thing at all, not just ethics; rather the `truths'
+ []
+
+
+Overfull \hbox (3.72188pt too wide) in paragraph at lines 34--36
+\OT1/phv/m/n/12 the stance that there are no ab-so-lute, ob-jec-tive truths
+ []
+
+
+Overfull \hbox (4.69359pt too wide) in paragraph at lines 34--36
+\OT1/phv/m/n/12 about any-thing at all, not just ethics; rather the `truths'
+ []
+
+
+Overfull \hbox (58.23528pt too wide) in paragraph at lines 36--36
+\OT1/phv/m/n/12 The one in-trin-sic good ac-cord-ing to Kant's non-consequentia
+list
+ []
+
+
+Overfull \hbox (7.07973pt too wide) in paragraph at lines 36--36
+\OT1/phv/m/n/12 hin-ders ei-ther an-other's free will or ra-tonal-ity is wrong.
+
+ []
+
+[447]
+Overfull \hbox (10.86061pt too wide) in paragraph at lines 43--43
+\OT1/phv/m/n/12 (your-self in-cluded) as ends and never as mere-means.
+ []
+
+
+Overfull \hbox (10.59546pt too wide) in paragraph at lines 46--48
+\OT1/phv/m/n/12 A form of Con-se-quen-tial-ism which says that the moral-
+ []
+
+
+Overfull \hbox (0.56429pt too wide) in paragraph at lines 46--48
+\OT1/phv/m/n/12 ity of our ac-tions is de-ter-mined by the con-se-quences
+ []
+
+
+Overfull \hbox (3.60474pt too wide) in paragraph at lines 46--48
+\OT1/phv/m/n/12 gen-eral rules, char-ac-ter traits, or be-hav-ioral pat-terns.
+ []
+
+
+Overfull \hbox (1.28679pt too wide) in paragraph at lines 48--50
+\OT1/phv/m/n/12 obli-ga-tions, con-tem-po-rary peo-ple have to-wards gen-
+ []
+
+[448]
+Overfull \hbox (3.72188pt too wide) in paragraph at lines 58--58
+\OT1/phv/m/n/12 the stance that there are no ab-so-lute, ob-jec-tive truths
+ []
+
+[449]
+Overfull \hbox (3.72188pt too wide) in paragraph at lines 69--71
+\OT1/phv/m/n/12 the stance that there are no ab-so-lute, ob-jec-tive truths
+ []
+
+[450] [451]
+Overfull \hbox (3.72188pt too wide) in paragraph at lines 92--94
+\OT1/phv/m/n/12 the stance that there are no ab-so-lute, ob-jec-tive truths
+ []
+
+
+Overfull \hbox (13.47762pt too wide) in paragraph at lines 92--94
+\OT1/phv/m/n/12 about some-thing; rather the `truths' are \OT1/phv/m/sl/12 rel-
+a-tive\OT1/phv/m/n/12 , chang-
+ []
+
+
+Overfull \hbox (10.59546pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/12 A form of Con-se-quen-tial-ism which says that the moral-
+ []
+
+[452]
+Overfull \hbox (5.60312pt too wide) in paragraph at lines 97--97
+\OT1/phv/m/n/12 A re-la-tion-ship be-tween two be-ings where one of them
+ []
+
+
+Overfull \hbox (14.07846pt too wide) in paragraph at lines 100--100
+\OT1/phv/m/n/12 verse it-self. Be-liev-ing in Uni-ver-sal Monism, the Nahuas
+ []
+
+[453]
+Overfull \hbox (10.59546pt too wide) in paragraph at lines 107--107
+\OT1/phv/m/n/12 A form of Con-se-quen-tial-ism which says that the moral-
+ []
+
+
+Overfull \hbox (1.80112pt too wide) in paragraph at lines 114--116
+\OT1/phv/m/n/12 A the-ory in Virtue Ethics, the-o-ries about what it takes
+ []
+
+) [454]
+Overfull \hbox (1.05565pt too wide) in paragraph at lines 33--33
 []\OT1/cmr/m/n/10.95 Bradley, Ben. \  Virtue Con-se-quen-tial-ism." \OT1/cmr/m/
 it/10.95 Util-i-tas\OT1/cmr/m/n/10.95 , vol. 17, no. 3,
  []
 
 
-Overfull \hbox (13.72829pt too wide) in paragraph at lines 34--34
+Overfull \hbox (13.72829pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/n/10.95 2005, pp. 282{98. https://doi.org/[][]$10 . 1017 / s09538208
 05001652$[][]. 
  []
 
 
-Overfull \hbox (149.5096pt too wide) in paragraph at lines 34--34
+Overfull \hbox (149.5096pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/it/10.95 ism\OT1/cmr/m/n/10.95 , Ox-ford UP, Dec. 2020. \OT1/cmr/m/i
 t/10.95 https://academic.oup.com/book/0/chapter/290591548/chapter-
  []
 
 
-Overfull \hbox (87.58034pt too wide) in paragraph at lines 34--34
+Overfull \hbox (87.58034pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/it/10.95 ag-pdf/45685528/book\_34273\_section\_290591548.ag.pdf\OT1/
 cmr/m/n/10.95 , https://doi.org/[][]$10 .
  []
 
 
-Overfull \hbox (4.54054pt too wide) in paragraph at lines 34--34
+Overfull \hbox (4.54054pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/n/10.95 par-ents and hos-pi-tals think so." \OT1/cmr/m/it/10.95 Chic
 ago Tri-bune\OT1/cmr/m/n/10.95 , 2017. [][]$www .
  []
 
-[443
+[455
 
 ]
-Overfull \hbox (1.82268pt too wide) in paragraph at lines 34--34
+Overfull \hbox (1.82268pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/it/10.95 Eth-i-cal The-ory\OT1/cmr/m/n/10.95 , edited by Hugh LaFol-
 lette, Ox-ford / Malden:
  []
 
 
-Overfull \hbox (28.07378pt too wide) in paragraph at lines 34--34
+Overfull \hbox (28.07378pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/n/10.95 suc-cess af-fect birth rate?" \OT1/cmr/m/it/10.95 BMJ\OT1/cm
 r/m/n/10.95 , vol. 347, 2013. https://doi.org/[][]$10 .
  []
 
-[444]
-Overfull \hbox (0.72551pt too wide) in paragraph at lines 34--34
+[456]
+Overfull \hbox (0.72551pt too wide) in paragraph at lines 33--33
 []\OT1/cmr/m/n/10.95 |||. \  De-cid-ing Who Is Hu-man." \OT1/cmr/m/it/10.95 Nat
 -u-ral Law Fo-rum\OT1/cmr/m/n/10.95 , vol. 13,
  []
 
 
-Overfull \hbox (6.38156pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.38156pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/n/10.95 About De-ter-min-ism and Moral Re-spon-si-bil-ity?" \OT1/cmr
 /m/it/10.95 British Jour-
  []
 
 
-Overfull \hbox (5.13133pt too wide) in paragraph at lines 34--34
+Overfull \hbox (5.13133pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/it/10.95 nal for the His-tory of Phi-los-o-phy\OT1/cmr/m/n/10.95 , v
 ol. 12, no. 4, 2004, pp. 719{
  []
 
 
-Overfull \hbox (39.40805pt too wide) in paragraph at lines 34--34
+Overfull \hbox (39.40805pt too wide) in paragraph at lines 33--33
 \OT1/cmr/m/n/10.95 tion." \OT1/cmr/m/it/10.95 The Monist\OT1/cmr/m/n/10.95 , vo
 l. 57, no. 1, 1973, pp. 43{61. https://doi.org/[][]$10 .
  []
 
-[445])
+[457])
 
 Class memoir Warning: The material used in the headers is too large
 (27.2pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 106.
+(in both cases you will find help in the memoir manual). on input line 108.
 
-[446]
-\tf@toc=\write7
-\openout7 = `IntroToEthics.toc'.
+[458]
+\tf@toc=\write10
+\openout10 = `IntroToEthics.toc'.
 
  (IntroToEthics.aux)
 
@@ -4490,13 +4636,13 @@ Package logreq Info: Writing requests to 'IntroToEthics.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58271 strings out of 477843
- 1124097 string characters out of 2823599
- 1984051 words of memory out of 3000000
- 75143 multiletter control sequences out of 15000+600000
- 552305 words of font info for 205 fonts, out of 8000000 for 9000
+ 60153 strings out of 476334
+ 1172378 string characters out of 5787971
+ 2067920 words of memory out of 5000000
+ 78443 multiletter control sequences out of 15000+600000
+ 595333 words of font info for 209 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 106i,13n,131p,2703b,4514s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 109i,13n,131p,2921b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb
 ><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
@@ -4516,9 +4662,9 @@ s/cm/cmti9.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public
 helvetic/uhvb8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/helvetic/uhvr8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on IntroToEthics.pdf (453 pages, 1378498 bytes).
+Output written on IntroToEthics.pdf (465 pages, 1430836 bytes).
 PDF statistics:
- 3251 PDF objects out of 3580 (max. 8388607)
- 1026 named destinations out of 1200 (max. 500000)
- 545 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3479 PDF objects out of 3580 (max. 8388607)
+ 1091 named destinations out of 1200 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
