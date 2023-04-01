@@ -53,7 +53,7 @@ You can download PDFs of the **most current version under development** here:
 ## Planned Future Modifications/Additions
 
 - [ ] Add On The Moral Status of Bloodbending by Davis Smith.
-- [ ] More glossary entries and definitions will be added.
+- [X] More glossary entries and definitions will be added.
 - [ ] Improve the content for Mohism. 
 - [ ] Improve the content for Nahuatl Virtue Ethics.
 - [ ] Make an accessible version for e-readers.
