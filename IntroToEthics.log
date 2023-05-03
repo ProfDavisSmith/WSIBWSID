@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.31)  1 APR 2023 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.31)  3 MAY 2023 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2522,36 +2522,42 @@ Overfull \hbox (17.3165pt too wide) in paragraph at lines 28--29
 []\OT1/phv/m/n/12 The Chal-lenge of Cul-tural Rel-a-tivism by James Rachels 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-38.
+39.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-38.
+39.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-38.
+39.
 
 (C:\Users\davis\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-[2]) [3]
+[2]
+<marcom-PierceCollege-Logo.png, id=71, 240.4182pt x 68.4156pt>
+File: marcom-PierceCollege-Logo.png Graphic file (type png)
+<use marcom-PierceCollege-Logo.png>
+Package pdftex.def Info: marcom-PierceCollege-Logo.png  used on input line 48.
+(pdftex.def)             Requested size: 240.4176pt x 68.41542pt.
+) [3 <./marcom-PierceCollege-Logo.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <48> not available
 (Font)              size <24.88> substituted on input line 7.
@@ -4631,40 +4637,183 @@ either increase the head height or redesign the header
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 23.12pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'IntroToEthics.run.xml'.
 \openout1 = `IntroToEthics.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 60153 strings out of 476334
- 1172378 string characters out of 5787971
- 2067920 words of memory out of 5000000
- 78443 multiletter control sequences out of 15000+600000
+ 60198 strings out of 476334
+ 1173046 string characters out of 5787971
+ 2068920 words of memory out of 5000000
+ 78449 multiletter control sequences out of 15000+600000
  595333 words of font info for 209 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,13n,131p,2921b,4520s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
-/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb
-><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbxti10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/davis/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/davis/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/davis/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/davis/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
-davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><
-C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
-i7.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmti9.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/newtx/txsys.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-helvetic/uhvb8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/u
-rw/helvetic/uhvr8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/helvetic/uhvro8a.pfb>
-Output written on IntroToEthics.pdf (465 pages, 1430836 bytes).
+
+pdfTeX warning (dest): name{appendix*.319} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.317} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.304} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.293} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.288} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.277} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.269} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.255} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.250} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.218} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.214} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.206} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.193} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.183} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.159} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.152} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.148} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.147} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.134} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.127} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.107} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.102} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.88} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.80} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.66} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.57} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.53} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.42} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.41} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.35} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.31} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.24} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.19} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.6} has been referenced but does not exist,
+ replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.3} has been referenced but does not exist,
+ replaced by a fixed one
+
+{C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
+sers/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><
+C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbxti10.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/davis/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/davis/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/davis/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/davis/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/da
+vis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:
+/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7
+.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmti9.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/public/n
+ewtx/txsys.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
+lvetic/uhvb8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/urw
+/helvetic/uhvr8a.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/helvetic/uhvro8a.pfb>
+Output written on IntroToEthics.pdf (465 pages, 1450963 bytes).
 PDF statistics:
- 3479 PDF objects out of 3580 (max. 8388607)
- 1091 named destinations out of 1200 (max. 500000)
- 553 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3528 PDF objects out of 3580 (max. 8388607)
+ 1128 named destinations out of 1200 (max. 500000)
+ 558 words of extra memory for PDF output out of 10000 (max. 10000000)
 
