@@ -58,7 +58,7 @@ You can download PDFs of the **most current version under development** here:
 - [X] More glossary entries and definitions will be added.
 - [ ] Improve the content for Mohism. 
 - [ ] Improve the content for Nahuatl Virtue Ethics.
-- [ ] Make an accessible version for e-readers.
+- [X] Make an accessible version for e-readers.
 
 ## Copyright Information
 This work is licensed under a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). You are free to copy and redistribute the material in any medium or format, and remix, transform, and build
