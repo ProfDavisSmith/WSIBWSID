@@ -35,7 +35,7 @@ Currently, it is made for a ten (10) week course.
 
 ## About the Author
 
-Davis Smith earned his Master’s Degree in Philosophy from Arizona State University and is an adjunct Philosophy professor at two colleges, Pierce College, Bellevue College, and Olympic College. 
+Davis Smith earned his Master’s Degree in Philosophy from Arizona State University and is an adjunct Philosophy professor at three colleges, Pierce College, Bellevue College, and Olympic College. 
 He specializes in teaching introductory level courses. One of his goals in teaching is to make Philosophy
 accessible to all people. The cost and quality of textbooks are under-discussed obstacles to accessibility which Mr. Smith seeks to remove. His other textbooks are: 
 
@@ -48,13 +48,13 @@ Outside of his OER textbooks, his current projects relate to the plausibility of
 You can download PDFs of the **most current version under development** here:
 
 - [`IntroToEthics.pdf`](https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthics.pdf)
-  This is the default, basic edition.
+  This is the default, basic version of the 2024 edition.
   - ['IntroToEthicsaccess.pdf'](https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthicsaccess.pdf)
-   This is the accessible version for e-readers.
+   This is the accessible version for e-readers of the 2022 edition.
 
 ## Planned Future Modifications/Additions
 
-- [ ] Add On The Moral Status of Bloodbending by Davis Smith.
+- [X] Add On The Moral Status of Bloodbending by Davis Smith.
 - [X] More glossary entries and definitions will be added.
 - [ ] Improve the content for Mohism. 
 - [ ] Improve the content for Nahuatl Virtue Ethics.
@@ -73,4 +73,4 @@ that legally restrict others from doing anything the license
 permits.
 
 ## Funding
-The production of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
+The production of the 2022 edition of this work was made possible by Professional Development funds provided by [Pierce College's Employee Learning and Development (ELAD)](https://www.pierce.ctc.edu/elad).
