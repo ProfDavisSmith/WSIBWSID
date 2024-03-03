@@ -49,6 +49,8 @@ You can download PDFs of the **most current version under development** here:
 
 - [`IntroToEthics.pdf`](https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthics.pdf)
   This is the default, basic version of the 2024 edition.
+  - ['IntroToEthicsaccess2.pdf'](https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthicsaccess2.pdf)
+   This is the accessible version for e-readers of the 2024 edition.
   - ['IntroToEthicsaccess.pdf'](https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthicsaccess.pdf)
    This is the accessible version for e-readers of the 2022 edition.
 
