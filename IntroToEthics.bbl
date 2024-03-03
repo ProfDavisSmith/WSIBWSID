@@ -91,6 +91,38 @@
       \range{pages}{-1}
       \keyw{499-200 B.C. Warring States period ; Argumentation ; Chinese culture ; Chinese literature ; Criticism and interpretation ; discrimination ; English language ; Ethics ; impartiality ; Love ; Meaning ; Mengzi ; Mengzi(ca. 372-ca. 289 B.C.) ; Mo-tzu ; Mozi ; Mozi (philosopher) ; Philosophers ; Philosophy ; prose ; Semantics ; Simplicity ; Teaching ; Theme ; Translation ; universality ; Works}
     \endentry
+    \entry{Bentham1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e8ee409b8956ab2237dce931c404df3}{%
+           family={Bentham},
+           familyi={B\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Online Library of Liberty, A Project Of Liberty Fund, }%
+      }
+      \strng{namehash}{9e8ee409b8956ab2237dce931c404df3}
+      \strng{fullhash}{9e8ee409b8956ab2237dce931c404df3}
+      \strng{bibnamehash}{9e8ee409b8956ab2237dce931c404df3}
+      \strng{authorbibnamehash}{9e8ee409b8956ab2237dce931c404df3}
+      \strng{authornamehash}{9e8ee409b8956ab2237dce931c404df3}
+      \strng{authorfullhash}{9e8ee409b8956ab2237dce931c404df3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to the Principles Of Morals and Legislation}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/278/bentham_0175_EBk_v6.0.pdf
+      \endverb
+      \verb{url}
+      \verb oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/278/bentham_0175_EBk_v6.0.pdf
+      \endverb
+    \endentry
     \entry{Bradley1}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3a09586e85b4cf4d4d22155cdbd3c10a}{%
@@ -585,6 +617,90 @@
       \field{pages}{348\bibrangedash 374}
       \range{pages}{27}
     \endentry
+    \entry{Kant1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1e09a59acd7633f469747be85d5edc0}{%
+           family={Kant},
+           familyi={K\bibinitperiod},
+           given={Immanuel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=f9729b4aeb838524724d702a936f66a8}{%
+           family={Gregor},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge UP}%
+      }
+      \strng{namehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{fullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{bibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorbibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authornamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorfullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{translatorbibnamehash}{f9729b4aeb838524724d702a936f66a8}
+      \strng{translatornamehash}{f9729b4aeb838524724d702a936f66a8}
+      \strng{translatorfullhash}{f9729b4aeb838524724d702a936f66a8}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Groundwork of the Metaphysics of Morals}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Beck1}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1e09a59acd7633f469747be85d5edc0}{%
+           family={Kant},
+           familyi={K\bibinitperiod},
+           given={Immanuel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a087a9ac09da6e344370b271f136d03f}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Lewis\bibnamedelima White},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=a087a9ac09da6e344370b271f136d03f}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Lewis\bibnamedelima White},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {U of Chicago P}%
+      }
+      \strng{namehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{fullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{bibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorbibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authornamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorfullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{editorbibnamehash}{a087a9ac09da6e344370b271f136d03f}
+      \strng{editornamehash}{a087a9ac09da6e344370b271f136d03f}
+      \strng{editorfullhash}{a087a9ac09da6e344370b271f136d03f}
+      \strng{translatorbibnamehash}{a087a9ac09da6e344370b271f136d03f}
+      \strng{translatornamehash}{a087a9ac09da6e344370b271f136d03f}
+      \strng{translatorfullhash}{a087a9ac09da6e344370b271f136d03f}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Critique of Practical Reason, and Other Writings in Moral Philosophy}
+      \field{title}{On a Supposed Right to Lie From Altruistic Motives}
+      \field{year}{1949}
+    \endentry
     \entry{Leon2}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e4eb34f9e939e83c11e085c1a9b0c8ca}{%
@@ -662,12 +778,12 @@
     \endentry
     \entry{Hayek1}{book}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=44bad62a55b72e5668416ffad0544bfb}{%
+        {{un=1,uniquepart=given,hash=44bad62a55b72e5668416ffad0544bfb}{%
            family={Mill},
            familyi={M\bibinitperiod},
            given={J.S.},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=fe996ea9954d6b9a63c4eeb90092e6d1}{%
            family={Hayek},
            familyi={H\bibinitperiod},
@@ -700,6 +816,36 @@
       \verb{url}
       \verb books.google.com/books?id=IBYqAAAAYAAJ
       \endverb
+    \endentry
+    \entry{Mill1}{book}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b627c5e688e8b7502c2468b40c681f20}{%
+           family={Mill},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima Stuart},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {lccn.loc.gov/11015966}%
+      }
+      \list{publisher}{2}{%
+        {Parker, son,}%
+        {Bourn}%
+      }
+      \strng{namehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{fullhash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{bibnamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authorbibnamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authornamehash}{b627c5e688e8b7502c2468b40c681f20}
+      \strng{authorfullhash}{b627c5e688e8b7502c2468b40c681f20}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Utilitarianism}
+      \field{year}{1863}
     \endentry
     \entry{baby2}{article}{}
       \name{author}{10}{}{%
@@ -895,6 +1041,40 @@
       \field{title}{Introduction to Classical Chinese Philosophy}
       \field{year}{2011}
     \endentry
+    \entry{Doggett1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f65d08f7997acd180317c834f647f32c}{%
+           family={Philosophy},
+           familyi={P\bibinitperiod},
+           given={Wireless},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {YouTube}%
+      }
+      \strng{namehash}{f65d08f7997acd180317c834f647f32c}
+      \strng{fullhash}{f65d08f7997acd180317c834f647f32c}
+      \strng{bibnamehash}{f65d08f7997acd180317c834f647f32c}
+      \strng{authorbibnamehash}{f65d08f7997acd180317c834f647f32c}
+      \strng{authornamehash}{f65d08f7997acd180317c834f647f32c}
+      \strng{authorfullhash}{f65d08f7997acd180317c834f647f32c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{YouTube}
+      \field{month}{7}
+      \field{title}{PHILOSOPHY - Ethics: Killing Animals for Food}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb www.youtube.com/watch?v=3HAMk_ZYO7g
+      \endverb
+      \verb{url}
+      \verb www.youtube.com/watch?v=3HAMk_ZYO7g
+      \endverb
+    \endentry
     \entry{Pruss1}{unpublished}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e8ab824cdc070a044693034d511bdeb7}{%
@@ -981,6 +1161,52 @@
       \field{booktitle}{Exploring Philosophy: An Introductory Anthology}
       \field{title}{The Challenge of Cultural Relativism}
       \field{year}{1907}
+    \endentry
+    \entry{Return1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=10e142c15af04cdccc21d2750ade0cdf}{%
+           family={Ehasz},
+           familyi={E\bibinitperiod},
+           given={Elizabeth\bibnamedelima Welch},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=9f843bf344309166f8d5965b19e00267}{%
+           family={Spaulding},
+           familyi={S\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{10e142c15af04cdccc21d2750ade0cdf}
+      \strng{namebnamehash}{10e142c15af04cdccc21d2750ade0cdf}
+      \strng{namebfullhash}{10e142c15af04cdccc21d2750ade0cdf}
+      \strng{namecbibnamehash}{9f843bf344309166f8d5965b19e00267}
+      \strng{namecnamehash}{9f843bf344309166f8d5965b19e00267}
+      \strng{namecfullhash}{9f843bf344309166f8d5965b19e00267}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{3}
+      \field{title}{Return to Omashu}
+      \field{year}{2006}
+      \field{dateera}{ce}
     \endentry
     \entry{Robins1}{article}{}
       \name{author}{1}{}{%
@@ -1072,6 +1298,41 @@
       \field{pages}{13 v. in 12 :}
       \range{pages}{-1}
     \endentry
+    \entry{Sozen1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=8aa19545b9d7957c6f4368ab99e0b923}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Joaquim\bibnamedelima Dos},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namebnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namebfullhash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator and writer}
+      \field{namebtype}{director}
+      \field{number}{18-21}
+      \field{title}{Sozin’s Comet}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
     \entry{tededucation2014}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3419bbe2a390f7cb0a3fe6928a0308a2}{%
@@ -1133,6 +1394,409 @@
       \verb{url}
       \verb www.youtube.com/watch?v=CQ5dRyyHwfM
       \endverb
+    \endentry
+    \entry{Awakening1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=1b52cd19891f2338b09a06748840bffd}{%
+           family={Volpe},
+           familyi={V\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=6e04c9b750ace56afc6aa90e896d6340}{%
+           family={Ehasz},
+           familyi={E\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namebnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namebfullhash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namecbibnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namecnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namecfullhash}{6e04c9b750ace56afc6aa90e896d6340}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{director}
+      \field{namectype}{writer}
+      \field{number}{1}
+      \field{title}{The Awakening}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Beach1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=5e7da25aa0f0ce71129b24efd644ff98}{%
+           family={Mattila},
+           familyi={M\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=8aa19545b9d7957c6f4368ab99e0b923}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Joaquim\bibnamedelima Dos},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{5e7da25aa0f0ce71129b24efd644ff98}
+      \strng{namebnamehash}{5e7da25aa0f0ce71129b24efd644ff98}
+      \strng{namebfullhash}{5e7da25aa0f0ce71129b24efd644ff98}
+      \strng{namecbibnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namecnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namecfullhash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{5}
+      \field{title}{The Beach}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Iceberg1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=c0ad802af8b0a5c604d1fe25c32caf2f}{%
+           family={Filoni},
+           familyi={F\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{c0ad802af8b0a5c604d1fe25c32caf2f}
+      \strng{namebnamehash}{c0ad802af8b0a5c604d1fe25c32caf2f}
+      \strng{namebfullhash}{c0ad802af8b0a5c604d1fe25c32caf2f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator and writer}
+      \field{namebtype}{director}
+      \field{number}{1}
+      \field{title}{The Boy in the Iceberg}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Lovers1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=a8664817d8ab24133ac46758a2cde366}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=e61a98e98ea27ec97d36f983e306cf10}{%
+           family={MacMullan},
+           familyi={M\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{a8664817d8ab24133ac46758a2cde366}
+      \strng{namebnamehash}{a8664817d8ab24133ac46758a2cde366}
+      \strng{namebfullhash}{a8664817d8ab24133ac46758a2cde366}
+      \strng{namecbibnamehash}{e61a98e98ea27ec97d36f983e306cf10}
+      \strng{namecnamehash}{e61a98e98ea27ec97d36f983e306cf10}
+      \strng{namecfullhash}{e61a98e98ea27ec97d36f983e306cf10}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{2}
+      \field{title}{The Cave of Two Lovers}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Divide1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=6e04c9b750ace56afc6aa90e896d6340}{%
+           family={Ehasz},
+           familyi={E\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=1b52cd19891f2338b09a06748840bffd}{%
+           family={Volpe},
+           familyi={V\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namebnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namebfullhash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namecbibnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namecnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namecfullhash}{1b52cd19891f2338b09a06748840bffd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{11}
+      \field{title}{The Great Divide}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Omashu1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=64e3d906a4978894bb45f47a25ad9806}{%
+           family={O'Bryan},
+           familyi={O\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=26cd6aa841e6f99858d0b943a14bdc5d}{%
+           family={Lioi},
+           familyi={L\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{64e3d906a4978894bb45f47a25ad9806}
+      \strng{namebnamehash}{64e3d906a4978894bb45f47a25ad9806}
+      \strng{namebfullhash}{64e3d906a4978894bb45f47a25ad9806}
+      \strng{namecbibnamehash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \strng{namecnamehash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \strng{namecfullhash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{5}
+      \field{title}{The King of Omashu}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{puppetmaster}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=88c9fd54ebf04be627de53ac6797d635}{%
+           family={Hedrick},
+           familyi={H\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=8aa19545b9d7957c6f4368ab99e0b923}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Joaquim\bibnamedelima Dos},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{88c9fd54ebf04be627de53ac6797d635}
+      \strng{namebnamehash}{88c9fd54ebf04be627de53ac6797d635}
+      \strng{namebfullhash}{88c9fd54ebf04be627de53ac6797d635}
+      \strng{namecbibnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namecnamehash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \strng{namecfullhash}{8aa19545b9d7957c6f4368ab99e0b923}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{author}
+      \field{namectype}{director}
+      \field{number}{8}
+      \field{title}{The Puppetmaster}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Warriors1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=1b52cd19891f2338b09a06748840bffd}{%
+           family={Volpe},
+           familyi={V\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=6e04c9b750ace56afc6aa90e896d6340}{%
+           family={Ehasz},
+           familyi={E\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namebnamehash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namebfullhash}{1b52cd19891f2338b09a06748840bffd}
+      \strng{namecbibnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namecnamehash}{6e04c9b750ace56afc6aa90e896d6340}
+      \strng{namecfullhash}{6e04c9b750ace56afc6aa90e896d6340}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{director}
+      \field{namectype}{writer}
+      \field{number}{4}
+      \field{title}{The Warriors of Kyoshi}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Scroll1}{video}{}
+      \name{namea}{1}{}{%
+        {{hash=8259de1034fec6f37b0d7c8f10fc3113}{%
+           family={DiMartino},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima Dante},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{nameb}{1}{}{%
+        {{hash=26cd6aa841e6f99858d0b943a14bdc5d}{%
+           family={Lioi},
+           familyi={L\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{namec}{1}{}{%
+        {{hash=64e3d906a4978894bb45f47a25ad9806}{%
+           family={O'Bryan},
+           familyi={O\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nickelodeon Animation Studio}%
+      }
+      \strng{nameabibnamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameanamehash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{nameafullhash}{8259de1034fec6f37b0d7c8f10fc3113}
+      \strng{namebbibnamehash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \strng{namebnamehash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \strng{namebfullhash}{26cd6aa841e6f99858d0b943a14bdc5d}
+      \strng{namecbibnamehash}{64e3d906a4978894bb45f47a25ad9806}
+      \strng{namecnamehash}{64e3d906a4978894bb45f47a25ad9806}
+      \strng{namecfullhash}{64e3d906a4978894bb45f47a25ad9806}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Avatar: The Last Airbender}
+      \field{nameatype}{creator}
+      \field{namebtype}{director}
+      \field{namectype}{writer}
+      \field{number}{4}
+      \field{title}{The Waterbending Scroll}
+      \field{year}{2005}
+      \field{dateera}{ce}
     \endentry
     \entry{Thomson1}{article}{}
       \name{author}{1}{}{%

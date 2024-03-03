@@ -1398,3 +1398,59 @@ parent={},%
 %
 }%
 
+\glsdefs@newdocentry{error theory}%
+{%
+name={error theory},%
+sort={error theory},%
+type={main},%
+first={error theory},%
+firstplural={Error Theorist},%
+text={error theory},%
+plural={Error Theorist},%
+description={A general claim that all other claims within a field of study or context will always be mistaken, try as we might to say something truthful, we cannot because there are no truths in that area or context},%
+descriptionplural={A general claim that all other claims within a field of study or context will always be mistaken, try as we might to say something truthful, we cannot because there are no truths in that area or context},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{expressivism}%
+{%
+name={expressivism},%
+sort={expressivism},%
+type={main},%
+first={expressivism},%
+firstplural={expressivist},%
+text={expressivism},%
+plural={expressivist},%
+description={A general claim that all other claims within a field of study or context are not intended to and do not express anything true or false, rather those claims are expressing emotions, commands, or questions. In ethics, saying something is wrong, according to this stance, is the same as saying something like `boo' and saying that something is right is the same as saying `yay'},%
+descriptionplural={A general claim that all other claims within a field of study or context are not intended to and do not express anything true or false, rather those claims are expressing emotions, commands, or questions. In ethics, saying something is wrong, according to this stance, is the same as saying something like `boo' and saying that something is right is the same as saying `yay'},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

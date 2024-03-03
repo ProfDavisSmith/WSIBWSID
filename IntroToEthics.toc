@@ -1,330 +1,369 @@
 \babel@toc {american}{}\relax 
-\contentsline {subsubsection}{Copyright Status}{ii}{section*.1}%
-\contentsline {subsubsection}{Funding}{iii}{section*.2}%
+\contentsline {subsubsection}{Credits for Some of the Content, Images, and Typesetting}{ii}{section*.1}%
+\contentsline {subsubsection}{Copyright Status}{ii}{section*.2}%
+\contentsline {subsubsection}{Notes For Instructors}{iii}{section*.3}%
+\contentsline {subsubsection}{Funding}{iii}{section*.4}%
 \contentsline {part}{\partnumberline {I}What is Ethics? Moral Relativism Vs Moral Objectivism}{1}{part.1}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 1: What is Ethics? What is Relativism?}{2}{chapter*.5}%
-\contentsline {section}{Going Meta: The Ethics Family Tree}{4}{section*.6}%
-\contentsline {section}{Relativism, in General}{8}{section*.7}%
-\contentsline {chapter}{The Challenge of Cultural Relativism by James Rachels}{11}{chapter*.8}%
-\contentsline {section}{2.1 How Different Cultures Have Different Moral Codes}{11}{section*.9}%
-\contentsline {section}{2.2 Cultural Relativism}{14}{section*.10}%
-\contentsline {section}{2.3 The Cultural Differences Argument}{16}{section*.11}%
-\contentsline {section}{2.4 The Consequences of Taking Cultural Relativism Seriously}{19}{section*.12}%
-\contentsline {subsection}{1. We could no longer say that the customs of other societies are morally inferior to our own.}{19}{section*.13}%
-\contentsline {subsection}{2. We could decide whether actions are right or wrong just by consulting the standards of our society.}{20}{section*.14}%
-\contentsline {subsection}{3. The idea of moral progress is called into doubt.}{21}{section*.15}%
-\contentsline {section}{2.5 Why There Is Less Disagreement Than It Seems}{22}{section*.16}%
-\contentsline {section}{2.6 How All Cultures Have Some Values in Common}{25}{section*.17}%
-\contentsline {section}{2.7 Judging a Cultural Practice to Be Undesirable}{28}{section*.18}%
-\contentsline {section}{Is There a Culture-Neutral Standard of Right and Wrong?}{29}{section*.19}%
-\contentsline {section}{Why Thoughtful People May Nevertheless Be Reluctant to Criticize Other Cultures.}{31}{section*.20}%
-\contentsline {chapter}{Part 2: Moral Relativism}{33}{chapter*.21}%
-\contentsline {section}{The Cultural Differences Argument and Its Problems}{36}{section*.22}%
-\contentsline {subsection}{Cultural Oppression}{37}{section*.23}%
-\contentsline {section}{The Cultural Imperialism Argument and Its Problems}{38}{section*.24}%
-\contentsline {subsection}{The Cultural Imperialism Argument}{38}{section*.25}%
-\contentsline {chapter}{Part 3: Problems for Moral Relativism}{42}{chapter*.26}%
-\contentsline {section}{The Criticism Problem}{42}{section*.27}%
-\contentsline {subsection}{The Argument for The Criticism Problem}{43}{section*.28}%
-\contentsline {section}{The Sheeple Problem}{44}{section*.29}%
-\contentsline {subsection}{The Argument for The Sheeple Problem}{45}{section*.30}%
-\contentsline {section}{The Progress Problem}{46}{section*.31}%
-\contentsline {subsection}{The Argument for The Progress Problem}{47}{section*.32}%
-\contentsline {chapter}{Part 4: Other Problems for Moral Relativism}{48}{chapter*.33}%
-\contentsline {section}{Why There is Less Disagreement Than There Seems}{48}{section*.34}%
-\contentsline {section}{There are Norms Shared by All Cultures}{49}{section*.35}%
-\contentsline {section}{But What is a Culture?}{50}{section*.36}%
-\contentsline {chapter}{Part 5: If Moral Relativism is wrong, What's Next?}{53}{chapter*.37}%
-\contentsline {section}{If culture's don't choose, what is morality?}{53}{section*.38}%
-\contentsline {section}{Who decides who's right in moral conflict?}{55}{section*.39}%
-\contentsline {section}{Where do moral truths come from?}{56}{section*.40}%
-\contentsline {section}{What about forcing them onto another culture?}{58}{section*.41}%
-\contentsline {part}{\partnumberline {II}Moral Objectivism (Non-Relativism)}{62}{part.2}%
+\contentsline {chapter}{Part 1: What is Ethics? What is Relativism?}{2}{chapter*.7}%
+\contentsline {section}{Going Meta: The Ethics Family Tree}{3}{section*.8}%
+\contentsline {section}{Relativism, in General}{5}{section*.9}%
+\contentsline {chapter}{The Challenge of Cultural Relativism by James Rachels}{8}{chapter*.10}%
+\contentsline {section}{2.1 How Different Cultures Have Different Moral Codes}{8}{section*.11}%
+\contentsline {section}{2.2 Cultural Relativism}{9}{section*.12}%
+\contentsline {section}{2.3 The Cultural Differences Argument}{11}{section*.13}%
+\contentsline {section}{2.4 The Consequences of Taking Cultural Relativism Seriously}{12}{section*.14}%
+\contentsline {subsection}{1. We could no longer say that the customs of other societies are morally inferior to our own.}{12}{section*.15}%
+\contentsline {subsection}{2. We could decide whether actions are right or wrong just by consulting the standards of our society.}{13}{section*.16}%
+\contentsline {subsection}{3. The idea of moral progress is called into doubt.}{13}{section*.17}%
+\contentsline {section}{2.5 Why There Is Less Disagreement Than It Seems}{14}{section*.18}%
+\contentsline {section}{2.6 How All Cultures Have Some Values in Common}{15}{section*.19}%
+\contentsline {section}{2.7 Judging a Cultural Practice to Be Undesirable}{17}{section*.20}%
+\contentsline {section}{Is There a Culture-Neutral Standard of Right and Wrong?}{17}{section*.21}%
+\contentsline {section}{Why Thoughtful People May Nevertheless Be Reluctant to Criticize Other Cultures.}{18}{section*.22}%
+\contentsline {chapter}{Part 2: Moral Relativism}{20}{chapter*.23}%
+\contentsline {paragraph}{The Dip}{21}{figure.caption.25}%
+\contentsline {section}{The Cultural Differences Argument and Its Problems}{21}{section*.26}%
+\contentsline {subsection}{Cultural Oppression}{22}{section*.27}%
+\contentsline {section}{The Cultural Imperialism Argument and Its Problems}{22}{section*.28}%
+\contentsline {subsection}{The Cultural Imperialism Argument}{23}{section*.29}%
+\contentsline {chapter}{Part 3: Problems for Moral Relativism}{25}{chapter*.30}%
+\contentsline {section}{The Criticism Problem}{25}{section*.31}%
+\contentsline {subsection}{The Argument for The Criticism Problem}{26}{section*.32}%
+\contentsline {section}{The Sheeple Problem}{26}{section*.33}%
+\contentsline {subsection}{The Argument for The Sheeple Problem}{26}{section*.34}%
+\contentsline {section}{The Progress Problem}{27}{section*.35}%
+\contentsline {subsection}{The Argument for The Progress Problem}{28}{section*.36}%
+\contentsline {chapter}{Part 4: Other Problems for Moral Relativism}{29}{chapter*.37}%
+\contentsline {section}{Why There is Less Disagreement Than There Seems}{29}{section*.38}%
+\contentsline {section}{There are Norms Shared by All Cultures}{29}{section*.39}%
+\contentsline {section}{But What is a Culture?}{30}{section*.40}%
+\contentsline {chapter}{Part 5: If Moral Relativism is wrong, What's Next?}{32}{chapter*.41}%
+\contentsline {section}{If culture's don't choose, what is morality?}{32}{section*.42}%
+\contentsline {section}{Who decides who's right in moral conflict?}{33}{section*.43}%
+\contentsline {section}{Where do moral truths come from?}{34}{section*.44}%
+\contentsline {section}{What about forcing them onto another culture?}{34}{section*.45}%
+\contentsline {part}{\partnumberline {II}Moral Objectivism (Non-Relativism)}{37}{part.2}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 6: Objectivism and Absolutism}{63}{chapter*.43}%
-\contentsline {chapter}{Why I am an Objectivist about Ethics (And Why You Are, Too) by David Enoch }{66}{chapter*.44}%
-\contentsline {section}{Why Objectivity? Three (Related) Reasons}{67}{section*.45}%
-\contentsline {subsection}{The Spinach Test}{67}{section*.46}%
-\contentsline {subsection}{Disagreement and Deliberation}{70}{section*.47}%
-\contentsline {subsection}{Would It Still Have Been Wrong If...?}{72}{section*.48}%
-\contentsline {section}{What's At Issue?}{74}{section*.49}%
-\contentsline {section}{Why Not?}{79}{section*.50}%
-\contentsline {subsection}{Disagreement}{79}{section*.51}%
-\contentsline {subsection}{But How Do We Know?}{82}{section*.52}%
-\contentsline {subsection}{Who Decides?}{83}{section*.53}%
-\contentsline {section}{Conclusion}{85}{section*.54}%
-\contentsline {chapter}{Part 7: The Tests for Objectivity}{87}{chapter*.55}%
-\contentsline {section}{The Spinach Test For Objectivity}{87}{section*.56}%
-\contentsline {section}{The Disagreement Test For Objectivity}{90}{section*.57}%
-\contentsline {section}{The Counterfactual (What-if) Test for Objectivity}{93}{section*.58}%
-\contentsline {chapter}{Part 8: Why Does It Matter? (Moral Skepticism)}{97}{chapter*.59}%
-\contentsline {part}{\partnumberline {III}Divine Command Theory And Natural Law Theory}{102}{part.3}%
+\contentsline {chapter}{Part 6: Objectivism and Absolutism}{38}{chapter*.47}%
+\contentsline {chapter}{Why I am an Objectivist about Ethics (And Why You Are, Too) by David Enoch }{40}{chapter*.48}%
+\contentsline {section}{Why Objectivity? Three (Related) Reasons}{40}{section*.49}%
+\contentsline {subsection}{The Spinach Test}{41}{section*.50}%
+\contentsline {subsection}{Disagreement and Deliberation}{42}{section*.51}%
+\contentsline {subsection}{Would It Still Have Been Wrong If...?}{43}{section*.52}%
+\contentsline {section}{What's At Issue?}{44}{section*.53}%
+\contentsline {section}{Why Not?}{46}{section*.54}%
+\contentsline {subsection}{Disagreement}{46}{section*.55}%
+\contentsline {subsection}{But How Do We Know?}{47}{section*.56}%
+\contentsline {subsection}{Who Decides?}{48}{section*.57}%
+\contentsline {section}{Conclusion}{49}{section*.58}%
+\contentsline {chapter}{Part 7: The Tests for Objectivity}{51}{chapter*.59}%
+\contentsline {section}{The Spinach Test For Objectivity}{51}{section*.60}%
+\contentsline {paragraph}{The Spinach Test}{51}{figure.caption.62}%
+\contentsline {section}{The Disagreement Test For Objectivity}{52}{section*.63}%
+\contentsline {section}{The Counterfactual (What-if) Test for Objectivity}{54}{section*.64}%
+\contentsline {paragraph}{Examples of Counterfactuals}{55}{figure.caption.66}%
+\contentsline {chapter}{Part 8: Why Does It Matter? (Moral Skepticism)}{57}{chapter*.67}%
+\contentsline {part}{\partnumberline {III}Divine Command Theory And Natural Law Theory}{60}{part.3}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 9: Morality and Religion}{103}{chapter*.61}%
-\contentsline {section}{Assumption 1: Religious belief is necessary to get people to do their duty}{104}{section*.62}%
-\contentsline {section}{Assumption 2: Morality must have been created by someone/thing and God (or gods) is (are) the best candidate(s) for the job.}{105}{section*.63}%
-\contentsline {section}{Divine Command Theory}{105}{section*.64}%
-\contentsline {section}{Problems for Divine Command Theory}{107}{section*.65}%
-\contentsline {subsection}{The Euthyphro Dilemma}{108}{section*.66}%
-\contentsline {subsection}{The Divine Perfection Argument}{109}{section*.67}%
-\contentsline {chapter}{Part 10: Natural Law Theory}{111}{chapter*.68}%
-\contentsline {section}{What Makes a Good Human Life?}{111}{section*.69}%
-\contentsline {section}{What are some reasons to think this is right?}{112}{section*.70}%
-\contentsline {section}{Problems with Natural Law Theory}{113}{section*.71}%
-\contentsline {subsection}{Human Nature is Animal Nature}{114}{section*.72}%
-\contentsline {subsection}{Human Nature is Innate}{114}{section*.73}%
-\contentsline {subsection}{Human Nature is what all humans have in common}{115}{section*.74}%
-\contentsline {subsection}{If human nature isn’t what’s innate (all/most of us share), then what is it?}{116}{section*.75}%
-\contentsline {section}{Natural Purpose}{117}{section*.76}%
-\contentsline {subsection}{The Efficiency Model}{118}{section*.77}%
-\contentsline {subsection}{The Fitness Model}{118}{section*.78}%
-\contentsline {subsubsection}{Morality = Increases the chances of survival and reproduction}{119}{section*.79}%
-\contentsline {subsubsection}{Immorality = Decreases the chances of survival and reproduction}{119}{section*.80}%
-\contentsline {part}{\partnumberline {IV}Hedonism and Egoism}{121}{part.4}%
+\contentsline {chapter}{Part 9: Morality and Religion}{61}{chapter*.69}%
+\contentsline {section}{Assumption 1: Religious belief is necessary to get people to do their duty}{61}{section*.70}%
+\contentsline {section}{Assumption 2: Morality must have been created by someone/thing and God (or gods) is (are) the best candidate(s) for the job.}{62}{section*.71}%
+\contentsline {section}{Divine Command Theory}{62}{section*.72}%
+\contentsline {section}{Problems for Divine Command Theory}{63}{section*.73}%
+\contentsline {subsection}{The Euthyphro Dilemma}{64}{section*.74}%
+\contentsline {subsection}{The Divine Perfection Argument}{64}{section*.75}%
+\contentsline {chapter}{Part 10: Natural Law Theory}{65}{chapter*.76}%
+\contentsline {section}{What Makes a Good Human Life?}{65}{section*.77}%
+\contentsline {section}{What are some reasons to think this is right?}{65}{section*.78}%
+\contentsline {section}{Problems with Natural Law Theory}{66}{section*.79}%
+\contentsline {subsection}{Human Nature is Animal Nature}{66}{section*.80}%
+\contentsline {subsection}{Human Nature is Innate}{67}{section*.81}%
+\contentsline {subsection}{Human Nature is what all humans have in common}{67}{section*.82}%
+\contentsline {subsection}{If human nature isn’t what’s innate (all/most of us share), then what is it?}{68}{section*.83}%
+\contentsline {section}{Natural Purpose}{68}{section*.84}%
+\contentsline {subsection}{The Efficiency Model}{68}{section*.85}%
+\contentsline {subsection}{The Fitness Model}{69}{section*.86}%
+\contentsline {subsubsection}{Morality = Increases the chances of survival and reproduction}{69}{section*.87}%
+\contentsline {subsubsection}{Immorality = Decreases the chances of survival and reproduction}{69}{section*.88}%
+\contentsline {part}{\partnumberline {IV}Hedonism and Egoism}{71}{part.4}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 11: Hedonism and The Good Life}{122}{chapter*.82}%
-\contentsline {section}{Happiness and intrinsic value}{122}{section*.83}%
-\contentsline {subsection}{Extrinsic vs intrinsic value}{122}{section*.84}%
-\contentsline {section}{Hedonism}{123}{section*.85}%
-\contentsline {subsection}{There are many models for a good life}{125}{section*.86}%
-\contentsline {subsection}{Flexibility}{126}{section*.87}%
-\contentsline {subsection}{Personal authority}{126}{section*.88}%
-\contentsline {subsection}{Misery hampers a good life, happiness improves it}{126}{section*.89}%
-\contentsline {chapter}{Part 12: Ethical Egoism}{128}{chapter*.90}%
-\contentsline {section}{Popular Arguments for Ethical Egoism}{129}{section*.91}%
-\contentsline {subsection}{The Self-Reliance Argument}{130}{section*.92}%
-\contentsline {subsubsection}{Problem one: The First line}{130}{section*.93}%
-\contentsline {subsubsection}{Problem two: The Second Line}{130}{section*.94}%
-\contentsline {subsection}{The Libertarian Argument}{131}{section*.95}%
-\contentsline {subsubsection}{The Problem with this one}{131}{section*.96}%
-\contentsline {subsection}{The Best Argument for Egoism}{131}{section*.97}%
-\contentsline {subsubsection}{The Problem}{132}{section*.98}%
-\contentsline {section}{Problems for Egoism}{133}{section*.99}%
-\contentsline {subsection}{Problem 1: Violates core moral beliefs}{133}{section*.100}%
-\contentsline {subsection}{Problem 2: Egoism can’t allow for the existence of human rights.}{133}{section*.101}%
-\contentsline {section}{Problem 3: Why are my interests the only important ones?}{134}{section*.102}%
-\contentsline {part}{\partnumberline {V}Consequentialism}{136}{part.5}%
+\contentsline {chapter}{Part 11: Hedonism and The Good Life}{72}{chapter*.90}%
+\contentsline {section}{Happiness and intrinsic value}{72}{section*.91}%
+\contentsline {subsection}{Extrinsic vs intrinsic value}{72}{section*.92}%
+\contentsline {section}{Hedonism}{73}{section*.93}%
+\contentsline {subsection}{There are many models for a good life}{74}{section*.94}%
+\contentsline {subsection}{Flexibility}{74}{section*.95}%
+\contentsline {subsection}{Personal authority}{74}{section*.96}%
+\contentsline {subsection}{Misery hampers a good life, happiness improves it}{74}{section*.97}%
+\contentsline {chapter}{Part 12: Ethical Egoism}{75}{chapter*.98}%
+\contentsline {paragraph}{Wells Fraudo}{75}{figure.caption.100}%
+\contentsline {paragraph}{Cheating on a Test}{75}{figure.caption.102}%
+\contentsline {paragraph}{Lie vs Jail}{75}{figure.caption.104}%
+\contentsline {paragraph}{The Panama Papers }{75}{figure.caption.106}%
+\contentsline {section}{Popular Arguments for Ethical Egoism}{76}{section*.107}%
+\contentsline {subsection}{The Self-Reliance Argument}{76}{section*.108}%
+\contentsline {subsubsection}{Problem one: The First line}{76}{section*.109}%
+\contentsline {subsubsection}{Problem two: The Second Line}{76}{section*.110}%
+\contentsline {subsection}{The Libertarian Argument}{76}{section*.111}%
+\contentsline {subsubsection}{The Problem with this one}{77}{section*.112}%
+\contentsline {subsection}{The Best Argument for Egoism}{77}{section*.113}%
+\contentsline {subsubsection}{The Problem}{77}{section*.114}%
+\contentsline {section}{Problems for Egoism}{78}{section*.115}%
+\contentsline {subsection}{Problem 1: Violates core moral beliefs}{78}{section*.116}%
+\contentsline {subsection}{Problem 2: Egoism can’t allow for the existence of human rights.}{78}{section*.117}%
+\contentsline {section}{Problem 3: Why are my interests the only important ones?}{78}{section*.118}%
+\contentsline {paragraph}{Arrow to the Knee}{78}{figure.caption.120}%
+\contentsline {part}{\partnumberline {V}Consequentialism}{80}{part.5}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 13: Consequentialism}{137}{chapter*.104}%
-\contentsline {section}{The main command of Consequentialism}{137}{section*.105}%
-\contentsline {section}{Consequentialism At Work: The Death Penalty and The Trolley Problem}{140}{section*.106}%
-\contentsline {section}{Another Example and a Potential Worry}{143}{section*.107}%
-\contentsline {subsection}{The Origami Frog Killer Argument}{145}{section*.108}%
-\contentsline {chapter}{Part 14: Utilitarianism}{147}{chapter*.109}%
-\contentsline {section}{Reasons to like this theory}{151}{section*.110}%
-\contentsline {subsection}{Reason 1: Impartiality}{151}{section*.111}%
-\contentsline {subsection}{Reason 2: Justification}{152}{section*.112}%
-\contentsline {subsection}{Reason 3: Conflict Resolution}{152}{section*.113}%
-\contentsline {subsection}{Reason 4: Flexibility}{153}{section*.114}%
-\contentsline {subsection}{Reason 5: Moral Community}{154}{section*.115}%
-\contentsline {section}{Problems for Utilitarianism}{154}{section*.116}%
-\contentsline {subsection}{Problem 1: Measuring Well-Being}{155}{section*.117}%
-\contentsline {subsection}{Problem 2: It’s Demanding}{155}{section*.118}%
-\contentsline {subsection}{Problem 3: Impartiality}{156}{section*.119}%
-\contentsline {subsection}{Problem 4: No Intrinsic Wrongness or Rightness}{157}{section*.120}%
-\contentsline {subsection}{Problem 5: The Injustice Problem}{157}{section*.121}%
-\contentsline {subsubsection}{Reply 1: Justice is also intrinsically valuable}{158}{section*.122}%
-\contentsline {subsubsection}{Reply 2: Injustice is never gets the best outcomes}{158}{section*.123}%
-\contentsline {subsubsection}{Reply 3: Sometimes Justice must be sacrificed}{159}{section*.124}%
-\contentsline {subsection}{Porky The Pig Farmer}{159}{section*.125}%
-\contentsline {subsubsection}{The Reply to Porky}{161}{section*.126}%
-\contentsline {subsection}{The Utility Monster Objection}{162}{section*.127}%
-\contentsline {subsection}{The Organ Harvest Problem}{164}{section*.128}%
-\contentsline {chapter}{Part 15: Rule Consequentialism/Utilitarianism}{166}{chapter*.129}%
-\contentsline {section}{How to Use It:}{167}{section*.130}%
-\contentsline {section}{Responses to the various worries:}{168}{section*.131}%
-\contentsline {subsection}{Response to the Injustice Problem}{169}{section*.132}%
-\contentsline {subsection}{Response to the Impartiality Problem}{169}{section*.133}%
-\contentsline {subsection}{Response to the Intrinsic Wrongness Problem}{169}{section*.134}%
-\contentsline {section}{A Problem: Pete The Pervert}{170}{section*.135}%
-\contentsline {chapter}{Part 16: Mohist Consequentialism}{173}{chapter*.136}%
-\contentsline {section}{The Mohist Doctrines}{174}{section*.137}%
-\contentsline {subsection}{Promote the Worthy ad Exalting Unity}{176}{section*.138}%
-\contentsline {subsection}{Inclusive Care}{178}{section*.139}%
-\contentsline {subsection}{Moderation in Use}{182}{section*.140}%
-\contentsline {subsection}{Heaven's Intent}{184}{section*.141}%
-\contentsline {subsection}{Condemning Music/Fatalism}{186}{section*.142}%
-\contentsline {section}{Mohist Conception of `The Good'}{186}{section*.143}%
-\contentsline {subsection}{Material Wealth}{188}{section*.144}%
-\contentsline {subsection}{Large Family}{189}{section*.145}%
-\contentsline {subsection}{Social Order}{189}{section*.146}%
-\contentsline {section}{How Do We Promote These Goods?}{192}{section*.147}%
-\contentsline {part}{\partnumberline {VI}Non-Consequentialism and Kantianism}{195}{part.6}%
+\contentsline {chapter}{Part 13: Consequentialism}{81}{chapter*.122}%
+\contentsline {section}{The main command of Consequentialism}{81}{section*.123}%
+\contentsline {section}{Consequentialism At Work: The Death Penalty and The Trolley Problem}{83}{section*.124}%
+\contentsline {paragraph}{The Trolley Problem}{84}{figure.caption.126}%
+\contentsline {section}{Another Example and a Potential Worry}{84}{section*.127}%
+\contentsline {paragraph}{The Origami Frog Killer}{85}{figure.caption.129}%
+\contentsline {subsection}{The Origami Frog Killer Argument}{85}{section*.130}%
+\contentsline {chapter}{Part 14: Utilitarianism}{87}{chapter*.131}%
+\contentsline {section}{Reasons to like this theory}{89}{section*.132}%
+\contentsline {subsection}{Reason 1: Impartiality}{89}{section*.133}%
+\contentsline {subsection}{Reason 2: Justification}{89}{section*.134}%
+\contentsline {subsection}{Reason 3: Conflict Resolution}{90}{section*.135}%
+\contentsline {subsection}{Reason 4: Flexibility}{90}{section*.136}%
+\contentsline {subsection}{Reason 5: Moral Community}{90}{section*.137}%
+\contentsline {section}{Problems for Utilitarianism}{91}{section*.138}%
+\contentsline {subsection}{Problem 1: Measuring Well-Being}{91}{section*.139}%
+\contentsline {subsection}{Problem 2: It’s Demanding}{91}{section*.140}%
+\contentsline {subsection}{Problem 3: Impartiality}{92}{section*.141}%
+\contentsline {subsection}{Problem 4: No Intrinsic Wrongness or Rightness}{92}{section*.142}%
+\contentsline {subsection}{Problem 5: The Injustice Problem}{92}{section*.143}%
+\contentsline {subsubsection}{Reply 1: Justice is also intrinsically valuable}{93}{section*.144}%
+\contentsline {subsubsection}{Reply 2: Injustice is never gets the best outcomes}{93}{section*.145}%
+\contentsline {subsubsection}{Reply 3: Sometimes Justice must be sacrificed}{93}{section*.146}%
+\contentsline {subsection}{Porky The Pig Farmer}{93}{section*.147}%
+\contentsline {paragraph}{Porky The Pig Farmer}{94}{figure.caption.149}%
+\contentsline {subsubsection}{The Reply to Porky}{95}{section*.150}%
+\contentsline {subsection}{The Utility Monster Objection}{95}{section*.151}%
+\contentsline {paragraph}{Singer's Pipes}{95}{figure.caption.153}%
+\contentsline {subsection}{The Organ Harvest Problem}{96}{section*.154}%
+\contentsline {paragraph}{A Simple Check-Up}{96}{figure.caption.156}%
+\contentsline {chapter}{Part 15: Rule Consequentialism/Utilitarianism}{98}{chapter*.157}%
+\contentsline {section}{How to Use It:}{98}{section*.158}%
+\contentsline {section}{Responses to the various worries:}{99}{section*.159}%
+\contentsline {subsection}{Response to the Injustice Problem}{99}{section*.160}%
+\contentsline {subsection}{Response to the Impartiality Problem}{100}{section*.161}%
+\contentsline {subsection}{Response to the Intrinsic Wrongness Problem}{100}{section*.162}%
+\contentsline {section}{A Problem: Pete The Pervert}{100}{section*.163}%
+\contentsline {chapter}{Part 16: Mohist Consequentialism}{102}{chapter*.164}%
+\contentsline {section}{The Mohist Doctrines}{102}{section*.165}%
+\contentsline {subsection}{Promote the Worthy ad Exalting Unity}{103}{section*.166}%
+\contentsline {subsection}{Inclusive Care}{105}{section*.167}%
+\contentsline {subsection}{Moderation in Use}{107}{section*.168}%
+\contentsline {subsection}{Heaven's Intent}{107}{section*.169}%
+\contentsline {subsection}{Condemning Music/Fatalism}{108}{section*.170}%
+\contentsline {section}{Mohist Conception of `The Good'}{108}{section*.171}%
+\contentsline {subsection}{Material Wealth}{110}{section*.172}%
+\contentsline {subsection}{Large Family}{110}{section*.173}%
+\contentsline {subsection}{Social Order}{110}{section*.174}%
+\contentsline {section}{How Do We Promote These Goods?}{112}{section*.175}%
+\contentsline {part}{\partnumberline {VI}Non-Consequentialism and Kantianism}{114}{part.6}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 17: Kantianism}{196}{chapter*.149}%
-\contentsline {chapter}{Part 18: The Universality Principle}{201}{chapter*.150}%
-\contentsline {section}{Problems for Universalizability}{203}{section*.151}%
-\contentsline {subsection}{The Traffic Jam Problem}{203}{section*.152}%
-\contentsline {subsection}{The Breaking Promises Problem}{204}{section*.153}%
-\contentsline {chapter}{Part 19: The Humanity Principle}{206}{chapter*.154}%
-\contentsline {section}{Means Vs Mere-Means}{207}{section*.155}%
-\contentsline {section}{Problems for Humanity}{209}{section*.156}%
-\contentsline {subsection}{Taxation}{209}{section*.157}%
-\contentsline {subsection}{Lying}{209}{section*.158}%
-\contentsline {subsection}{The Rendering Aid Problem}{211}{section*.159}%
-\contentsline {part}{\partnumberline {VII}Virtue Ethics}{213}{part.7}%
+\contentsline {chapter}{Part 17: Kantianism}{115}{chapter*.177}%
+\contentsline {paragraph}{A Trip to Disneyland}{115}{figure.caption.179}%
+\contentsline {chapter}{Part 18: The Universality Principle}{118}{chapter*.180}%
+\contentsline {section}{Problems for Universalizability}{119}{section*.181}%
+\contentsline {subsection}{The Traffic Jam Problem}{119}{section*.182}%
+\contentsline {subsection}{The Breaking Promises Problem}{119}{section*.183}%
+\contentsline {chapter}{Part 19: The Humanity Principle}{121}{chapter*.184}%
+\contentsline {section}{Means Vs Mere-Means}{121}{section*.185}%
+\contentsline {paragraph}{Smith Tower}{122}{figure.caption.187}%
+\contentsline {section}{Problems for Humanity}{122}{section*.188}%
+\contentsline {subsection}{Taxation}{122}{section*.189}%
+\contentsline {subsection}{Lying}{123}{section*.190}%
+\contentsline {paragraph}{The Ax-Murderer}{123}{figure.caption.192}%
+\contentsline {subsection}{The Rendering Aid Problem}{124}{section*.193}%
+\contentsline {paragraph}{Helping Change a Tire}{124}{figure.caption.195}%
+\contentsline {chapter}{The Moral Status of Bloodbending by Davis Smith}{125}{chapter*.196}%
+\contentsline {section}{Introduction}{125}{section*.197}%
+\contentsline {section}{The Ethical Theories}{126}{section*.198}%
+\contentsline {section}{The Utilitarian Account}{127}{section*.199}%
+\contentsline {section}{The Kantian Account}{128}{section*.200}%
+\contentsline {section}{The Theories Applied to Bloodbending}{130}{section*.201}%
+\contentsline {section}{Conclusion}{134}{section*.202}%
+\contentsline {part}{\partnumberline {VII}Virtue Ethics}{136}{part.7}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 20: Virtue Ethics}{214}{chapter*.161}%
-\contentsline {section}{Why should I want to be a good person?}{216}{section*.162}%
-\contentsline {section}{A Theory of Right Actions}{217}{section*.163}%
-\contentsline {section}{Ethical Pluralism and Virtue Ethics}{218}{section*.164}%
-\contentsline {section}{Moral Understanding}{218}{section*.165}%
-\contentsline {subsection}{1. Emotions tell us what matters}{219}{section*.166}%
-\contentsline {subsection}{2. Emotions can tell us when something is right or wrong}{220}{section*.167}%
-\contentsline {subsection}{3. Emotions give us motivation to do the right thing.}{220}{section*.168}%
-\contentsline {section}{Moral Education and The Nature of Virtue}{220}{section*.169}%
-\contentsline {subsection}{The Nature of Virtue}{221}{section*.170}%
-\contentsline {subsubsection}{The Golden Mean/The Doctrine of the Mean}{222}{section*.171}%
-\contentsline {section}{Problems for Virtue Ethics}{225}{section*.172}%
-\contentsline {subsection}{Choosing Between Virtues}{225}{section*.173}%
-\contentsline {subsection}{Tragic Dilemmas}{226}{section*.174}%
-\contentsline {subsubsection}{A reply (the virtuous person would choose)}{227}{section*.175}%
-\contentsline {subsubsection}{Another reply (that it’s neither)}{228}{section*.176}%
-\contentsline {subsection}{Demandingness}{228}{section*.177}%
-\contentsline {subsubsection}{Two replies}{228}{section*.178}%
-\contentsline {subsection}{Who are these virtuous people?}{229}{section*.179}%
-\contentsline {subsubsection}{Some replies}{229}{section*.180}%
-\contentsline {subsection}{Conflict and contradiction}{230}{section*.181}%
-\contentsline {subsubsection}{Some replies}{231}{section*.182}%
-\contentsline {subsection}{The Priority Problem}{232}{section*.183}%
-\contentsline {subsection}{Euthyphro on Virtue Ethics}{232}{section*.184}%
-\contentsline {chapter}{Part 21: Nahuatl Virtue Ethics}{233}{chapter*.185}%
-\contentsline {section}{Differences in The Metaphilosophies}{234}{section*.186}%
-\contentsline {section}{Similarities in Conclusions and Ethical Thought}{237}{section*.187}%
-\contentsline {subsection}{Aristotle's Eudaimonia and The Tlamatinime's Neltiliztli}{237}{section*.188}%
-\contentsline {subsection}{Tlalticpac is Slippery, Transitory, and Not a Happy Place}{239}{section*.189}%
-\contentsline {subsubsection}{Tlalticpac is Slippery}{239}{section*.190}%
-\contentsline {subsubsection}{Tlalticpac is Transitory}{241}{section*.191}%
-\contentsline {subsubsection}{Tlalticpac is Not A Happy Place}{242}{section*.192}%
-\contentsline {section}{Rootedness and The Good Life}{243}{section*.193}%
-\contentsline {section}{The Virtues and Action Guidance}{245}{section*.194}%
-\contentsline {chapter}{Part 22: Virtue Consequentialism}{249}{chapter*.195}%
-\contentsline {section}{The First Definition of ‘virtue’ for VC}{250}{section*.196}%
-\contentsline {subsection}{Issues with this first pass at a definition}{251}{section*.197}%
-\contentsline {section}{Second Definition}{253}{section*.198}%
-\contentsline {subsection}{A problem for this second attempt}{253}{section*.199}%
-\contentsline {section}{A Third Definition}{254}{section*.200}%
-\contentsline {subsection}{Problems for this third pass}{255}{section*.201}%
-\contentsline {section}{Counterfactualism and Contrastivism}{256}{section*.202}%
-\contentsline {subsection}{Counterfactualism}{256}{section*.203}%
-\contentsline {subsection}{Contrastivism}{258}{section*.204}%
-\contentsline {section}{The Final Definition of Virtues for VC}{260}{section*.205}%
-\contentsline {subsection}{Some Virtues and Examples according to Virtue Consequentialism}{261}{section*.206}%
-\contentsline {part}{\partnumberline {VIII}Applied Ethics: The Abortion Debate}{263}{part.8}%
+\contentsline {chapter}{Part 20: Virtue Ethics}{137}{chapter*.204}%
+\contentsline {paragraph}{The Good-Bad Cop}{137}{figure.caption.206}%
+\contentsline {section}{Why should I want to be a good person?}{138}{section*.207}%
+\contentsline {section}{A Theory of Right Actions}{138}{section*.208}%
+\contentsline {section}{Ethical Pluralism and Virtue Ethics}{139}{section*.209}%
+\contentsline {section}{Moral Understanding}{139}{section*.210}%
+\contentsline {subsection}{1. Emotions tell us what matters}{140}{section*.211}%
+\contentsline {subsection}{2. Emotions can tell us when something is right or wrong}{140}{section*.212}%
+\contentsline {subsection}{3. Emotions give us motivation to do the right thing.}{140}{section*.213}%
+\contentsline {section}{Moral Education and The Nature of Virtue}{140}{section*.214}%
+\contentsline {subsection}{The Nature of Virtue}{141}{section*.215}%
+\contentsline {subsubsection}{The Golden Mean/The Doctrine of the Mean}{141}{section*.216}%
+\contentsline {section}{Problems for Virtue Ethics}{143}{section*.217}%
+\contentsline {subsection}{Choosing Between Virtues}{143}{section*.218}%
+\contentsline {subsection}{Tragic Dilemmas}{143}{section*.219}%
+\contentsline {subsubsection}{A reply (the virtuous person would choose)}{144}{section*.220}%
+\contentsline {subsubsection}{Another reply (that it’s neither)}{144}{section*.221}%
+\contentsline {subsection}{Demandingness}{144}{section*.222}%
+\contentsline {subsubsection}{Two replies}{145}{section*.223}%
+\contentsline {subsection}{Who are these virtuous people?}{145}{section*.224}%
+\contentsline {subsubsection}{Some replies}{145}{section*.225}%
+\contentsline {subsection}{Conflict and contradiction}{146}{section*.226}%
+\contentsline {subsubsection}{Some replies}{146}{section*.227}%
+\contentsline {subsection}{The Priority Problem}{146}{section*.228}%
+\contentsline {subsection}{Euthyphro on Virtue Ethics}{147}{section*.229}%
+\contentsline {chapter}{Part 21: Nahuatl Virtue Ethics}{148}{chapter*.230}%
+\contentsline {section}{Differences in The Metaphilosophies}{148}{section*.231}%
+\contentsline {section}{Similarities in Conclusions and Ethical Thought}{150}{section*.232}%
+\contentsline {subsection}{Aristotle's Eudaimonia and The Tlamatinime's Neltiliztli}{150}{section*.233}%
+\contentsline {subsection}{Tlalticpac is Slippery, Transitory, and Not a Happy Place}{151}{section*.234}%
+\contentsline {subsubsection}{Tlalticpac is Slippery}{151}{section*.235}%
+\contentsline {subsubsection}{Tlalticpac is Transitory}{152}{section*.236}%
+\contentsline {subsubsection}{Tlalticpac is Not A Happy Place}{153}{section*.237}%
+\contentsline {section}{Rootedness and The Good Life}{153}{section*.238}%
+\contentsline {section}{The Virtues and Action Guidance}{154}{section*.239}%
+\contentsline {chapter}{Part 22: Virtue Consequentialism}{157}{chapter*.240}%
+\contentsline {section}{The First Definition of ‘virtue’ for VC}{158}{section*.241}%
+\contentsline {subsection}{Issues with this first pass at a definition}{158}{section*.242}%
+\contentsline {section}{Second Definition}{159}{section*.243}%
+\contentsline {subsection}{A problem for this second attempt}{159}{section*.244}%
+\contentsline {section}{A Third Definition}{160}{section*.245}%
+\contentsline {subsection}{Problems for this third pass}{160}{section*.246}%
+\contentsline {section}{Counterfactualism and Contrastivism}{161}{section*.247}%
+\contentsline {subsection}{Counterfactualism}{161}{section*.248}%
+\contentsline {paragraph}{The Never Broken Wine Glass}{161}{figure.caption.250}%
+\contentsline {subsection}{Contrastivism}{162}{section*.251}%
+\contentsline {paragraph}{Is He Tall?}{162}{figure.caption.253}%
+\contentsline {section}{The Final Definition of Virtues for VC}{163}{section*.254}%
+\contentsline {subsection}{Some Virtues and Examples according to Virtue Consequentialism}{163}{section*.255}%
+\contentsline {part}{\partnumberline {VIII}Applied Ethics: The Abortion Debate}{165}{part.8}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{The Moral and Legal Status of Abortion by Mary Warren}{264}{chapter*.208}%
-\contentsline {section}{Part I}{269}{section*.209}%
-\contentsline {section}{Part II}{276}{section*.210}%
-\contentsline {subsection}{1. On the Definition of “Human”}{276}{section*.211}%
-\contentsline {subsection}{2. Defining the Moral Community}{278}{section*.212}%
-\contentsline {subsection}{3. Fetal Development and the Right to Life}{282}{section*.213}%
-\contentsline {subsection}{4. Potential Personhood and the Right to Life}{285}{section*.214}%
-\contentsline {section}{Postscript on Infanticide, February 26, 1982}{288}{section*.215}%
-\contentsline {chapter}{Part 23: What is an Abortion?}{294}{chapter*.216}%
-\contentsline {subsection}{Is it morally permissible to have an abortion?}{296}{section*.217}%
-\contentsline {subsection}{Framing the Problem}{297}{section*.218}%
-\contentsline {subsection}{The Fundamental Question}{302}{section*.219}%
-\contentsline {chapter}{Part 24: The Abortion Debate (Pro-Choice)}{304}{chapter*.220}%
-\contentsline {section}{Assume That a Fetus is a Person}{304}{section*.221}%
-\contentsline {subsection}{What does this case get us? }{308}{section*.222}%
-\contentsline {subsection}{The Results of the Violinist Case and the Problems}{309}{section*.223}%
-\contentsline {subsubsection}{The Pro-Life Response}{311}{section*.224}%
-\contentsline {subsubsection}{Restricting the Outcome}{312}{section*.225}%
-\contentsline {section}{Prove That a Fetus is Not a Person}{313}{section*.226}%
-\contentsline {section}{Warren's Criteria for Personhood}{317}{section*.227}%
-\contentsline {subsection}{Feature 1: Consciousness}{317}{section*.228}%
-\contentsline {subsubsection}{Is this thing conscious?}{317}{section*.229}%
-\contentsline {subsubsection}{Are we the only conscious things?}{318}{section*.230}%
-\contentsline {subsubsection}{Why does this matter?}{318}{section*.231}%
-\contentsline {subsection}{Feature 2: Reasoning}{319}{section*.232}%
-\contentsline {subsubsection}{Does this thing have reasoning?}{319}{section*.233}%
-\contentsline {subsubsection}{Are we the only reasoning creatures?}{320}{section*.234}%
-\contentsline {subsubsection}{Why does this matter?}{320}{section*.235}%
-\contentsline {subsection}{Feature 3: Self-Motivated Activity}{321}{section*.236}%
-\contentsline {subsubsection}{Is this thing 'free'?}{321}{section*.237}%
-\contentsline {subsubsection}{Are we the only 'free' things?}{322}{section*.238}%
-\contentsline {subsubsection}{Why does this matter?}{323}{section*.239}%
-\contentsline {subsection}{Feature 4: Communication}{324}{section*.240}%
-\contentsline {subsubsection}{Can this thing communicate?}{324}{section*.241}%
-\contentsline {subsubsection}{Are we the only talkers?}{325}{section*.242}%
-\contentsline {subsubsection}{Why does this matter?}{326}{section*.243}%
-\contentsline {subsection}{Feature 5: Self-Awareness}{327}{section*.244}%
-\contentsline {subsubsection}{Is this thing self-aware?}{327}{section*.245}%
-\contentsline {subsubsection}{Are we the only ones self-aware?}{328}{section*.246}%
-\contentsline {subsubsection}{Why does it matter?}{329}{section*.247}%
-\contentsline {subsection}{An Interesting Tangent}{329}{section*.248}%
-\contentsline {subsubsection}{Primates and (some) New-World Monkeys}{330}{section*.249}%
-\contentsline {subsubsection}{Cetaceans}{331}{section*.250}%
-\contentsline {subsubsection}{Extraterrestrials and Advanced AI}{332}{section*.251}%
-\contentsline {chapter}{I Was Once a Fetus by Alexander Pruss}{334}{chapter*.252}%
-\contentsline {section}{INTRODUCTION}{334}{section*.253}%
-\contentsline {section}{1. I WAS ONCE A FETUS}{335}{section*.254}%
-\contentsline {section}{2. IF I WAS A FETUS, IT WOULD HAVE BEEN WRONG TO KILL THAT FETUS}{346}{section*.255}%
-\contentsline {section}{3. IF IT WAS WRONG TO KILL ME WHEN I WAS A FETUS, IT WAS WRONG TO KILL ANYONE WHEN HE IS A FETUS}{352}{section*.256}%
-\contentsline {chapter}{Part 25: The Abortion Debate (Pro-Life)}{354}{chapter*.257}%
-\contentsline {section}{I was once a fetus}{355}{section*.258}%
-\contentsline {section}{If I was a fetus, it would have been wrong to kill that fetus}{357}{section*.259}%
-\contentsline {subsection}{Pruss' way of showing that it's wrong to kill that fetus}{358}{section*.260}%
-\contentsline {subsection}{An Argument Which He Could Have Used}{360}{section*.261}%
-\contentsline {section}{If it was wrong to kill me when I was a fetus, then it was wrong to kill anyone when they were a fetus}{361}{section*.262}%
-\contentsline {section}{But I was wanted!}{364}{section*.263}%
-\contentsline {subsection}{Pruss' Reply}{365}{section*.264}%
-\contentsline {section}{But I didn't endanger my mommy!}{365}{section*.265}%
-\contentsline {subsection}{Pruss' Reply}{365}{section*.266}%
-\contentsline {section}{But I was a healthy fetus!}{366}{section*.267}%
-\contentsline {subsection}{Pruss' Reply}{367}{section*.268}%
-\contentsline {subsubsection}{A Reply to this Reply}{368}{section*.269}%
-\contentsline {part}{\partnumberline {IX}Feminist Ethics}{369}{part.9}%
+\contentsline {chapter}{The Moral and Legal Status of Abortion by Mary Warren}{166}{chapter*.257}%
+\contentsline {section}{Part I}{168}{section*.258}%
+\contentsline {section}{Part II}{171}{section*.259}%
+\contentsline {subsection}{1. On the Definition of “Human”}{172}{section*.260}%
+\contentsline {subsection}{2. Defining the Moral Community}{172}{section*.261}%
+\contentsline {subsection}{3. Fetal Development and the Right to Life}{175}{section*.262}%
+\contentsline {subsection}{4. Potential Personhood and the Right to Life}{176}{section*.263}%
+\contentsline {section}{Postscript on Infanticide, February 26, 1982}{178}{section*.264}%
+\contentsline {chapter}{Part 23: What is an Abortion?}{181}{chapter*.265}%
+\contentsline {subsection}{Is it morally permissible to have an abortion?}{182}{section*.266}%
+\contentsline {subsection}{Framing the Problem}{182}{section*.267}%
+\contentsline {paragraph}{Piano Wires and Dirt Bikes}{185}{figure.caption.269}%
+\contentsline {subsection}{The Fundamental Question}{185}{section*.270}%
+\contentsline {chapter}{Part 24: The Abortion Debate (Pro-Choice)}{186}{chapter*.271}%
+\contentsline {section}{Assume That a Fetus is a Person}{186}{section*.272}%
+\contentsline {paragraph}{The Greatest Violinist}{186}{figure.caption.274}%
+\contentsline {subsection}{What does this case get us? }{188}{section*.275}%
+\contentsline {subsection}{The Results of the Violinist Case and the Problems}{188}{section*.276}%
+\contentsline {paragraph}{A Trip to Europe}{188}{figure.caption.278}%
+\contentsline {subsubsection}{The Pro-Life Response}{189}{section*.279}%
+\contentsline {paragraph}{The Violinist Cult}{190}{figure.caption.281}%
+\contentsline {subsubsection}{Restricting the Outcome}{190}{section*.282}%
+\contentsline {section}{Prove That a Fetus is Not a Person}{190}{section*.283}%
+\contentsline {section}{Warren's Criteria for Personhood}{192}{section*.284}%
+\contentsline {subsection}{Feature 1: Consciousness}{193}{section*.285}%
+\contentsline {subsubsection}{Is this thing conscious?}{193}{section*.286}%
+\contentsline {subsubsection}{Are we the only conscious things?}{193}{section*.287}%
+\contentsline {subsubsection}{Why does this matter?}{193}{section*.288}%
+\contentsline {subsection}{Feature 2: Reasoning}{193}{section*.289}%
+\contentsline {subsubsection}{Does this thing have reasoning?}{194}{section*.290}%
+\contentsline {subsubsection}{Are we the only reasoning creatures?}{194}{section*.291}%
+\contentsline {subsubsection}{Why does this matter?}{194}{section*.292}%
+\contentsline {subsection}{Feature 3: Self-Motivated Activity}{194}{section*.293}%
+\contentsline {subsubsection}{Is this thing `free'?}{195}{section*.294}%
+\contentsline {subsubsection}{Are we the only `free' things?}{195}{section*.295}%
+\contentsline {subsubsection}{Why does this matter?}{196}{section*.296}%
+\contentsline {subsection}{Feature 4: Communication}{196}{section*.297}%
+\contentsline {subsubsection}{Can this thing communicate?}{196}{section*.298}%
+\contentsline {subsubsection}{Are we the only talkers?}{197}{section*.299}%
+\contentsline {subsubsection}{Why does this matter?}{197}{section*.300}%
+\contentsline {subsection}{Feature 5: Self-Awareness}{198}{section*.301}%
+\contentsline {subsubsection}{Is this thing self-aware?}{198}{section*.302}%
+\contentsline {subsubsection}{Are we the only ones self-aware?}{198}{section*.303}%
+\contentsline {subsubsection}{Why does it matter?}{199}{section*.304}%
+\contentsline {subsection}{An Interesting Tangent}{199}{section*.305}%
+\contentsline {subsubsection}{Primates and (some) New-World Monkeys}{199}{section*.306}%
+\contentsline {subsubsection}{Cetaceans}{200}{section*.307}%
+\contentsline {subsubsection}{Extraterrestrials and Advanced AI}{201}{section*.308}%
+\contentsline {chapter}{I Was Once a Fetus by Alexander Pruss}{202}{chapter*.309}%
+\contentsline {section}{INTRODUCTION}{202}{section*.310}%
+\contentsline {section}{1. I WAS ONCE A FETUS}{203}{section*.311}%
+\contentsline {section}{2. IF I WAS A FETUS, IT WOULD HAVE BEEN WRONG TO KILL THAT FETUS}{207}{section*.312}%
+\contentsline {section}{3. IF IT WAS WRONG TO KILL ME WHEN I WAS A FETUS, IT WAS WRONG TO KILL ANYONE WHEN HE IS A FETUS}{210}{section*.313}%
+\contentsline {chapter}{Part 25: The Abortion Debate (Pro-Life)}{212}{chapter*.314}%
+\contentsline {section}{I was once a fetus}{212}{section*.315}%
+\contentsline {section}{If I was a fetus, it would have been wrong to kill that fetus}{214}{section*.316}%
+\contentsline {subsection}{Pruss' way of showing that it's wrong to kill that fetus}{214}{section*.317}%
+\contentsline {subsection}{An Argument Which He Could Have Used}{215}{section*.318}%
+\contentsline {section}{If it was wrong to kill me when I was a fetus, then it was wrong to kill anyone when they were a fetus}{216}{section*.319}%
+\contentsline {section}{But I was wanted!}{217}{section*.320}%
+\contentsline {subsection}{Pruss' Reply}{218}{section*.321}%
+\contentsline {section}{But I didn't endanger my mommy!}{218}{section*.322}%
+\contentsline {subsection}{Pruss' Reply}{218}{section*.323}%
+\contentsline {section}{But I was a healthy fetus!}{218}{section*.324}%
+\contentsline {subsection}{Pruss' Reply}{219}{section*.325}%
+\contentsline {subsubsection}{A Reply to this Reply}{219}{section*.326}%
+\contentsline {part}{\partnumberline {IX}Feminist Ethics}{220}{part.9}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 26: Feminist Ethics}{370}{chapter*.271}%
-\contentsline {section}{The Tenets of Feminist Ethics}{372}{section*.272}%
-\contentsline {subsection}{Tenet 1: The Equality of Men and Women}{373}{section*.273}%
-\contentsline {subsection}{Tenet 2: The Experiences of Women are Vital}{375}{section*.274}%
-\contentsline {subsection}{Tenet 3: Masculine vs Feminine Traits}{376}{section*.275}%
-\contentsline {subsection}{Tenet 4: Feminine Moral Reasoning}{377}{section*.276}%
-\contentsline {subsection}{Against Unification}{379}{section*.277}%
-\contentsline {subsection}{Against Impartiality and Abstraction}{379}{section*.278}%
-\contentsline {chapter}{Part 27: History and The Ethics of Care}{381}{chapter*.279}%
-\contentsline {section}{Woman's Experience}{385}{section*.280}%
-\contentsline {section}{The Ethics of Care}{386}{section*.281}%
-\contentsline {subsection}{But What is Care?}{386}{section*.282}%
-\contentsline {section}{Some Overarching Issues with Feminist Ethics}{389}{section*.283}%
-\contentsline {subsection}{Issue 1: The scope of the moral community}{389}{section*.284}%
-\contentsline {subsection}{Issue 2: The Role of Emotions}{390}{section*.285}%
-\contentsline {subsection}{Issue 3: Bias has its costs}{390}{section*.286}%
-\contentsline {subsection}{Issue 4: Conflicts}{391}{section*.287}%
-\contentsline {subsection}{Issue 5: Uncooperative people}{392}{section*.288}%
-\contentsline {subsection}{Issue 6: Justice and Rights}{393}{section*.289}%
-\contentsline {chapter}{Part 28: Feminist Consequentialism}{394}{chapter*.290}%
-\contentsline {section}{Feminist Historical Opposition to Consequentialism}{395}{section*.291}%
-\contentsline {section}{Naïve VS Sophisticated Utilitarianism}{400}{section*.292}%
-\contentsline {section}{Some Concluding Remarks}{404}{section*.293}%
-\contentsline {part}{\partnumberline {X}Environmental/Intergenerational Ethics}{406}{part.10}%
+\contentsline {chapter}{Part 26: Feminist Ethics}{221}{chapter*.328}%
+\contentsline {section}{The Tenets of Feminist Ethics}{222}{section*.329}%
+\contentsline {subsection}{Tenet 1: The Equality of Men and Women}{223}{section*.330}%
+\contentsline {subsection}{Tenet 2: The Experiences of Women are Vital}{224}{section*.331}%
+\contentsline {subsection}{Tenet 3: Masculine vs Feminine Traits}{224}{section*.332}%
+\contentsline {subsection}{Tenet 4: Feminine Moral Reasoning}{225}{section*.333}%
+\contentsline {subsection}{Against Unification}{226}{section*.334}%
+\contentsline {subsection}{Against Impartiality and Abstraction}{226}{section*.335}%
+\contentsline {chapter}{Part 27: History and The Ethics of Care}{228}{chapter*.336}%
+\contentsline {section}{Woman's Experience}{230}{section*.337}%
+\contentsline {section}{The Ethics of Care}{231}{section*.338}%
+\contentsline {subsection}{But What is Care?}{231}{section*.339}%
+\contentsline {section}{Some Overarching Issues with Feminist Ethics}{232}{section*.340}%
+\contentsline {subsection}{Issue 1: The scope of the moral community}{232}{section*.341}%
+\contentsline {subsection}{Issue 2: The Role of Emotions}{233}{section*.342}%
+\contentsline {subsection}{Issue 3: Bias has its costs}{233}{section*.343}%
+\contentsline {subsection}{Issue 4: Conflicts}{234}{section*.344}%
+\contentsline {subsection}{Issue 5: Uncooperative people}{234}{section*.345}%
+\contentsline {subsection}{Issue 6: Justice and Rights}{234}{section*.346}%
+\contentsline {chapter}{Part 28: Feminist Consequentialism}{236}{chapter*.347}%
+\contentsline {section}{Feminist Historical Opposition to Consequentialism}{236}{section*.348}%
+\contentsline {section}{Naïve VS Sophisticated Utilitarianism}{239}{section*.349}%
+\contentsline {section}{Some Concluding Remarks}{241}{section*.350}%
+\contentsline {part}{\partnumberline {X}Environmental/Intergenerational Ethics}{242}{part.10}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Part 29: Duties to the Environment}{407}{chapter*.295}%
-\contentsline {section}{Animal Life Has Some Value}{409}{section*.296}%
-\contentsline {subsection}{Some Animal Lives Are Worth More Than Others}{411}{section*.297}%
-\contentsline {subsection}{Human life is more valuable than animal life.}{412}{section*.298}%
-\contentsline {section}{Consequences of the Unequal Value Thesis}{414}{section*.299}%
-\contentsline {section}{Can we defend the Unequal Value Thesis?}{416}{section*.300}%
-\contentsline {subsection}{Appeals to God}{417}{section*.301}%
-\contentsline {subsection}{Tu Quoque Fallacy}{418}{section*.302}%
-\contentsline {subsection}{The Richness of Human Lives}{419}{section*.303}%
-\contentsline {section}{Argument from Marginal Cases}{421}{section*.304}%
-\contentsline {subsection}{Why is it OK to eat animals and not marginal humans?}{423}{section*.305}%
-\contentsline {chapter}{Part 30: Duties to Future Generations}{425}{chapter*.306}%
-\contentsline {section}{Intergenerational Justice/Ethics}{426}{section*.307}%
-\contentsline {subsection}{Limiting choices:}{427}{section*.308}%
-\contentsline {subsection}{Unidirectional Benefit:}{429}{section*.309}%
-\contentsline {subsection}{Power to bring them into being:}{431}{section*.310}%
-\contentsline {section}{The Non-Identity Problem}{434}{section*.311}%
-\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{435}{section*.312}%
-\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{437}{section*.313}%
-\contentsline {section}{Two Potential Ways Out (there are problems with each)}{440}{section*.314}%
-\contentsline {subsection}{Averagism}{440}{section*.315}%
-\contentsline {subsection}{Totalism}{442}{section*.316}%
-\contentsline {part}{Appendices}{445}{section*.318}%
+\contentsline {chapter}{Part 29: Duties to the Environment}{243}{chapter*.352}%
+\contentsline {section}{Animal Life Has Some Value}{244}{section*.353}%
+\contentsline {subsection}{Some Animal Lives Are Worth More Than Others}{245}{section*.354}%
+\contentsline {subsection}{Human life is more valuable than animal life.}{246}{section*.355}%
+\contentsline {section}{Consequences of the Unequal Value Thesis}{247}{section*.356}%
+\contentsline {section}{Can we defend the Unequal Value Thesis?}{248}{section*.357}%
+\contentsline {subsection}{Appeals to God}{248}{section*.358}%
+\contentsline {subsection}{Tu Quoque Fallacy}{249}{section*.359}%
+\contentsline {subsection}{The Richness of Human Lives}{249}{section*.360}%
+\contentsline {section}{Argument from Marginal Cases}{250}{section*.361}%
+\contentsline {subsection}{Why is it OK to eat animals and not marginal humans?}{251}{section*.362}%
+\contentsline {chapter}{Part 30: Duties to Future Generations}{253}{chapter*.363}%
+\contentsline {section}{Intergenerational Justice/Ethics}{253}{section*.364}%
+\contentsline {subsection}{Limiting choices:}{254}{section*.365}%
+\contentsline {subsection}{Unidirectional Benefit:}{255}{section*.366}%
+\contentsline {subsection}{Power to bring them into being:}{256}{section*.367}%
+\contentsline {section}{The Non-Identity Problem}{257}{section*.368}%
+\contentsline {subsection}{An action is wrong only if it makes a person (morally relevant being) worse off than otherwise.}{258}{section*.369}%
+\contentsline {subsection}{An action which brings a person into existence such that they couldn’t have been made otherwise and their life is at least marginally better than never being born, can’t have made them worse off than otherwise.}{259}{section*.370}%
+\contentsline {section}{Two Potential Ways Out (there are problems with each)}{260}{section*.371}%
+\contentsline {subsection}{Averagism}{260}{section*.372}%
+\contentsline {subsection}{Totalism}{261}{section*.373}%
+\contentsline {part}{\partnumberline {XI}Moral Anti-Realism}{263}{part.11}%
 \mbox {}\hrulefill \par 
-\contentsline {chapter}{Glossary}{445}{section*.319}%
-\contentsline {chapter}{Bibliography}{458}{appendix*.321}%
+\contentsline {chapter}{Error Theory}{265}{chapter*.375}%
+\contentsline {section}{For Error Theory to be Correct}{266}{section*.376}%
+\contentsline {chapter}{Expressivism}{267}{chapter*.377}%
+\contentsline {section}{Three Concerns for Expressivism:}{268}{section*.378}%
+\contentsline {part}{Appendices}{271}{section*.380}%
+\mbox {}\hrulefill \par 
+\contentsline {chapter}{Glossary}{271}{section*.381}%
+\contentsline {chapter}{Bibliography}{282}{appendix*.383}%

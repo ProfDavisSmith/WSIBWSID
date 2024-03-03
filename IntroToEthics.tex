@@ -1,11 +1,11 @@
-\documentclass[openany,oneside,11pt]{memoir}
-\setstocksize{8in}{5in}
+\documentclass[openany,oneside,17pt]{memoir}
+\setstocksize{11in}{8.5in}
 \settrimmedsize{\stockheight}{\stockwidth}{*}
 \settrims{0pt}{0pt}
-\settypeblocksize{*}{300pt}{1.62}
-\setlrmargins{*}{*}{1}
-\setulmargins{.6in}{*}{*}
-\setheaderspaces{*}{*}{1}
+\settypeblocksize{*}{440pt}{1.62}
+\setlrmargins{*}{3cm}{1}
+\setulmargins{0.6in}{*}{*}
+\setheaderspaces{*}{*}{3}
 \checkandfixthelayout
 \RequirePackage[a-1b]{pdfx}
 
@@ -26,13 +26,15 @@
 \usepackage{xcolor}
 \usepackage{pagecolor}
 %\usepackage[tagged]{accessibility}
-\definecolor{philgreen}{RGB}{0,143,17}
+\definecolor{philgreen}{RGB}{11,56,111}
+%\definecolor{philgreen}{RGB}{0,143,17}
 \definecolor{lyallpink}{RGB}{222,31,149}
 \colorlet{leadbeater}{philgreen}
 \colorlet{dkleadbeater}{philgreen!80!black}
 \colorlet{ltleadbeater}{philgreen!50}
 \colorlet{vltleadbeater}{philgreen!3}
 \DeclareUnicodeCharacter{FE01}{}
+%\DeclareUnicodeCharacter{ ''}{ ``}
 \usepackage{afterpage}
 \usepackage{pdflscape}
 
@@ -68,41 +70,45 @@
 
 
 \begin{document}
-%\midsloppy
-
+%Cover Page
+\begin{textblock*}{5.625in}(0pt,0pt)%
+\noindent\includegraphics*[height=11in, width=8.5in]{images/coverart5.jpg}
+\end{textblock*} 
+\
+\newpage
 % Cover Page
-\thispagestyle{empty}
-\pagecolor{philgreen}\afterpage{\nopagecolor}
+%\thispagestyle{empty}
+%\pagecolor{philgreen}\afterpage{\nopagecolor}
 
 
 
-\noindent \sffamily\fontsize{40pt}{0pt}\selectfont
-      \color{lyallpink}
+%\noindent \sffamily\fontsize{40pt}{0pt}\selectfont
+    %  \color{lyallpink}
 
 \vspace{2in}
 
-      \noindent\textbf{Who }\color{philgreen}\fontsize{25pt}{0pt}\textbf{SHOULD I}\color{lyallpink}\fontsize{40pt}{0pt}\textbf{ Be?}%\vspace{-0.75in}
+    %  \noindent\textbf{Who }\color{philgreen}\fontsize{25pt}{0pt}\textbf{SHOULD I}\color{lyallpink}\fontsize{40pt}{0pt}\textbf{ Be?}%\vspace{-0.75in}
 
       %\noindent\hspace{1.39in}\fadingtext[scale=0.5]{top color=red,bottom color=black}{SHOULD I}%\fontsize{20pt}{0pt}\textbf{SHOULD I}
-	\noindent\hspace{1.39in}\Atwo[\fontsize{25pt}{0pt}\textbf{SHOULD I}]{lyallpink}{black}
+	%\noindent\hspace{1.39in}\Atwo[\fontsize{25pt}{0pt}\textbf{SHOULD I}]{lyallpink}{black}
    
-      \color{black}
-    \noindent  \fontsize{40pt}{0pt}\textbf{What}\color{philgreen}\fontsize{25pt}{0pt}\textbf{ SHOULD I }\color{black}\fontsize{40pt}{0pt}\textbf{Do?}%
-      \color{white}
-      \sffamily
-      \fontsize{20pt}{22pt}\selectfont
+      %\color{black}
+    %\noindent  \fontsize{40pt}{0pt}\textbf{What}\color{philgreen}\fontsize{25pt}{0pt}\textbf{ SHOULD I }\color{black}\fontsize{40pt}{0pt}\textbf{Do?}%
+      %\color{white}
+      %\sffamily
+      %\fontsize{20pt}{22pt}\selectfont
  
- \vspace{1in}
+ %\vspace{1in}
  
-     \textbf{An Introduction to Ethics} 
-\vfill
-\begin{raggedleft}
-      \fontsize{11pt}{14pt}\selectfont
-      \color{black}
-      \textbf{By Davis A. Smith}
-    \end{raggedleft}
-  \hspace*{2cm}
-\color{black} 
+     %\textbf{An Introduction to Ethics} 
+%\vfill
+%\begin{raggedleft}
+    %  \fontsize{11pt}{14pt}\selectfont
+      %\color{black}
+      %\textbf{By Davis A. Smith}
+   % \end{raggedleft}
+  %\hspace*{2cm}
+%\color{black} 
 \newpage
 \input{content}
 \end{document}

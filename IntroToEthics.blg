@@ -1,17 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'IntroToEthics.blg'
-[124] biber-MSWIN64:340> INFO - === 
-[162] Biber.pm:419> INFO - Reading 'IntroToEthics.bcf'
-[310] Biber.pm:979> INFO - Found 35 citekeys in bib section 0
-[326] Biber.pm:4419> INFO - Processing section 0
-[338] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[386] bibtex.pm:1713> INFO - LaTeX decoding ...
-[568] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[794] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[794] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[795] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[795] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[828] bbl.pm:660> INFO - Writing 'IntroToEthics.bbl' with encoding 'UTF-8'
-[847] bbl.pm:763> INFO - Output to IntroToEthics.bbl
-[848] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\davis\AppData\Local\Temp\biber_tmp_otrd\f4d088b3f9f145b5c3058da33afd57d4_10212.utf8, line 7, warning: 84 characters of junk seen at toplevel
-[848] Biber.pm:133> INFO - WARNINGS: 1
+[241] biber-MSWIN64:340> INFO - === 
+[323] Biber.pm:419> INFO - Reading 'IntroToEthics.bcf'
+[695] Biber.pm:979> INFO - Found 51 citekeys in bib section 0
+[716] Biber.pm:4419> INFO - Processing section 0
+[742] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[792] bibtex.pm:1713> INFO - LaTeX decoding ...
+[986] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1359] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1359] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1418] bbl.pm:660> INFO - Writing 'IntroToEthics.bbl' with encoding 'UTF-8'
+[1448] bbl.pm:763> INFO - Output to IntroToEthics.bbl
+[1448] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\davis\AppData\Local\Temp\biber_tmp_xlrt\f4d088b3f9f145b5c3058da33afd57d4_9344.utf8, line 7, warning: 84 characters of junk seen at toplevel
+[1449] Biber.pm:133> INFO - WARNINGS: 1

@@ -262,3 +262,21 @@ reflexive right/.style={->,loop,looseness=7,in=30,out=330}
 
 \IfFileExists{forallxyyc-local.sty}{\usepackage{forallxyyc-local}}{}
 
+\newcommand{\thoughtex}[3]{\begin{tcolorbox}[enhanced,sharp corners=downhill, colframe={leadbeater},colback={vltleadbeater}
+]%\begin{center}
+\paragraph{#1}
+%\end{center}
+	
+\setlength{\intextsep}{-10pt}%
+\setlength{\columnsep}{15pt}%
+	 \begin{wrapfigure}{r}{0cm}
+	 \includegraphics[width=2cm]{images/#3}% 
+	 \end{wrapfigure}
+#2
+
+\end{tcolorbox}}
+
+\newenvironment{logicianboxe}{%
+  \begin{tcolorbox}[sharp corners=downhill, colframe={leadbeater},colback={vltleadbeater}]
+     }{
+\end{tcolorbox}}
