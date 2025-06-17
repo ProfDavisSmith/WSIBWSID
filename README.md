@@ -2,7 +2,8 @@
 
 ## Description
 *Who Should I Be? What Should I Do?* by Davis Smith is, for the most part, an original introduction to ethics textbook suitible for Philosophy courses on that subject. It consists of ten (10) Modules (sections or parts), each of which handles a different position one might have in Ethics. This text provides the standard ethical theories covered in a typical intro class but also covers Feminist Consequentialism, Nahuatl Virtue Ethics, Mohism, and Virtue Consequentialism. 
-The topics covered are, in order:
+The topics covered are, in order: <img style="background-image;width:425px;height:550px" url="https://github.com/ProfDavisSmith/WSIBWSID/blob/main/IntroToEthics.pdf" src="https://github.com/ProfDavisSmith/WSIBWSID/blob/main/images/coverart5.jpg" align="right"/><BR right/>
+1. What is Philosophy?
 
 1. Moral Relativism
 2. Moral Objectivism
