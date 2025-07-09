@@ -1,0 +1,455 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.7)  9 JUL 2025 11:11
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./errorcheck.tex
+(errorcheck.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/03/10 v3.8.3b configurable book, report, article do
+cument class
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/xpatch\xpatch.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-06-09 L3 programming layer (loader) 
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/l3packages/xparse\xpar
+se.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+))
+\onelineskip=\skip49
+\lxvchars=\skip50
+\xlvchars=\skip51
+\@memcnta=\count277
+\c@@memmarkcntra=\count278
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/memoir\mem14.clo
+File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count279
+\memPD=\dimen148
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count280
+\c@part=\count281
+\c@chapter=\count282
+\c@section=\count283
+\c@subsection=\count284
+\c@subsubsection=\count285
+\c@paragraph=\count286
+\c@subparagraph=\count287
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count288
+\c@@ppsaveapp=\count289
+\ragrparindent=\dimen149
+\everylistparindent=\dimen150
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks17
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen151
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count290
+\c@poemline=\count291
+\c@modulo@vs=\count292
+\c@memfvsline=\count293
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen152
+\c@verse=\count294
+\c@chrsinstr=\count295
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count296
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box53
+\extrarowheight=\dimen154
+\NC@list=\toks18
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box54
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/tools\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count297
+\TX@ftn=\toks19
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count298
+\@cmidlb=\count299
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count300
+\@lastruleclass=\count301
+\@thisrulewidth=\dimen172
+)
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count302
+\@linestogo=\count303
+\@cellstogo=\count304
+\@cellsincolumn=\count305
+\crtok=\toks20
+\@mincolumnwidth=\dimen173
+\c@newflo@tctr=\count306
+\mem@margin@floatbox=\box55
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen174
+\c@@contsubnum=\count307
+\m@mscap@capbox=\box56
+\m@mscap@fbox=\box57
+\sidecapsep=\dimen175
+\sidecapwidth=\dimen176
+\m@m@tempdima=\dimen177
+\m@mscapraise=\dimen178
+\sidecapraise=\dimen179
+\m@mscapmainwidth=\dimen180
+\m@mscaplkern=\dimen181
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7017.
+LaTeX Info: Redefining \emph on input line 7025.
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count308
+)
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen182
+\cftbooknumwidth=\dimen183
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen184
+\c@maxsecnumdepth=\count309
+\bibindent=\dimen185
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 8108.
+LaTeX Info: Redefining \flushbottom on input line 8112.
+\glossarycolsep=\dimen186
+\glossaryrule=\dimen187
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count310
+\m@m@h=\dimen188
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count311
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count312
+
+patch 2 for \immediateaddtocontents failed
+\c@pagenoteshadow=\count313
+\mem@pn@lastkern=\skip181
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+\verbatimindent=\skip182
+\verbatim@out=\write3
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/base\shortvrb.sty
+Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
+)
+)
+\bvboxsep=\skip183
+\c@memfbvline=\count314
+\c@bvlinectr=\count315
+\bvnumlength=\skip184
+\fb@frw=\dimen189
+\fb@frh=\dimen190
+\FrameRule=\dimen191
+\FrameSep=\dimen192
+\c@cp@cntr=\count316
+\c@ism@mctr=\count317
+\c@xsm@mctr=\count318
+\c@csm@mctr=\count319
+\c@ksm@mctr=\count320
+\c@xksm@mctr=\count321
+\c@cksm@mctr=\count322
+\c@msm@mctr=\count323
+\c@xmsm@mctr=\count324
+\c@cmsm@mctr=\count325
+\c@bsm@mctr=\count326
+\c@workm@mctr=\count327
+\c@sheetsequence=\count328
+\c@lastsheet=\count329
+\c@lastpage=\count330
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/textcase\textcase.sty
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count331
+\c@lofdepth=\count332
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count333
+\c@lotdepth=\count334
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+) (C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/lipsum\lipsum.sty
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count335
+\l__lipsum_a_int=\count336
+\l__lipsum_b_int=\count337
+
+(C:\Users\davis\AppData\Local\Programs\MiKTeX2\tex/latex/lipsum\lipsum.ltd.tex)
+)
+No file errorcheck.aux.
+\openout1 = `errorcheck.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+
+
+[1
+
+
+{C:/Users/davis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2] (errorcheck.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5583 strings out of 468220
+ 91899 string characters out of 5432386
+ 604388 words of memory out of 5000000
+ 34103 multiletter control sequences out of 15000+600000
+ 628679 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 85i,11n,93p,424b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/davis/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX2/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/davis/AppData/Local/Programs/MiKTeX2/fonts/type1
+/public/amsfonts/cm/cmsl12.pfb>
+Output written on errorcheck.pdf (2 pages, 43477 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
